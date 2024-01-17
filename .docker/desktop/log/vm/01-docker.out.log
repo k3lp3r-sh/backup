@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:11.484094740Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-10-30T11:12:11.520748993Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:28.449070127Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-10-30T11:16:28.471030633Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+[2023-10-30T11:24:31.421646714Z][01-docker.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:30:45.470300612Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-10-30T11:30:45.492362294Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:48.343360668Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-10-30T12:16:48.364275773Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:57.404831076Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-10-30T18:22:57.421677847Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:21.456496359Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-10-31T14:21:21.481978874Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+[2023-10-31T18:19:41.677306273Z][01-docker.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:17.395433376Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-01T10:49:17.416239704Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+[2023-11-01T12:12:02.811346347Z][01-docker.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:20.492047879Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-02T11:16:20.514027696Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:22.329850678Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-02T14:21:22.349119059Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+[2023-11-02T17:26:29.028031284Z][01-docker.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:58:59.324788781Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-08T08:58:59.343472486Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:34.329814007Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-14T06:44:34.350294697Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:04.368693451Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-15T10:03:04.398068668Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+[2023-11-15T11:38:21.035025322Z][01-docker.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T12:53:07.099256099Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-15T12:53:07.122848459Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+[2023-11-15T12:59:07.653773925Z][01-docker.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T13:04:09.283041021Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-15T13:04:09.308075543Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:54.457917243Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-16T09:41:54.475459649Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:40.398585511Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-16T11:01:40.420039828Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:48.820845005Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-18T16:49:48.833645963Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+[2023-11-18T16:55:55.053753803Z][01-docker.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T17:17:10.335271086Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-18T17:17:10.349556017Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+[2023-11-18T17:24:55.645166492Z][01-docker.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:55.542408359Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-23T09:32:55.571691239Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:28.370884030Z][01-docker.out][I] ⇨ http server started on /run/guest-services/lifecycle-server.sock
+[2023-11-23T10:41:28.397234695Z][01-docker.out][I] ⇨ http server started on /run/guest-services/docker-api-proxy-control.sock

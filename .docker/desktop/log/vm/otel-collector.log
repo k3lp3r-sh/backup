@@ -1,0 +1,297 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:15.351148031Z][otel-collector][I] 2023/10/30 11:12:15 manager: initializing
+[2023-10-30T11:12:15.351153767Z][otel-collector][I] 2023/10/30 11:12:15 manager: waiting for initial config
+[2023-10-30T11:12:15.354259125Z][otel-collector][I] 2023/10/30 11:12:15 manager: starting collector: public[true] desktop[false]
+[2023-10-30T11:12:15.354576203Z][otel-collector][I] 2023/10/30 11:12:15 collector starting
+[2023-10-30T11:12:15.362108493Z][otel-collector][I] 2023-10-30T11:12:15.361Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-10-30T11:12:15.364443118Z][otel-collector][I] 2023-10-30T11:12:15.364Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-10-30T11:12:15.364538257Z][otel-collector][I] 2023-10-30T11:12:15.364Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-10-30T11:12:15.364723980Z][otel-collector][I] 2023-10-30T11:12:15.364Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-10-30T11:12:15.367574101Z][otel-collector][I] 2023-10-30T11:12:15.367Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-10-30T11:12:15.368473717Z][otel-collector][I] 2023-10-30T11:12:15.368Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-10-30T11:12:15.369549482Z][otel-collector][I] 2023-10-30T11:12:15.368Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-10-30T11:12:15.369649266Z][otel-collector][I] 2023-10-30T11:12:15.369Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-10-30T11:12:15.369699844Z][otel-collector][I] 2023-10-30T11:12:15.369Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:29.992543456Z][otel-collector][I] 2023/10/30 11:16:29 manager: initializing
+[2023-10-30T11:16:29.992552652Z][otel-collector][I] 2023/10/30 11:16:29 manager: waiting for initial config
+[2023-10-30T11:16:29.995330782Z][otel-collector][I] 2023/10/30 11:16:29 manager: starting collector: public[true] desktop[false]
+[2023-10-30T11:16:29.995615492Z][otel-collector][I] 2023/10/30 11:16:29 collector starting
+[2023-10-30T11:16:29.999972910Z][otel-collector][I] 2023-10-30T11:16:29.999Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-10-30T11:16:30.000753599Z][otel-collector][I] 2023-10-30T11:16:30.000Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-10-30T11:16:30.001405727Z][otel-collector][I] 2023-10-30T11:16:30.001Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-10-30T11:16:30.001736479Z][otel-collector][I] 2023-10-30T11:16:30.001Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-10-30T11:16:30.002915390Z][otel-collector][I] 2023-10-30T11:16:30.002Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-10-30T11:16:30.004077671Z][otel-collector][I] 2023-10-30T11:16:30.003Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-10-30T11:16:30.004252538Z][otel-collector][I] 2023-10-30T11:16:30.004Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-10-30T11:16:30.004468845Z][otel-collector][I] 2023-10-30T11:16:30.004Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-10-30T11:16:30.004508449Z][otel-collector][I] 2023-10-30T11:16:30.004Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-10-30T11:24:31.475734266Z][otel-collector][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:30:46.910665501Z][otel-collector][I] 2023/10/30 11:30:46 manager: initializing
+[2023-10-30T11:30:46.910678070Z][otel-collector][I] 2023/10/30 11:30:46 manager: waiting for initial config
+[2023-10-30T11:30:46.915492926Z][otel-collector][I] 2023/10/30 11:30:46 manager: starting collector: public[true] desktop[false]
+[2023-10-30T11:30:46.916120920Z][otel-collector][I] 2023/10/30 11:30:46 collector starting
+[2023-10-30T11:30:46.920892900Z][otel-collector][I] 2023-10-30T11:30:46.920Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-10-30T11:30:46.921363472Z][otel-collector][I] 2023-10-30T11:30:46.921Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-10-30T11:30:46.921510995Z][otel-collector][I] 2023-10-30T11:30:46.921Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-10-30T11:30:46.922186524Z][otel-collector][I] 2023-10-30T11:30:46.922Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-10-30T11:30:46.922666372Z][otel-collector][I] 2023-10-30T11:30:46.922Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-10-30T11:30:46.923387362Z][otel-collector][I] 2023-10-30T11:30:46.923Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-10-30T11:30:46.924656242Z][otel-collector][I] 2023-10-30T11:30:46.923Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-10-30T11:30:46.924696405Z][otel-collector][I] 2023-10-30T11:30:46.924Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-10-30T11:30:46.924749743Z][otel-collector][I] 2023-10-30T11:30:46.924Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:49.656889082Z][otel-collector][I] 2023/10/30 12:16:49 manager: initializing
+[2023-10-30T12:16:49.656907506Z][otel-collector][I] 2023/10/30 12:16:49 manager: waiting for initial config
+[2023-10-30T12:16:49.660767841Z][otel-collector][I] 2023/10/30 12:16:49 manager: starting collector: public[true] desktop[false]
+[2023-10-30T12:16:49.661319826Z][otel-collector][I] 2023/10/30 12:16:49 collector starting
+[2023-10-30T12:16:49.666676895Z][otel-collector][I] 2023-10-30T12:16:49.665Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-10-30T12:16:49.667585303Z][otel-collector][I] 2023-10-30T12:16:49.667Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-10-30T12:16:49.667589031Z][otel-collector][I] 2023-10-30T12:16:49.667Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-10-30T12:16:49.668550986Z][otel-collector][I] 2023-10-30T12:16:49.668Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-10-30T12:16:49.669401651Z][otel-collector][I] 2023-10-30T12:16:49.669Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-10-30T12:16:49.670402675Z][otel-collector][I] 2023-10-30T12:16:49.670Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-10-30T12:16:49.671145617Z][otel-collector][I] 2023-10-30T12:16:49.670Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-10-30T12:16:49.671217835Z][otel-collector][I] 2023-10-30T12:16:49.671Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-10-30T12:16:49.671249545Z][otel-collector][I] 2023-10-30T12:16:49.671Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:58.800752177Z][otel-collector][I] 2023/10/30 18:22:58 manager: initializing
+[2023-10-30T18:22:58.800760270Z][otel-collector][I] 2023/10/30 18:22:58 manager: waiting for initial config
+[2023-10-30T18:22:58.804319982Z][otel-collector][I] 2023/10/30 18:22:58 manager: starting collector: public[true] desktop[false]
+[2023-10-30T18:22:58.804625205Z][otel-collector][I] 2023/10/30 18:22:58 collector starting
+[2023-10-30T18:22:58.810408725Z][otel-collector][I] 2023-10-30T18:22:58.809Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-10-30T18:22:58.811415283Z][otel-collector][I] 2023-10-30T18:22:58.811Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-10-30T18:22:58.811604269Z][otel-collector][I] 2023-10-30T18:22:58.811Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-10-30T18:22:58.811774142Z][otel-collector][I] 2023-10-30T18:22:58.811Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-10-30T18:22:58.812154288Z][otel-collector][I] 2023-10-30T18:22:58.812Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-10-30T18:22:58.812770734Z][otel-collector][I] 2023-10-30T18:22:58.812Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-10-30T18:22:58.813821804Z][otel-collector][I] 2023-10-30T18:22:58.812Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-10-30T18:22:58.813861466Z][otel-collector][I] 2023-10-30T18:22:58.813Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-10-30T18:22:58.813911027Z][otel-collector][I] 2023-10-30T18:22:58.813Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:23.768940219Z][otel-collector][I] 2023/10/31 14:21:23 manager: initializing
+[2023-10-31T14:21:23.768978324Z][otel-collector][I] 2023/10/31 14:21:23 manager: waiting for initial config
+[2023-10-31T14:21:23.780021346Z][otel-collector][I] 2023/10/31 14:21:23 manager: starting collector: public[true] desktop[false]
+[2023-10-31T14:21:23.780389281Z][otel-collector][I] 2023/10/31 14:21:23 collector starting
+[2023-10-31T14:21:23.785411719Z][otel-collector][I] 2023-10-31T14:21:23.784Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-10-31T14:21:23.786489962Z][otel-collector][I] 2023-10-31T14:21:23.786Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-10-31T14:21:23.786741150Z][otel-collector][I] 2023-10-31T14:21:23.786Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-10-31T14:21:23.787829145Z][otel-collector][I] 2023-10-31T14:21:23.787Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-10-31T14:21:23.788170048Z][otel-collector][I] 2023-10-31T14:21:23.788Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-10-31T14:21:23.788682227Z][otel-collector][I] 2023-10-31T14:21:23.788Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-10-31T14:21:23.789584681Z][otel-collector][I] 2023-10-31T14:21:23.788Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-10-31T14:21:23.789630623Z][otel-collector][I] 2023-10-31T14:21:23.789Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-10-31T14:21:23.789648174Z][otel-collector][I] 2023-10-31T14:21:23.789Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-10-31T18:19:41.683420389Z][otel-collector][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:18.821812612Z][otel-collector][I] 2023/11/01 10:49:18 manager: initializing
+[2023-11-01T10:49:18.821844504Z][otel-collector][I] 2023/11/01 10:49:18 manager: waiting for initial config
+[2023-11-01T10:49:18.824574603Z][otel-collector][I] 2023/11/01 10:49:18 manager: starting collector: public[true] desktop[false]
+[2023-11-01T10:49:18.825025965Z][otel-collector][I] 2023/11/01 10:49:18 collector starting
+[2023-11-01T10:49:18.830943828Z][otel-collector][I] 2023-11-01T10:49:18.830Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-01T10:49:18.831861739Z][otel-collector][I] 2023-11-01T10:49:18.831Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-01T10:49:18.832036826Z][otel-collector][I] 2023-11-01T10:49:18.831Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-01T10:49:18.832301471Z][otel-collector][I] 2023-11-01T10:49:18.832Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-01T10:49:18.832914957Z][otel-collector][I] 2023-11-01T10:49:18.832Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-01T10:49:18.833538454Z][otel-collector][I] 2023-11-01T10:49:18.833Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-01T10:49:18.833826693Z][otel-collector][I] 2023-11-01T10:49:18.833Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-01T10:49:18.833901176Z][otel-collector][I] 2023-11-01T10:49:18.833Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-01T10:49:18.833944334Z][otel-collector][I] 2023-11-01T10:49:18.833Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-11-01T12:12:02.817820431Z][otel-collector][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:21.959705255Z][otel-collector][I] 2023/11/02 11:16:21 manager: initializing
+[2023-11-02T11:16:21.959791071Z][otel-collector][I] 2023/11/02 11:16:21 manager: waiting for initial config
+[2023-11-02T11:16:21.964967992Z][otel-collector][I] 2023/11/02 11:16:21 manager: starting collector: public[true] desktop[false]
+[2023-11-02T11:16:21.965652680Z][otel-collector][I] 2023/11/02 11:16:21 collector starting
+[2023-11-02T11:16:21.970947326Z][otel-collector][I] 2023-11-02T11:16:21.970Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-02T11:16:21.971898585Z][otel-collector][I] 2023-11-02T11:16:21.971Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-02T11:16:21.971975573Z][otel-collector][I] 2023-11-02T11:16:21.971Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-02T11:16:21.972141945Z][otel-collector][I] 2023-11-02T11:16:21.972Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-02T11:16:21.972587564Z][otel-collector][I] 2023-11-02T11:16:21.972Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-02T11:16:21.973510180Z][otel-collector][I] 2023-11-02T11:16:21.973Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-02T11:16:21.974969304Z][otel-collector][I] 2023-11-02T11:16:21.973Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-02T11:16:21.975104982Z][otel-collector][I] 2023-11-02T11:16:21.975Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-02T11:16:21.975166949Z][otel-collector][I] 2023-11-02T11:16:21.975Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:23.413929066Z][otel-collector][I] 2023/11/02 14:21:23 manager: initializing
+[2023-11-02T14:21:23.413932876Z][otel-collector][I] 2023/11/02 14:21:23 manager: waiting for initial config
+[2023-11-02T14:21:23.417789144Z][otel-collector][I] 2023/11/02 14:21:23 manager: starting collector: public[true] desktop[false]
+[2023-11-02T14:21:23.418104437Z][otel-collector][I] 2023/11/02 14:21:23 collector starting
+[2023-11-02T14:21:23.423231419Z][otel-collector][I] 2023-11-02T14:21:23.422Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-02T14:21:23.423751511Z][otel-collector][I] 2023-11-02T14:21:23.423Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-02T14:21:23.423840494Z][otel-collector][I] 2023-11-02T14:21:23.423Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-02T14:21:23.424627175Z][otel-collector][I] 2023-11-02T14:21:23.424Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-02T14:21:23.426521447Z][otel-collector][I] 2023-11-02T14:21:23.426Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-02T14:21:23.426980237Z][otel-collector][I] 2023-11-02T14:21:23.426Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-02T14:21:23.427676459Z][otel-collector][I] 2023-11-02T14:21:23.426Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-02T14:21:23.427742420Z][otel-collector][I] 2023-11-02T14:21:23.427Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-02T14:21:23.427769287Z][otel-collector][I] 2023-11-02T14:21:23.427Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-11-02T17:26:29.037880889Z][otel-collector][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:59:00.964348242Z][otel-collector][I] 2023/11/08 08:59:00 manager: initializing
+[2023-11-08T08:59:00.964360762Z][otel-collector][I] 2023/11/08 08:59:00 manager: waiting for initial config
+[2023-11-08T08:59:00.969127102Z][otel-collector][I] 2023/11/08 08:59:00 manager: starting collector: public[true] desktop[false]
+[2023-11-08T08:59:00.969593956Z][otel-collector][I] 2023/11/08 08:59:00 collector starting
+[2023-11-08T08:59:00.974666117Z][otel-collector][I] 2023-11-08T08:59:00.973Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-08T08:59:00.976080291Z][otel-collector][I] 2023-11-08T08:59:00.975Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-08T08:59:00.976107658Z][otel-collector][I] 2023-11-08T08:59:00.976Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-08T08:59:00.976457397Z][otel-collector][I] 2023-11-08T08:59:00.976Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-08T08:59:00.977627138Z][otel-collector][I] 2023-11-08T08:59:00.977Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-08T08:59:00.978378701Z][otel-collector][I] 2023-11-08T08:59:00.978Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-08T08:59:00.978744350Z][otel-collector][I] 2023-11-08T08:59:00.978Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-08T08:59:00.978874099Z][otel-collector][I] 2023-11-08T08:59:00.978Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-08T08:59:00.978940666Z][otel-collector][I] 2023-11-08T08:59:00.978Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:35.572779722Z][otel-collector][I] 2023/11/14 06:44:35 manager: initializing
+[2023-11-14T06:44:35.572788190Z][otel-collector][I] 2023/11/14 06:44:35 manager: waiting for initial config
+[2023-11-14T06:44:35.576520468Z][otel-collector][I] 2023/11/14 06:44:35 manager: starting collector: public[true] desktop[false]
+[2023-11-14T06:44:35.576846657Z][otel-collector][I] 2023/11/14 06:44:35 collector starting
+[2023-11-14T06:44:35.581988343Z][otel-collector][I] 2023-11-14T06:44:35.581Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-14T06:44:35.582964744Z][otel-collector][I] 2023-11-14T06:44:35.582Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-14T06:44:35.583165347Z][otel-collector][I] 2023-11-14T06:44:35.583Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-14T06:44:35.583318204Z][otel-collector][I] 2023-11-14T06:44:35.583Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-14T06:44:35.583989403Z][otel-collector][I] 2023-11-14T06:44:35.583Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-14T06:44:35.584841754Z][otel-collector][I] 2023-11-14T06:44:35.584Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-14T06:44:35.585560032Z][otel-collector][I] 2023-11-14T06:44:35.584Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-14T06:44:35.585607444Z][otel-collector][I] 2023-11-14T06:44:35.585Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-14T06:44:35.585642667Z][otel-collector][I] 2023-11-14T06:44:35.585Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-11-14T06:44:38.189404379Z][otel-collector][I] 2023-11-14T06:44:38.189Z	info	TracesExporter	{"kind": "exporter", "data_type": "traces", "name": "logging/public", "resource spans": 3, "spans": 3}
+[2023-11-14T06:46:24.845688336Z][otel-collector][I] 2023-11-14T06:46:24.845Z	info	TracesExporter	{"kind": "exporter", "data_type": "traces", "name": "logging/public", "resource spans": 2, "spans": 2}
+[2023-11-14T06:46:26.450565672Z][otel-collector][I] 2023-11-14T06:46:26.450Z	info	TracesExporter	{"kind": "exporter", "data_type": "traces", "name": "logging/public", "resource spans": 1, "spans": 1}
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:06.131493927Z][otel-collector][I] 2023/11/15 10:03:06 manager: initializing
+[2023-11-15T10:03:06.131500646Z][otel-collector][I] 2023/11/15 10:03:06 manager: waiting for initial config
+[2023-11-15T10:03:06.134422770Z][otel-collector][I] 2023/11/15 10:03:06 manager: starting collector: public[true] desktop[false]
+[2023-11-15T10:03:06.134774928Z][otel-collector][I] 2023/11/15 10:03:06 collector starting
+[2023-11-15T10:03:06.140676446Z][otel-collector][I] 2023-11-15T10:03:06.139Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-15T10:03:06.141447034Z][otel-collector][I] 2023-11-15T10:03:06.141Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-15T10:03:06.141599853Z][otel-collector][I] 2023-11-15T10:03:06.141Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-15T10:03:06.141795325Z][otel-collector][I] 2023-11-15T10:03:06.141Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-15T10:03:06.142509295Z][otel-collector][I] 2023-11-15T10:03:06.142Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-15T10:03:06.142955421Z][otel-collector][I] 2023-11-15T10:03:06.142Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-15T10:03:06.142962614Z][otel-collector][I] 2023-11-15T10:03:06.142Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-15T10:03:06.143022820Z][otel-collector][I] 2023-11-15T10:03:06.142Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-15T10:03:06.143042897Z][otel-collector][I] 2023-11-15T10:03:06.143Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-11-15T10:03:06.743975624Z][otel-collector][I] 2023-11-15T10:03:06.743Z	info	TracesExporter	{"kind": "exporter", "data_type": "traces", "name": "logging/public", "resource spans": 4, "spans": 4}
+[2023-11-15T10:04:03.340320245Z][otel-collector][I] 2023-11-15T10:04:03.340Z	info	TracesExporter	{"kind": "exporter", "data_type": "traces", "name": "logging/public", "resource spans": 1, "spans": 1}
+[2023-11-15T10:08:29.029412912Z][otel-collector][I] 2023-11-15T10:08:29.029Z	info	TracesExporter	{"kind": "exporter", "data_type": "traces", "name": "logging/public", "resource spans": 3, "spans": 3}
+[2023-11-15T11:33:16.075273794Z][otel-collector][I] 2023-11-15T11:33:16.074Z	info	TracesExporter	{"kind": "exporter", "data_type": "traces", "name": "logging/public", "resource spans": 1, "spans": 1}
+[2023-11-15T11:38:21.032439290Z][otel-collector][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T12:53:02.452095171Z][otel-collector][I] 2023/11/15 12:53:02 manager: initializing
+[2023-11-15T12:53:02.452101637Z][otel-collector][I] 2023/11/15 12:53:02 manager: waiting for initial config
+[2023-11-15T12:53:02.454316769Z][otel-collector][I] 2023/11/15 12:53:02 manager: starting collector: public[true] desktop[false]
+[2023-11-15T12:53:02.454351874Z][otel-collector][I] 2023/11/15 12:53:02 collector starting
+[2023-11-15T12:53:02.457274036Z][otel-collector][I] 2023-11-15T12:53:02.456Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-15T12:53:02.457513859Z][otel-collector][I] 2023-11-15T12:53:02.457Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-15T12:53:02.457623482Z][otel-collector][I] 2023-11-15T12:53:02.457Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-15T12:53:02.457706174Z][otel-collector][I] 2023-11-15T12:53:02.457Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-15T12:53:02.458517252Z][otel-collector][I] 2023-11-15T12:53:02.458Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-15T12:53:02.459317500Z][otel-collector][I] 2023-11-15T12:53:02.459Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-15T12:53:02.459322877Z][otel-collector][I] 2023-11-15T12:53:02.459Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-15T12:53:02.459434116Z][otel-collector][I] 2023-11-15T12:53:02.459Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-15T12:53:02.459472907Z][otel-collector][I] 2023-11-15T12:53:02.459Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-11-15T12:53:03.060418506Z][otel-collector][I] 2023-11-15T12:53:03.060Z	info	TracesExporter	{"kind": "exporter", "data_type": "traces", "name": "logging/public", "resource spans": 2, "spans": 2}
+[2023-11-15T12:59:07.660084998Z][otel-collector][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T13:04:11.150865111Z][otel-collector][I] 2023/11/15 13:04:11 manager: initializing
+[2023-11-15T13:04:11.150881747Z][otel-collector][I] 2023/11/15 13:04:11 manager: waiting for initial config
+[2023-11-15T13:04:11.152666550Z][otel-collector][I] 2023/11/15 13:04:11 manager: starting collector: public[true] desktop[false]
+[2023-11-15T13:04:11.152787965Z][otel-collector][I] 2023/11/15 13:04:11 collector starting
+[2023-11-15T13:04:11.156417959Z][otel-collector][I] 2023-11-15T13:04:11.156Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-15T13:04:11.157131471Z][otel-collector][I] 2023-11-15T13:04:11.157Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-15T13:04:11.157227745Z][otel-collector][I] 2023-11-15T13:04:11.157Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-15T13:04:11.157365221Z][otel-collector][I] 2023-11-15T13:04:11.157Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-15T13:04:11.157677201Z][otel-collector][I] 2023-11-15T13:04:11.157Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-15T13:04:11.158171498Z][otel-collector][I] 2023-11-15T13:04:11.158Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-15T13:04:11.158470397Z][otel-collector][I] 2023-11-15T13:04:11.158Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-15T13:04:11.158541207Z][otel-collector][I] 2023-11-15T13:04:11.158Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-15T13:04:11.158579335Z][otel-collector][I] 2023-11-15T13:04:11.158Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-11-15T13:04:11.358031678Z][otel-collector][I] 2023-11-15T13:04:11.357Z	info	TracesExporter	{"kind": "exporter", "data_type": "traces", "name": "logging/public", "resource spans": 4, "spans": 4}
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:55.662163028Z][otel-collector][I] 2023/11/16 09:41:55 manager: initializing
+[2023-11-16T09:41:55.662169651Z][otel-collector][I] 2023/11/16 09:41:55 manager: waiting for initial config
+[2023-11-16T09:41:55.665912749Z][otel-collector][I] 2023/11/16 09:41:55 manager: starting collector: public[true] desktop[false]
+[2023-11-16T09:41:55.666267131Z][otel-collector][I] 2023/11/16 09:41:55 collector starting
+[2023-11-16T09:41:55.672795664Z][otel-collector][I] 2023-11-16T09:41:55.671Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-16T09:41:55.673894963Z][otel-collector][I] 2023-11-16T09:41:55.673Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-16T09:41:55.674339069Z][otel-collector][I] 2023-11-16T09:41:55.673Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-16T09:41:55.674472683Z][otel-collector][I] 2023-11-16T09:41:55.674Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-16T09:41:55.675666211Z][otel-collector][I] 2023-11-16T09:41:55.675Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-16T09:41:55.676148386Z][otel-collector][I] 2023-11-16T09:41:55.676Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-16T09:41:55.676928132Z][otel-collector][I] 2023-11-16T09:41:55.676Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-16T09:41:55.677011790Z][otel-collector][I] 2023-11-16T09:41:55.676Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-16T09:41:55.677046445Z][otel-collector][I] 2023-11-16T09:41:55.677Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:41.871540048Z][otel-collector][I] 2023/11/16 11:01:41 manager: initializing
+[2023-11-16T11:01:41.871547976Z][otel-collector][I] 2023/11/16 11:01:41 manager: waiting for initial config
+[2023-11-16T11:01:41.873096393Z][otel-collector][I] 2023/11/16 11:01:41 manager: starting collector: public[true] desktop[false]
+[2023-11-16T11:01:41.873214558Z][otel-collector][I] 2023/11/16 11:01:41 collector starting
+[2023-11-16T11:01:41.876386752Z][otel-collector][I] 2023-11-16T11:01:41.876Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-16T11:01:41.876720744Z][otel-collector][I] 2023-11-16T11:01:41.876Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-16T11:01:41.876790475Z][otel-collector][I] 2023-11-16T11:01:41.876Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-16T11:01:41.876943088Z][otel-collector][I] 2023-11-16T11:01:41.876Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-16T11:01:41.877350680Z][otel-collector][I] 2023-11-16T11:01:41.877Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-16T11:01:41.877852048Z][otel-collector][I] 2023-11-16T11:01:41.877Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-16T11:01:41.878190642Z][otel-collector][I] 2023-11-16T11:01:41.877Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-16T11:01:41.878264796Z][otel-collector][I] 2023-11-16T11:01:41.878Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-16T11:01:41.878295642Z][otel-collector][I] 2023-11-16T11:01:41.878Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:48.314642053Z][otel-collector][I] 2023/11/18 16:49:48 manager: initializing
+[2023-11-18T16:49:48.314673290Z][otel-collector][I] 2023/11/18 16:49:48 manager: waiting for initial config
+[2023-11-18T16:49:48.319010924Z][otel-collector][I] 2023/11/18 16:49:48 manager: starting collector: public[true] desktop[false]
+[2023-11-18T16:49:48.319423425Z][otel-collector][I] 2023/11/18 16:49:48 collector starting
+[2023-11-18T16:49:48.325549730Z][otel-collector][I] 2023-11-18T16:49:48.324Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-18T16:49:48.326320461Z][otel-collector][I] 2023-11-18T16:49:48.326Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-18T16:49:48.326388857Z][otel-collector][I] 2023-11-18T16:49:48.326Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-18T16:49:48.327165889Z][otel-collector][I] 2023-11-18T16:49:48.327Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-18T16:49:48.327427827Z][otel-collector][I] 2023-11-18T16:49:48.327Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-18T16:49:48.327973663Z][otel-collector][I] 2023-11-18T16:49:48.327Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-18T16:49:48.328938743Z][otel-collector][I] 2023-11-18T16:49:48.327Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-18T16:49:48.329017046Z][otel-collector][I] 2023-11-18T16:49:48.328Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-18T16:49:48.329050109Z][otel-collector][I] 2023-11-18T16:49:48.329Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-11-18T16:55:55.053789732Z][otel-collector][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T17:17:21.247501168Z][otel-collector][I] 2023/11/18 17:17:21 manager: initializing
+[2023-11-18T17:17:21.247512425Z][otel-collector][I] 2023/11/18 17:17:21 manager: waiting for initial config
+[2023-11-18T17:17:21.250283085Z][otel-collector][I] 2023/11/18 17:17:21 manager: starting collector: public[true] desktop[false]
+[2023-11-18T17:17:21.250397882Z][otel-collector][I] 2023/11/18 17:17:21 collector starting
+[2023-11-18T17:17:21.257081721Z][otel-collector][I] 2023-11-18T17:17:21.256Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-18T17:17:21.257532314Z][otel-collector][I] 2023-11-18T17:17:21.257Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-18T17:17:21.257725085Z][otel-collector][I] 2023-11-18T17:17:21.257Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-18T17:17:21.258040985Z][otel-collector][I] 2023-11-18T17:17:21.257Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-18T17:17:21.258662472Z][otel-collector][I] 2023-11-18T17:17:21.258Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-18T17:17:21.259258233Z][otel-collector][I] 2023-11-18T17:17:21.259Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-18T17:17:21.259691817Z][otel-collector][I] 2023-11-18T17:17:21.259Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-18T17:17:21.259821615Z][otel-collector][I] 2023-11-18T17:17:21.259Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-18T17:17:21.259870069Z][otel-collector][I] 2023-11-18T17:17:21.259Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+[2023-11-18T17:24:55.649900102Z][otel-collector][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:56.595594623Z][otel-collector][I] 2023/11/23 09:32:56 manager: initializing
+[2023-11-23T09:32:56.595604575Z][otel-collector][I] 2023/11/23 09:32:56 manager: waiting for initial config
+[2023-11-23T09:32:56.602970351Z][otel-collector][I] 2023/11/23 09:32:56 manager: starting collector: public[true] desktop[false]
+[2023-11-23T09:32:56.603507621Z][otel-collector][I] 2023/11/23 09:32:56 collector starting
+[2023-11-23T09:32:56.609866698Z][otel-collector][I] 2023-11-23T09:32:56.609Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-23T09:32:56.610469613Z][otel-collector][I] 2023-11-23T09:32:56.610Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-23T09:32:56.610701410Z][otel-collector][I] 2023-11-23T09:32:56.610Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-23T09:32:56.610886590Z][otel-collector][I] 2023-11-23T09:32:56.610Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-23T09:32:56.611669903Z][otel-collector][I] 2023-11-23T09:32:56.611Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-23T09:32:56.612664912Z][otel-collector][I] 2023-11-23T09:32:56.612Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-23T09:32:56.613796854Z][otel-collector][I] 2023-11-23T09:32:56.612Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-23T09:32:56.613921319Z][otel-collector][I] 2023-11-23T09:32:56.613Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-23T09:32:56.613979456Z][otel-collector][I] 2023-11-23T09:32:56.613Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:29.603999966Z][otel-collector][I] 2023/11/23 10:41:29 manager: initializing
+[2023-11-23T10:41:29.604018751Z][otel-collector][I] 2023/11/23 10:41:29 manager: waiting for initial config
+[2023-11-23T10:41:29.609246109Z][otel-collector][I] 2023/11/23 10:41:29 manager: starting collector: public[true] desktop[false]
+[2023-11-23T10:41:29.609615253Z][otel-collector][I] 2023/11/23 10:41:29 collector starting
+[2023-11-23T10:41:29.617331047Z][otel-collector][I] 2023-11-23T10:41:29.616Z	info	service@v0.87.0/telemetry.go:84	Setting up own telemetry...
+[2023-11-23T10:41:29.617706446Z][otel-collector][I] 2023-11-23T10:41:29.617Z	info	service@v0.87.0/telemetry.go:201	Serving Prometheus metrics	{"address": ":8888", "level": "Basic"}
+[2023-11-23T10:41:29.618130476Z][otel-collector][I] 2023-11-23T10:41:29.617Z	info	exporter@v0.87.0/exporter.go:275	Development component. May change in the future.	{"kind": "exporter", "data_type": "traces", "name": "pinata/public"}
+[2023-11-23T10:41:29.618187395Z][otel-collector][I] 2023-11-23T10:41:29.618Z	info	exporter@v0.87.0/exporter.go:275	Deprecated component. Will be removed in future releases.	{"kind": "exporter", "data_type": "traces", "name": "logging/public"}
+[2023-11-23T10:41:29.618851529Z][otel-collector][I] 2023-11-23T10:41:29.618Z	info	processor@v0.87.0/processor.go:289	Development component. May change in the future.	{"kind": "processor", "name": "compose_project_key", "pipeline": "traces/public"}
+[2023-11-23T10:41:29.619477644Z][otel-collector][I] 2023-11-23T10:41:29.619Z	info	service@v0.87.0/service.go:143	Starting /otelcol-docker-desktop...	{"Version": "0.1.0", "NumCPU": 20}
+[2023-11-23T10:41:29.619918173Z][otel-collector][I] 2023-11-23T10:41:29.619Z	info	extensions/extensions.go:33	Starting extensions...
+[2023-11-23T10:41:29.620014146Z][otel-collector][I] 2023-11-23T10:41:29.619Z	info	otlpreceiver@v0.87.0/otlp.go:83	Starting GRPC server	{"kind": "receiver", "name": "otlp/public", "data_type": "traces", "endpoint": "/run/guest-services/otel-public.otlp.grpc.sock"}
+[2023-11-23T10:41:29.620053715Z][otel-collector][I] 2023-11-23T10:41:29.620Z	info	service@v0.87.0/service.go:169	Everything is ready. Begin running and processing data.

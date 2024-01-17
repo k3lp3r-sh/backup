@@ -1,0 +1,19 @@
+2023-11-15T10:33:02.967Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-15T10:33:02.971Z info 	[HTTP] 200: GET /features
+2023-11-15T10:43:02.967Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-15T10:43:02.971Z info 	[HTTP] 200: GET /features
+2023-11-15T10:53:02.967Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-15T10:53:02.971Z info 	[HTTP] 200: GET /features
+2023-11-15T11:03:02.967Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-15T11:03:02.970Z info 	[HTTP] 200: GET /features
+2023-11-15T11:13:02.967Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-15T11:13:02.970Z info 	[HTTP] 200: GET /features
+2023-11-15T11:13:30.329Z info 	[SSE] Received: { type: 'extension_store_reloaded' }
+2023-11-15T11:13:30.345Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2023-11-15T11:13:30.345Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2023-11-15T11:13:30.346Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2023-11-15T11:13:30.347Z info 	[HTTP] 200: GET /store/unpublished
+2023-11-15T11:13:30.347Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2023-11-15T11:13:30.359Z info 	[HTTP] 200: GET /store
+2023-11-15T11:23:02.967Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-15T11:23:02.970Z info 	[HTTP] 200: GET /features

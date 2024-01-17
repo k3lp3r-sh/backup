@@ -1,0 +1,739 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Sun Nov 21 22:49:29 2021 GMT by CPAN::Checksums (v2.13)
+$cksum = {
+  'Alien-AntTweakBar-0.03.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'f42636f9b65be0154cbb918815cda725',
+    'mtime' => '2014-07-30',
+    'sha256' => '0a14a6d7798b6a1099ebf85694b74ce48d1408cc783c6c1680271e484b7fbfc2',
+    'size' => 1802
+  },
+  'Alien-AntTweakBar-0.03.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'f5581b22b0c3e6cd1b040e3163988b9e',
+    'md5-ungz' => '196292d60373f3fdfa75363bedd0652d',
+    'mtime' => '2014-07-30',
+    'sha256' => '9b64ca2812b811dd1b0f2a23ab09805c59959df2fb2cf3981180309f7bebb51e',
+    'sha256-ungz' => 'b63e70c7891d0f140f1acc0005272df1a966055a9a367ac04b43fd3a8975dc64',
+    'size' => 13802
+  },
+  'Alien-libgeos-3.7.3.4.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '1144c31172580b4149d3cca92ffbf178',
+    'mtime' => '2020-01-31',
+    'sha256' => 'bfb70a57f9db15e9457a99105e053018d0ed6d32356095741f20d7c00b3cb1d6',
+    'size' => 1047
+  },
+  'Alien-libgeos-3.7.3.4.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '4d537493072afb6477db4d047ae233ed',
+    'md5-ungz' => 'd0057b9340ac35cfea459916aa441a8f',
+    'mtime' => '2020-01-31',
+    'sha256' => '51f4325927f8ad09e80deb2d3135d7ca1a9597c05bf0a812ce13594f0d9496d4',
+    'sha256-ungz' => '269fd6642aa743047a132a55be94adfdcb659b01b30c90b7bcf6b47a0ef3c420',
+    'size' => 1717
+  },
+  'AntTweakBar-0.05.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'f75eecef0ebdc60327abc9bb408412fc',
+    'mtime' => '2014-09-06',
+    'sha256' => 'a61758e62868db9215f63ce01435357ceb28bd852344514b710592d3e2954f6b',
+    'size' => 1639
+  },
+  'AntTweakBar-0.05.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '8d858c6c7e89d4e9940293469565efe6',
+    'md5-ungz' => '8e8c0517378cd55bf14bcfceb14fb631',
+    'mtime' => '2014-09-06',
+    'sha256' => '96530c92a5748c0d47006a04801646346660b3923cd264c16c69028c98d385de',
+    'sha256-ungz' => '89187dae78a7fb39a5633be405c7f528c56e9f0c1ba76994516593c23253e43a',
+    'size' => 322630
+  },
+  'CPP-geos-3.7.2.0.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '83064d195f1340bcbb6dddd5535be83f',
+    'mtime' => '2019-08-12',
+    'sha256' => '3a80c0d4f95ca5a969236a9d1ffbcc74bbcfefd787d09fce66e8fab06e968de8',
+    'size' => 1292
+  },
+  'CPP-geos-3.7.2.0.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '9365ec9acfa35eb7fd31ee204700a88f',
+    'md5-ungz' => 'de1d141f96c5163df50e48d1c0dc2a09',
+    'mtime' => '2019-08-12',
+    'sha256' => '061bb570304bdc77f9013200f8b67234f9017aaa343280973f8c1433eabc628b',
+    'sha256-ungz' => 'c7df3e99ec1b319f6ca4b5cd44ed83616e880ec5636b1feeecab3da6a89e24df',
+    'size' => 4324
+  },
+  'CPP-geos-3.7.3.1.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '39b1a05571ee1ab768133fb4dab279f3',
+    'mtime' => '2019-11-01',
+    'sha256' => '91b81e553f15f02f8fa5f194fa9bee1f65a5aa3ddcfe3465c90a0415dbec3d37',
+    'size' => 1294
+  },
+  'CPP-geos-3.7.3.1.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '146b7748ff6312efd237d3728ce356af',
+    'md5-ungz' => '33e5b47a2311979724eb5348532a64dc',
+    'mtime' => '2019-11-01',
+    'sha256' => '4917570d1584c16485f92c654a19bf0747a3fb2b7e3d6285aa688cdac73ef7df',
+    'sha256-ungz' => '748a556fadac1bb0514b65ed6ce2680b7a10f0288484d1a923882f0213935823',
+    'size' => 4365
+  },
+  'Data-DynamicValidator-0.05.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '5645b987492a5f355f2c8d25ac585db7',
+    'mtime' => '2017-08-10',
+    'sha256' => 'e0c1cc03133aa78d569a699d1aa1cd2e1ab2c9bd9da8d6a60b4182a56d3faaa8',
+    'size' => 1477
+  },
+  'Data-DynamicValidator-0.05.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '64c8a70abdbfc9ee4449c93c34858870',
+    'md5-ungz' => '66d7de931e0c32a42f99e03bcaf567fb',
+    'mtime' => '2017-08-10',
+    'sha256' => '5e6abde2d6f9366d2920dcecfe76ae061e56db706bc301ba6ab8ccd8370416ba',
+    'sha256-ungz' => '1aa83199260533d5886baedb305b780ec7f3f9da075ba7e6a56cb840f4b23e8c',
+    'size' => 22276
+  },
+  'Exception-Backtrace-1.0.0.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '0d7492e8dd67bab6f5419b6039e75fb3',
+    'mtime' => '2020-03-16',
+    'sha256' => '23d97a4f17638724598062a1115b1504b4cbc211961d0d7fca7920d204b19648',
+    'size' => 1538
+  },
+  'Exception-Backtrace-1.0.0.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'be30842fe1c0c7e6a18d7aa0f9b5e17e',
+    'md5-ungz' => 'fe580352b2692f59e0360ca3fafb99ae',
+    'mtime' => '2020-03-16',
+    'sha256' => 'b11886ba72d056ec347469e3514f3fe2544f777c7029f76eb95a90a61d9c8136',
+    'sha256-ungz' => '457636232bfb9799c4305b62ba58d6f012c2e6b8a8d7964c0eb7b02c05d919bd',
+    'size' => 27207
+  },
+  'Exception-Backtrace-1.0.1.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'a3a689ba1e9c6666634ec4a4846641f2',
+    'mtime' => '2020-03-24',
+    'sha256' => '4c8eabe4311fafea636c4b6dd75cc938db89800341f733453f994eae191e110d',
+    'size' => 1571
+  },
+  'Exception-Backtrace-1.0.1.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'f243d90661ffbcb73594319c26304e7a',
+    'md5-ungz' => '3f007848e0721cb3fd7f2e38ca7ab814',
+    'mtime' => '2020-03-24',
+    'sha256' => 'ba7c55807664c1fee620b57614922754e84439c7bfa7e04fc3b98ac0ca3f6bd9',
+    'sha256-ungz' => '957eb7aa32a1ede12453a01af6698ef9cc702b96e7abafc8cdd3261574f3df3f',
+    'size' => 17985
+  },
+  'Exception-Backtrace-1.0.10.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '4120424d77324d430f78601451d69a19',
+    'mtime' => '2020-11-24',
+    'sha256' => '05dc6715ab762d4d4a632c30111dcc1127deb7e7781de26f724a4dccb98ed36e',
+    'size' => 1720
+  },
+  'Exception-Backtrace-1.0.10.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '791223f37542fbaf3f110f071fafe172',
+    'md5-ungz' => 'a77cdc34b9fed7eabfb01cc473512b5a',
+    'mtime' => '2020-11-24',
+    'sha256' => 'eb24f9c8cff876d081f9b1c7f1fd2fe575ea29c3e1c77e58cee872bb1a58760f',
+    'sha256-ungz' => '50d7b9709b34910d7a8811e983e715d059e67e1b3bb58d87c4b965aa9ce33ca5',
+    'size' => 22868
+  },
+  'Exception-Backtrace-1.0.2.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '0ccae856694d204ee8aa71fc851c2632',
+    'mtime' => '2020-04-02',
+    'sha256' => 'cab1ecbeb72baa8fc874a40219c92229948744f395f79ac8fe3621b9f1893681',
+    'size' => 1571
+  },
+  'Exception-Backtrace-1.0.2.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '40ae5660a6dadaea3a1822d0b8ea6f88',
+    'md5-ungz' => '0bbc3f42087406dc76d8b1b62048f2d9',
+    'mtime' => '2020-04-02',
+    'sha256' => 'a85fc0cb30dc38816739d050a449fdee07aa83dee8018d6b41d9da28e6fe41b6',
+    'sha256-ungz' => '004243032d7c0536556188cd4d46e966f5f19df6ba718c6d60a63ec9f1511b91',
+    'size' => 18540
+  },
+  'Exception-Backtrace-1.0.4.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '859c7200dd03395b0bc7a39b4c570dd8',
+    'mtime' => '2020-06-22',
+    'sha256' => '46d1e7b18dab909e5c121e2466db10334c6c281d109b386d42ca3dc8df3363c5',
+    'size' => 1568
+  },
+  'Exception-Backtrace-1.0.4.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '6f7d32be6e04b2e9eda4c55bc1dc2ff8',
+    'md5-ungz' => '2be09724da729a9f83267f30a846d8e3',
+    'mtime' => '2020-06-22',
+    'sha256' => '6425eae4468f041f2bb7dc041aea33a96d41a720b4092c8be68157e410d7a648',
+    'sha256-ungz' => 'c4a5d00082bb7572e7569a3aec90184246da142c106520b640e697d0fd0a026d',
+    'size' => 29143
+  },
+  'Exception-Backtrace-1.0.5.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '4f3c105fb61267b1dfcaf7e99b1445f9',
+    'mtime' => '2020-06-22',
+    'sha256' => '9379973577b24e7a7b5e8230c70e8bdf952826520635b6bc175f0871cb84fb03',
+    'size' => 1568
+  },
+  'Exception-Backtrace-1.0.5.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'd8d9c4e9dbb3782e91ab5b5c5e2d7bb9',
+    'md5-ungz' => 'ae141a031210c74395e3ff0791b061bd',
+    'mtime' => '2020-06-22',
+    'sha256' => '92ce7b2b6f89e337ad42ee6e8ba49ee8ee30c5f0277a648fd298d5c4b74c0093',
+    'sha256-ungz' => '5abad4ec2ea7a0d1e8c0fcef07f8f7a46ee03a6cb4fca8f50ea3a52e9e98bf34',
+    'size' => 29428
+  },
+  'Exception-Backtrace-1.0.6.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '56c81ceccd42b7ef63f837794eda9740',
+    'mtime' => '2020-06-27',
+    'sha256' => '82f01d61e6d8869c6b625ecbdc60f067bc590be62ee9a9801d6ef641ed222e8e',
+    'size' => 1568
+  },
+  'Exception-Backtrace-1.0.6.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'a700f58492ed2fb8a11f729d8ccc459b',
+    'md5-ungz' => '122afda41bc9d49914c5353db8296806',
+    'mtime' => '2020-06-27',
+    'sha256' => '9f622648e5dc685f7fbe40eadf15f811815a3a6ca97e57fcb778e95d39400f94',
+    'sha256-ungz' => '2dcee6c37941ab5f4d32da372685fa30315be213fd52af2a396fe114b7d65b80',
+    'size' => 29459
+  },
+  'Exception-Backtrace-1.0.7.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'c07cfea75bf7a44bc8e31e37c6a27303',
+    'mtime' => '2020-06-29',
+    'sha256' => '98b6bb00e31e0db081c66cd4845f80297bc478eb248b19056c76026836132c55',
+    'size' => 1568
+  },
+  'Exception-Backtrace-1.0.7.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'f01c950f9e852c4fcf59efe4da5ff659',
+    'md5-ungz' => 'c88cdfa6ced0c621970e3c9d9dc0c65a',
+    'mtime' => '2020-06-29',
+    'sha256' => 'ec6555c05d044c1fe1b7de02b35774874056d6a2f18a32f095c3ff0d8d7678a7',
+    'sha256-ungz' => '5e61d6ec3e53c296a3b25d2542b16deddf6e365a7fe8cd108da214983807c80f',
+    'size' => 29533
+  },
+  'Exception-Backtrace-1.0.8.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '7125d3e430b8ce102da784bb60f75577',
+    'mtime' => '2020-07-01',
+    'sha256' => 'af3c860a820ca9dc72c5d0db327d0a47d37711264943c83e22e1c3332af02ca1',
+    'size' => 1568
+  },
+  'Exception-Backtrace-1.0.8.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '86fbc791c9784f3a12672c9622dba711',
+    'md5-ungz' => '2fdc20c4d6fb7f7b7fa1f45c68863dae',
+    'mtime' => '2020-07-01',
+    'sha256' => '82592bc34032e1e4f18896474f9351927605e99c0d712d853d452b0af72b33d7',
+    'sha256-ungz' => 'd71d178fb7327246e3ea45560f6ea7c5f7c057a0f89a3745f208010572046b88',
+    'size' => 31010
+  },
+  'Exception-Backtrace-1.0.9.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '6235c7cf456e5d6b5e39807606ffd122',
+    'mtime' => '2020-07-30',
+    'sha256' => 'ef9b8f372e859c418986dfd8dc8503563b9303770f6325ed7d509aebd669cf92',
+    'size' => 1568
+  },
+  'Exception-Backtrace-1.0.9.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '7160d18e5cb878efb719e5a1de62c985',
+    'md5-ungz' => '8496bb40bfdea350d75f9e6f9eabb933',
+    'mtime' => '2020-07-30',
+    'sha256' => '4bd0a918375851bbb5d21bb6f2bb52f621e3efb6903038839c10f24685bdcacd',
+    'sha256-ungz' => '844400ceb2d89ec519d5eb283ea3171cebe1cf594b15b8df70aa855b777667c4',
+    'size' => 31396
+  },
+  'Font-FreeType-0.13.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'c9721e765ca176311dabf6a618e739f2',
+    'mtime' => '2019-10-19',
+    'sha256' => '8d24b1fba7147e3b680deb736b232efe7243b81cce79ba289cfd3be29e9cf7ce',
+    'size' => 1197
+  },
+  'Font-FreeType-0.13.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '05064b3573860345005f7e5396910269',
+    'md5-ungz' => '81c0d9e143435444eb2af7884eac6753',
+    'mtime' => '2019-10-19',
+    'sha256' => '27878820fd88d97d634031151868cf9fa2e5426ce4c3de84db8af772511ee7d2',
+    'sha256-ungz' => 'b9c0f6f7caa9e2a823a79b8f3c26eb54fd44830f08e307c779106daa2a1b5478',
+    'size' => 238686
+  },
+  'Font-FreeType-0.14.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '7ad186e52e70e35625c4c34f3cc3a292',
+    'mtime' => '2020-05-11',
+    'sha256' => '89d7eeebf4a75be90583207e231876b3d20671a8ab5986b4d1e77722f3467ec7',
+    'size' => 1197
+  },
+  'Font-FreeType-0.14.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '5bee137098e14bcfffcd6c9b74e4b0ca',
+    'md5-ungz' => 'e2a563ac05f2afdf15a61631157a4a72',
+    'mtime' => '2020-05-11',
+    'sha256' => '8d9e0387656b949dc8b912566b5d0a4a02bb8e3e0f5aa83fe18d7e84328056f2',
+    'sha256-ungz' => '944c4c314b927c4022f50de6e84ebddf0acc1c269e4d9b7530a809d74bcc8c5f',
+    'size' => 239171
+  },
+  'Font-FreeType-0.15.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '2250762b781978292b5eaffb4ac8c700',
+    'mtime' => '2020-05-11',
+    'sha256' => 'e22c25d310672b20b793762c8920a25f86a23548bcb4f6fe68c73780cc62d8a0',
+    'size' => 1197
+  },
+  'Font-FreeType-0.15.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '4a1a4fa16881b7d89c97693d4ae416f6',
+    'md5-ungz' => '54f68ee01da687f421406fc52540b40c',
+    'mtime' => '2020-05-11',
+    'sha256' => 'fce3842c9b4f5d18192ed316a712d1a85be21a5266365adfc982489f5e1054e1',
+    'sha256-ungz' => 'a1e2f4e1e582163f1a1a00214fd55ca1de619505b6c6907d8e00d24ad682a162',
+    'size' => 239177
+  },
+  'Font-FreeType-0.16.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'de699fc72318e21fb08c22d0665b8a61',
+    'mtime' => '2020-05-12',
+    'sha256' => '3d6ffc2931d9cbdab4f2ac85f583effdbd58f93717ab08379cb00f9b4b962401',
+    'size' => 1197
+  },
+  'Font-FreeType-0.16.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '01b17b1844c7369084288bb6c70b9021',
+    'md5-ungz' => '2789fe9f6a37bba76772b4c50485160e',
+    'mtime' => '2020-05-12',
+    'sha256' => 'b689fe2fa8c890abcfe1a257916a8bedd0806b7c295f1ac70be7b284e31598f3',
+    'sha256-ungz' => '2d08b7b6812390f082d607c4f63557f930c8dbb480b4073cbe8af073f0463b48',
+    'size' => 239211
+  },
+  'GDB-bt-0.01.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '8484b33f66294faf1a805171e69e7137',
+    'mtime' => '2020-08-21',
+    'sha256' => '32d3cb804e27758177b5464583f2f6f6a5ef1fe456d1bcc895fc33c282c3946f',
+    'size' => 992
+  },
+  'GDB-bt-0.01.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '19d621e148421328edb68c22d4793524',
+    'md5-ungz' => 'a0235f64d0d1578354a5df2b901b17ad',
+    'mtime' => '2020-08-21',
+    'sha256' => '55d32140ae4995372604edd00da6dc4de5f8f1bb0b2e35aa145e9afa7cc4a5d2',
+    'sha256-ungz' => 'd2136e996d737e8daa80f1d782fa69142800edf37ed6fa198189d09857899271',
+    'size' => 4088
+  },
+  'Geo-Geos-1.0.3.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '76dcf00e460dd427f4175c1834547940',
+    'mtime' => '2020-01-25',
+    'sha256' => 'fb76ce297fb5acc96d0c7a29197e208dca7237a826c28556f708293ffcfadfd8',
+    'size' => 1528
+  },
+  'Geo-Geos-1.0.3.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '93d432be38c3912813b0d2facf1210b7',
+    'md5-ungz' => '4340bef63fe72b7a11077cb1bbb53bee',
+    'mtime' => '2020-01-25',
+    'sha256' => 'a2e747053a2cd6df99c4c953aa05d746cd8dd2272ccbbcf32edc7a954e07d3e5',
+    'sha256-ungz' => '7e6a388adeb4ad31e14b456c7e377028e883a3cd0af543f750aba6603c75434a',
+    'size' => 64185
+  },
+  'Geo-Geos-1.0.6.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '97119328eb21cd4f7f55b23e057c326c',
+    'mtime' => '2020-06-22',
+    'sha256' => '29b5b2ad4f6cdd20970f3d056e00ae6aa3c32d6048e1f47d690cf3ef283fe013',
+    'size' => 1516
+  },
+  'Geo-Geos-1.0.6.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '92ec49d3b2897bb69bba70524a610a0a',
+    'md5-ungz' => '05eb6e1787608abf95b567097cb15f8c',
+    'mtime' => '2020-06-22',
+    'sha256' => '8bcd330feebb26bba612c30e4c6d2b8317cf9f37da33f2a93daf9ee8e647333a',
+    'sha256-ungz' => '0c227051925a57cf714d13c19b16bafcc3d333fb24ea54a06a2894c952c6796e',
+    'size' => 64286
+  },
+  'Keybinder-0.03.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'e29d92604eef69c6f44082831db4ca1f',
+    'mtime' => '2013-12-29',
+    'sha256' => 'ffdd9e591d057034c1e30c8c0623f8d214882d1aea0de633ccdf21dd17977bd5',
+    'size' => 1319
+  },
+  'Keybinder-0.03.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '83f43984e5520839a7080ece3c7a622b',
+    'md5-ungz' => 'dcd64cfc0aef58cf1b4b88f5c59a4d1f',
+    'mtime' => '2013-12-29',
+    'sha256' => 'fa4496e8e334185a0077e1e52f4a3780843e913b06b047a154d375a717b5ff29',
+    'sha256-ungz' => '210198aa239bb7b33bc75f47337bc30d7897c1b7b3bad1a330c30ef06f27905b',
+    'size' => 10217
+  },
+  'Protocol-HTTP-1.0.7.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'fe60fb76ef3d9a9558e7327a975512d0',
+    'mtime' => '2020-06-22',
+    'sha256' => '382620f981880d020db60c261a7b084172892a8d1274e91da7413664d252336e',
+    'size' => 2160
+  },
+  'Protocol-HTTP-1.0.7.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '6dde6723796d985d4843aefa7363c91b',
+    'md5-ungz' => '32eb1da416a243c1231ed3311fd4c7e9',
+    'mtime' => '2020-06-22',
+    'sha256' => 'f992b0da497bd2a8018609673bd759fbca6c327bf73ecdbae2124e3591934302',
+    'sha256-ungz' => '4ec0d8c77d53b8160a17d585b83ab5dbc63c5d70a2065db1993240945b89e40f',
+    'size' => 120269
+  },
+  'Protocol-HTTP-1.0.8.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'a98a23940fa8a72622b5d1f4c90d3da5',
+    'mtime' => '2020-06-22',
+    'sha256' => 'da8c0a1fffe96da36bac6cf0f3a10fae3e2bca1daeee5da0e1748a52c7869c8d',
+    'size' => 2160
+  },
+  'Protocol-HTTP-1.0.8.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '59f877b641191096ba37901d801338d5',
+    'md5-ungz' => '59ef5a479f9b4143d9089ef382e53986',
+    'mtime' => '2020-06-22',
+    'sha256' => '977fff77dd04ace2b134304ec5f3466da61dc5799a395d72a1510e8b95eccf83',
+    'sha256-ungz' => '12f48c6110217effdccca3acc724e156d04e3984a25a7ac61bb3ecee5861eb85',
+    'size' => 120301
+  },
+  'Protocol-HTTP-1.0.9.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '5bf4fe070dd5f0effde6c8b54a35a834',
+    'mtime' => '2020-06-25',
+    'sha256' => '21dd3bc9ff1842f92ddfbe77ef9a6bcc9bdef4b2c1fa626242cf47c443e51da9',
+    'size' => 2160
+  },
+  'Protocol-HTTP-1.0.9.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '1e162fb9f721bdff9a6fa392fc8fd0af',
+    'md5-ungz' => 'e366e2e1ce74cceda65b38379c5fbe7e',
+    'mtime' => '2020-06-25',
+    'sha256' => '05e09b0c3a92586222b0ecdc034964f369e814a80a7a0012a24585127d9db495',
+    'sha256-ungz' => 'd0d9bf6a5041b1aac5febfd468a79124986f5c7e488c6a4ece5696eab29fa9e3',
+    'size' => 120748
+  },
+  'XS-Install-1.2.18.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '4c7fc0190f1ece15bb6a8a347670d909',
+    'mtime' => '2020-06-22',
+    'sha256' => '816facedd2591eb7e5dbc7c2884b05145f71c0339049a1ac0a14f5be303aa46c',
+    'size' => 1118
+  },
+  'XS-Install-1.2.18.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '9e821bef3ccca87966509142db4dcf25',
+    'md5-ungz' => '86755111b48635f93fde6699534be1af',
+    'mtime' => '2020-06-22',
+    'sha256' => '2a8760c8cc5f7cb2416f791bb5e3783ff44956eb6d85360c45ed682e54ff7b10',
+    'sha256-ungz' => 'a3a2f8929a248fd547c09aad83fff794bd5931e5f4e9fbcc9a0bc174a06315be',
+    'size' => 82829
+  },
+  'XS-Manifesto-1.0.0.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '4563802092b43d68c7d2d983a20b1c85',
+    'mtime' => '2020-02-06',
+    'sha256' => '1f76d5472faace6be22dea76b6f45814dedceae97a2594f9ae1bc1a46094b80a',
+    'size' => 972
+  },
+  'XS-Manifesto-1.0.0.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '6f8a9dd895e1642debe7c0555fac8fc9',
+    'md5-ungz' => 'da9009a1b9a1dab65bea0b4221b2390a',
+    'mtime' => '2020-02-06',
+    'sha256' => '901410b7766b1d77e0241bdf39b9204f36359e820130031641c706669cee39a6',
+    'sha256-ungz' => 'fc9d1de3d452ccfe48e6dd193217f8006ceeabc6aa9bf38817536e220eac945a',
+    'size' => 4959
+  },
+  'XS-Manifesto-1.0.1.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'c7715b393e11e9b865c9c307e3f557b8',
+    'mtime' => '2020-02-15',
+    'sha256' => '2a6d8e45998f4f806c0e155232bef68396cd9c59224ee83eae58acfe04ea8757',
+    'size' => 972
+  },
+  'XS-Manifesto-1.0.1.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'bff7439faabec4364a238de84a600e49',
+    'md5-ungz' => '59176220746d2f9f8cb247112642c2b6',
+    'mtime' => '2020-02-15',
+    'sha256' => '1b855f981a52b1566d6af813fce8942751b9620e7c4514f6eeb7a7867e61c1f6',
+    'sha256-ungz' => 'd85959084514181b9a2ab56175cd8d5cbccf2e6c1db594563b2fd13ceecaec90',
+    'size' => 4952
+  },
+  'XS-Manifesto-1.0.2.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '2a92c91867b40736effa8a1833c008f2',
+    'mtime' => '2020-03-16',
+    'sha256' => 'd03889ccd3ed7135da20ee54cdadf54acd963c4fcca3cc9fc61fa3f55250abaa',
+    'size' => 972
+  },
+  'XS-Manifesto-1.0.2.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'a0267cf6c68bcb9665e5a7acc125be58',
+    'md5-ungz' => 'b4904755940dc0797887b8e8da54faba',
+    'mtime' => '2020-03-16',
+    'sha256' => '02bf87a09406392dc720ac755f6e08fe4baad391b6a74aa73c2927f768dcf183',
+    'sha256-ungz' => '645046bb33f1579b2ec6dfa518b6ab26e87a3cac003fee1c51826ce8385e0c94',
+    'size' => 4953
+  },
+  'XS-Manifesto-1.0.3.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'e6cda4232260ebf7bfc75d6240fe3844',
+    'mtime' => '2020-04-07',
+    'sha256' => '18b8549a33ca781ea17dfe22bd8ebdc0cd7171007d1195199f32c1cdbf6d9fdf',
+    'size' => 972
+  },
+  'XS-Manifesto-1.0.3.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '41d4af303a6980140c4f44c303bd8c76',
+    'md5-ungz' => 'd3e0382a26a3f75b9cb62a4867ea8448',
+    'mtime' => '2020-04-07',
+    'sha256' => 'bb714c181d0464ef9b4cce502bc2b417d075f5ea24b8a47c0818a757f953b78c',
+    'sha256-ungz' => 'e9a9fa3dd21992670e1d202e9a603ff4addf6abe29e336a4e4c193da4f9173a9',
+    'size' => 4969
+  },
+  'XS-libbrotli-1.0.7.8.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'd34afcf249e5cb8932be35df780c63d6',
+    'mtime' => '2020-02-08',
+    'sha256' => 'cfbc30759748bfe8ba7f280abf02306b70ac82c7c9adfe68f9318ac82ac3a050',
+    'size' => 1070
+  },
+  'XS-libbrotli-1.0.7.8.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '881edcbeec92a6ed900b2a5d6af0772c',
+    'md5-ungz' => 'a3a743c7e1dc50d31941eaf2fb970c1a',
+    'mtime' => '2020-02-08',
+    'sha256' => 'a98a2cc19a825c7d95e84dcb2aa5625c35ffa849989a8b2fb452c195ea1cb013',
+    'sha256-ungz' => '2d25187a05d733351a21e81f3ed2f66d609e9f02a5e2e4a701b18ff482ecbd48',
+    'size' => 519508
+  },
+  'XS-libdwarf-20200114.5.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'b1f0514f657756381a8108aed82f8b99',
+    'mtime' => '2020-02-08',
+    'sha256' => '28995bdb654ebac5258fd49a505b0e8452b8502fd5290d6aeda15980e496d6ff',
+    'size' => 1079
+  },
+  'XS-libdwarf-20200114.5.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '067a7bd203a5137d93b2ad52fc93b8c7',
+    'md5-ungz' => 'f1c4c2fa3c0027f5bd47b436d6c55fd3',
+    'mtime' => '2020-02-08',
+    'sha256' => '6cf6fe8b45729a26d406aadd7e6b9082085b19fcb191a9386ddb0d3b10610b93',
+    'sha256-ungz' => '260666649c2b4e67b7b8f577d368ef448c6a81fe82ecb2d6ee5dd0c86fc621b9',
+    'size' => 1786796
+  },
+  'XS-libdwarf-20200114.8.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '35e14c80df7aa2859cbe0fecca80a214',
+    'mtime' => '2020-06-22',
+    'sha256' => 'c530db9a8c7887c93445801f3b69a28d6d432def205903e408f11c4fd5c412ac',
+    'size' => 1079
+  },
+  'XS-libdwarf-20200114.8.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '4c2ed3d1627566dbe77aff75019b0b59',
+    'md5-ungz' => '9478da8b0d68bd01ee172173f511f521',
+    'mtime' => '2020-06-22',
+    'sha256' => '42fdc46164b291ffcaa2abb83998da38490e7a766a09dfd5abee0be02795a170',
+    'sha256-ungz' => '5882225e060472a06690a542814a5518bb464afb0e8f8e1011e7d81d146da934',
+    'size' => 1786790
+  },
+  'XS-libdwarf-20201123.0.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'c75819deb890a2d5e7c2339280701762',
+    'mtime' => '2020-11-24',
+    'sha256' => '862bb02572dbca38fa21b4af6bf7786218cd55abbf34ae4e9f3dfeb08961fc4f',
+    'size' => 1077
+  },
+  'XS-libdwarf-20201123.0.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'd3b426a667c86a6463431aacbd87979d',
+    'md5-ungz' => '29c7c8c9e2c3a04b4cc15c4252ff07cf',
+    'mtime' => '2020-11-24',
+    'sha256' => '7f92da3f4a43580580e5e0113c632a9d6a9ff9b2fba94e0375e7d85893555540',
+    'sha256-ungz' => '413480b797964e8e974ac0a4470141e358b10499ade7a3c53a7fb88c67eef423',
+    'size' => 2865148
+  },
+  'XS-libgeos-3.7.3.5.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '543ebd0ee60b2929b031c1ef15437d9b',
+    'mtime' => '2020-02-08',
+    'sha256' => '186ec17db2a2d6889fba6185dac9fc3e7736c1683932c058e666dabd86ab307b',
+    'size' => 1058
+  },
+  'XS-libgeos-3.7.3.5.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '49bc330296661749403c58fdcdeea4a8',
+    'md5-ungz' => '9152fd7f9a942413da3559971a5e080a',
+    'mtime' => '2020-02-08',
+    'sha256' => '4b9f27bcdb45b029a7ad979c1a34028cc19e727be746c1847aa4897eb38e7f88',
+    'sha256-ungz' => 'fcf94bddff2cda5ff25f9ba0af9a1728281c9bd176672ca8d6e13692474a544c',
+    'size' => 1905595
+  },
+  'XS-libpanda-1.4.1.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '4573e8ee66344f2249dfff376743e9d0',
+    'mtime' => '2020-06-22',
+    'sha256' => '97228b3588a9f2044b7db36b46d6d72f523dea3420ac99ce3a78ca6f8980168e',
+    'size' => 1216
+  },
+  'XS-libpanda-1.4.1.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'e064f3ad5cca2155a15e95263627563f',
+    'md5-ungz' => '09a43bccde6192747e3d7c33f944867d',
+    'mtime' => '2020-06-22',
+    'sha256' => 'b7d8c54b41f1cdc622c40f8de05a3bc5a42ac3167969e40f5ab01b9776282bde',
+    'sha256-ungz' => '8cd91ca3c19b61c11a45714aa827008da943dd02664fe66817cdbebc377e24fa',
+    'size' => 97124
+  },
+  'XS-libpanda-1.4.2.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'a762fd1d6a1943936a03bfad04b3908b',
+    'mtime' => '2020-06-23',
+    'sha256' => '7a9a688722deef88242897e316440fd5fa594a776dffaad91e826a2abb2736a3',
+    'size' => 1216
+  },
+  'XS-libpanda-1.4.2.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '4baeaeb672913988baef0c9ec84c543b',
+    'md5-ungz' => '67f3b3741413e402c61a73d6d4e9f8ab',
+    'mtime' => '2020-06-23',
+    'sha256' => '816b3025f05ce78d85331b22f3f4dfa159565ef717d6e4cc44717ee9d0b78e23',
+    'sha256-ungz' => '818d7bcb242a12931869a862beed88a60cd03b2769aabfc5fa42edadcf26e1f5',
+    'size' => 96343
+  },
+  'XS-libpanda-1.4.3.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '3383037d7601dfd701e69d08b8593d7c',
+    'mtime' => '2020-06-24',
+    'sha256' => 'ffe3d329a0b893cc9509cedc6d5bd6b548d0bad3b6eac42cbe40e2d1eac7fce2',
+    'size' => 1216
+  },
+  'XS-libpanda-1.4.3.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '10e268d1bd64e6e7db42e131f5553388',
+    'md5-ungz' => 'eac45a156e6bd03605726a9404bd19fa',
+    'mtime' => '2020-06-24',
+    'sha256' => '852c6ff594e28198843cae1b2d10ef6e58e4ee203d6b7588c6b6f51fd6b60ef3',
+    'sha256-ungz' => '847f669d8b90697cc5816ad18d014e0839cc02d7dc85465b737eba000803916a',
+    'size' => 96268
+  },
+  'XS-libpanda-1.4.4.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'c3b816d20246390ebaab8b0770018061',
+    'mtime' => '2020-06-27',
+    'sha256' => 'f2c853932606a7f1d8860f8097dd6d8483915cf8f84c4733a1bf2fb08cb3aff1',
+    'size' => 1216
+  },
+  'XS-libpanda-1.4.4.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '5a4fd9d358914b012e1c3da22ffa1892',
+    'md5-ungz' => 'd80325c07835e7d9246bc355d11338b4',
+    'mtime' => '2020-06-27',
+    'sha256' => 'f865e3e69ed1abfb5bd78a40ecfc734c025b80c031ab254ebe487965cd35a088',
+    'sha256-ungz' => '81cbc7899be00c14e2e4c1311e7a90372e5638e98f8ab590926400f700fc71e9',
+    'size' => 96288
+  },
+  'XS-libpanda-1.4.5.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'ded5ef2460603f2b4b8f3a0859447d69',
+    'mtime' => '2020-06-28',
+    'sha256' => 'b911e5279d2e5bf23ded76223f2de1f6b491bebd0fcf29b2670e1f7bd8e07b65',
+    'size' => 1216
+  },
+  'XS-libpanda-1.4.5.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '6ebffc8202df73dea4cf953256353e6a',
+    'md5-ungz' => '1df2376a3ab73c7690eb2811a9c418e1',
+    'mtime' => '2020-06-28',
+    'sha256' => '18c95d1cfb03a25a65dead104a26368c001cce3c30e3fd24d4d6233d55bbda62',
+    'sha256-ungz' => '815d6f5f058a45a559319b0bc0e6152d1253029a028e4f8df347fc45f3da9686',
+    'size' => 96325
+  },
+  'XS-libpanda-1.4.6.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '5b5a19d4ddb3a4f564cc9ba354ee9499',
+    'mtime' => '2020-07-01',
+    'sha256' => 'aee3a8d72d3de847a147bc385b5d29d44f768d637458d37da4316bad60fa17c0',
+    'size' => 1216
+  },
+  'XS-libpanda-1.4.6.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '07ce9490331b6ad7def9f5549a329cd9',
+    'md5-ungz' => '1832eea8e0570a51bcd8dc77aa2580f4',
+    'mtime' => '2020-07-01',
+    'sha256' => 'd5c6d7fe5f5f1e9977d8559c040838ccccf4df8a4212f10100c7fc9d3c66500a',
+    'sha256-ungz' => '9698f222149b9c72bb73b0640e7bf368ca218b3dc9e485d2f5b716fbf299afb8',
+    'size' => 96765
+  },
+  'XS-libpanda-backtrace-1.0.0.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '1676f0c3d256220fec7892cadd06704e',
+    'mtime' => '2020-11-24',
+    'sha256' => 'c61bf304ec52dab0bc3572171e59de5464d394bc7d4f4acfcc3d1707f71f6519',
+    'size' => 1486
+  },
+  'XS-libpanda-backtrace-1.0.0.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => '694935c941afb7dba99817dd2290701a',
+    'md5-ungz' => '7f6f4720f71444f325ac49a33d4e3cc5',
+    'mtime' => '2020-11-24',
+    'sha256' => 'db4dae2b923748f0a9110b893e357c08b1a27fef5575c4fe7055c27f0e81eacc',
+    'sha256-ungz' => '494cf9a8d8ddd68b2083194f0ba5d07fd56ee639bbcfcba0f698b4d5a0cb9318',
+    'size' => 20390
+  },
+  'XS-libuv-1.35.0.2.meta' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'a28b06b2f899b46c22c3bce604cf590b',
+    'mtime' => '2020-06-22',
+    'sha256' => '919dc7c817acb76899045da8fe7f1e94bd8db6033a6db89c6f4e4e3b31e1eee9',
+    'size' => 1058
+  },
+  'XS-libuv-1.35.0.2.tar.gz' => {
+    'cpan_path' => 'D/DM/DMOL',
+    'md5' => 'd4636c94e1407ffdf0a54b6ff9e3c93f',
+    'md5-ungz' => '26a0d0dc43b5b340d0fe83bc00dcbdb5',
+    'mtime' => '2020-06-22',
+    'sha256' => '9945c707f8ea6863721e2aae08fd8f84dabeb604af101e04e2888f649b8b1f1c',
+    'sha256-ungz' => '9e1472c460d4174abb426d1f996cad942071a8217cf963806987661a8e06b1e1',
+    'size' => 440505
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.14 (GNU/Linux)
+
+iQEcBAEBAgAGBQJhmsz5AAoJELahc5BjdgzKxOMH/3/kXUxhNeDvNHcqD0Wd7x/j
+LKZ8dfE+0xBiQ5LVMwv5gti8GScGoGNIoD6NlGcl88Yfpqh1dBSlRFpvzVjN7/bP
+Hq1TN/nqU2vHxs0xt/LKGPwf0f5Hno2wfsFHZh9JYvUy4Oc0Raj/xYTDcXWBbd6A
+QbdgkvGL4bcs1VxnJ+HyUVW4jxboToV+SFWrUjEQ7nICfokDe9pAUKnukZ816dH0
+EGTpLQwcbjPoNj9ww9c/ZIAEbL7178U88Az8Wz//3+EfIprWNVboKjtWC503rZB2
+u7e4iluz3+nEivv32DNrpavXY9shKp6/OnKh24pDCx7g57dIItHIAzPhNzis7eM=
+=POcR
+-----END PGP SIGNATURE-----

@@ -1,0 +1,63 @@
+-------------------------------------------------------------------------------->8
+[2023-10-27T21:17:15.501311115Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:11:58.537786185Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-10-30T11:12:15.439734069Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:24.788621630Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-10-30T11:16:30.234930294Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+[2023-10-30T11:18:53.714721357Z] dev-envs: GET /devenvironments/baseImages 200 Docker Desktop API 
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:44.321837271Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-10-30T12:16:49.873004143Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+[2023-10-30T12:17:37.102579085Z] dev-envs: GET /devenvironments/list 200 Docker-Desktop/4.25.0 (Linux; x64) 
+[2023-10-30T12:17:37.424369756Z] dev-envs: GET /devenvironments/check 200 Docker-Desktop/4.25.0 (Linux; x64) 
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:53.657583758Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-10-30T18:22:59.007724862Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:17.008305669Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-10-31T14:21:24.103925611Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:13.471104527Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-01T10:49:19.045487846Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:16.500040559Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-02T11:16:22.316068430Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:18.113290867Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-02T14:21:23.630144345Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:58:55.569613761Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-08T08:59:01.186369051Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+[2023-11-08T03:54:46.330939803Z] dev-envs: GET /devenvironments/list 200 Docker-Desktop/4.25.0 (Linux; x64) 
+[2023-11-08T03:54:46.671554339Z] dev-envs: GET /devenvironments/check 200 Docker-Desktop/4.25.0 (Linux; x64) 
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:30.389306267Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-14T06:44:35.709675631Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:00.878553649Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-15T10:03:06.340953911Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:50.309634046Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-16T09:41:55.953200228Z] dev-envs: GET /devenvironments/metrics 200 Docker-Desktop/4.25.0 (Linux; amd64) 
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:30.762691625Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-16T11:01:42.097534267Z] dev-envs: GET /ping 404 Docker-Desktop/4.25.1 (Linux; amd64) code=404, message=Not Found
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:43.224458452Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-18T16:49:49.908823373Z] dev-envs: GET /ping 404 Docker-Desktop/4.25.1 (Linux; amd64) code=404, message=Not Found
+[2023-11-18T17:17:34.175206965Z] dev-envs: GET /devenvironments/list 200 Docker-Desktop/4.25.1 (Linux; x64) 
+[2023-11-18T17:17:34.518762208Z] dev-envs: GET /devenvironments/check 200 Docker-Desktop/4.25.1 (Linux; x64) 
+[2023-11-18T17:17:38.788618064Z] dev-envs: GET /devenvironments/list 200 Docker-Desktop/4.25.1 (Linux; x64) 
+[2023-11-18T17:17:38.971616461Z] dev-envs: GET /devenvironments/check 200 Docker-Desktop/4.25.1 (Linux; x64) 
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:50.641785908Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-23T09:32:56.797862666Z] dev-envs: GET /ping 404 Docker-Desktop/4.25.1 (Linux; amd64) code=404, message=Not Found
+[2023-11-23T09:32:56.871435182Z] dev-envs: GET /devenvironments/list 200 Docker-Desktop/4.25.1 (Linux; x64) 
+[2023-11-23T09:32:57.303883353Z] dev-envs: GET /devenvironments/check 200 Docker-Desktop/4.25.1 (Linux; x64) 
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:24.175256637Z] ⇨ http server started on /home/kelper/.docker/desktop/docker-dev-env-api.sock
+[2023-11-23T10:41:29.797250880Z] dev-envs: GET /ping 404 Docker-Desktop/4.25.1 (Linux; amd64) code=404, message=Not Found
+[2023-11-23T10:41:29.836873571Z] dev-envs: GET /devenvironments/list 200 Docker-Desktop/4.25.1 (Linux; x64) 
+[2023-11-23T10:41:30.160240324Z] dev-envs: GET /devenvironments/check 200 Docker-Desktop/4.25.1 (Linux; x64) 

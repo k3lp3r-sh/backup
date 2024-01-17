@@ -1,0 +1,2 @@
+I once heard Russell Brunson tell a story about this concept. He explained how his wife, Collette, at first hearing about this status concept, rejected it. She claimed she wasn’t driven by status and would never want to drive a Lamborghini. Instead, she favored her minivan. But, after talking further, she revealed it was because driving a Lamborghini would decrease her status amongst her mom friends, while driving a minivan would show she was a good 
+mother (increase in status).

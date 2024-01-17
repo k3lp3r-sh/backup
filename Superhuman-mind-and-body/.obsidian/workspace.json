@@ -1,0 +1,348 @@
+{
+  "main": {
+    "id": "315284aec2e213a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f6d840ba75313ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fa27c597622e7a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "943b9c6da911be3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Think and Grow Rich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1882b8e3aca3c57d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Psycho Cybernetics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5077b26931aa5f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Meditations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cade3a0763a25259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/?/Money Masters the Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f1359c99766e2ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/?/Money Masters the Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae11b1601e6b75bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/?/Money Masters the Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee2cf67dc75824b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/?/How to win Friends and Influence People.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fdb8500a3cf8227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Personal MBA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e5b14da0f865fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/?/Money Masters the Game.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c759993e6f2ff013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/?/Confessions of an Advertising Man.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82897ae1025a5725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/?/Misbehaving.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0df60257d2eee9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Creatures of Jeykull Island.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57520826a278d05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/House of Morgan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "649864fd05650b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/?/Devil Take the Hindmost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2be644553591046",
+    "type": "split",
+    "children": [
+      {
+        "id": "9499c54314c22e85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf2a63880f9e68e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ca090542be50b6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a59297855267978a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "2211c5952df75557",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d98549463f33e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de45f2091c011ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/?/Devil Take the Hindmost.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "033b9236a0e57f06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/?/Devil Take the Hindmost.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9da2a5d997efc98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90751d6cc56df914",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/?/Devil Take the Hindmost.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf2a63880f9e68e9",
+  "lastOpenFiles": [
+    "Books/House of Morgan.md",
+    "Books/?/Devil Take the Hindmost.md",
+    "Books/Creatures of Jeykull Island.md",
+    "Books/?/Misbehaving.md",
+    "Books/?/Confessions of an Advertising Man.md",
+    "Books/Reality Transsurfing.md",
+    "Books/?/Money Masters the Game.md",
+    "Books/Intelligent Investor.md",
+    "Books/Personal MBA.md",
+    "Books/?/How to win Friends and Influence People.md",
+    "Books/?",
+    "Books/4 - Hour Workweek.md",
+    "Books/Meditations.md",
+    "Books/Psycho Cybernetics.md",
+    "Books/Think and Grow Rich.md",
+    "Untitled.md",
+    "Books",
+    "Targets.md",
+    "Mind/_Mind.md",
+    "Brain/_Brain.md",
+    "Body/_Body.md",
+    "Brain/Memory.md",
+    "Body/Strength.md",
+    "Mind/Impulse Control.md",
+    "Brain/Attention Span.md",
+    "Body/Aesthetics.md",
+    "Mind/Mental Strength.md",
+    "Body/Endurance.md",
+    "Brain",
+    "Mind",
+    "Body"
+  ]
+}

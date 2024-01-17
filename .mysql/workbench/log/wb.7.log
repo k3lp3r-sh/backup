@@ -1,0 +1,51 @@
+10:55:31 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/kelper/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+10:55:31 [INF][      WBContext]: WbContext::init
+10:55:31 [INF][            WBA]: Looking for extension modules for WBA...
+10:55:31 [INF][            WBA]: 0 extension modules found
+10:55:32 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+10:55:32 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+10:55:32 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 8.0.34 CE build 3263449 (64 bit)
+	Configuration Directory: /home/kelper/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.18.0
+	OS:  x86_64
+	CPU: 20x 12th Gen Intel(R) Core(TM) i7-12700H (400.000MHz) - 15.31GiB RAM
+No video adapter info available
+	Fips mode enabled: no
+
+10:56:15 [ERR][      WBContext]: The name org.freedesktop.secrets was not provided by any .service files
+10:56:52 [ERR][      WBContext]: The name org.freedesktop.secrets was not provided by any .service files
+10:56:54 [ERR][      WBContext]: forget_password The name org.freedesktop.secrets was not provided by any .service files
+10:57:10 [ERR][SQL Editor Form]: SQL editor could not be connected: The name org.freedesktop.secrets was not provided by any .service files
+10:57:10 [ERR][SQL Editor Form]: Your connection attempt failed for user 'kelper' to the MySQL server at 127.0.0.1:3306:
+  The name org.freedesktop.secrets was not provided by any .service files
+
+Please:
+1 Check that MySQL is running on address 127.0.0.1
+2 Check that MySQL is reachable on port 3306 (note: 3306 is the default, but this can be changed)
+3 Check the user kelper has rights to connect to 127.0.0.1 from your address (MySQL rights define what clients can connect to the server and from which machines) 
+4 Make sure you are both providing a password if needed and using the correct password for 127.0.0.1 connecting from the host address you're connecting from
+10:59:07 [ERR][SQL Editor Form]: SQL editor could not be connected: The name org.freedesktop.secrets was not provided by any .service files
+10:59:07 [ERR][SQL Editor Form]: Your connection attempt failed for user 'kelper' to the MySQL server at 127.0.0.1:3306:
+  The name org.freedesktop.secrets was not provided by any .service files
+
+Please:
+1 Check that MySQL is running on address 127.0.0.1
+2 Check that MySQL is reachable on port 3306 (note: 3306 is the default, but this can be changed)
+3 Check the user kelper has rights to connect to 127.0.0.1 from your address (MySQL rights define what clients can connect to the server and from which machines) 
+4 Make sure you are both providing a password if needed and using the correct password for 127.0.0.1 connecting from the host address you're connecting from
+10:59:13 [WRN][       WBModule]: Could not clear password: forget_password The name org.freedesktop.secrets was not provided by any .service files

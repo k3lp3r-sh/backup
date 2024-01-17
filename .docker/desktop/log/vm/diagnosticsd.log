@@ -1,0 +1,151 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:14.144821155Z][diagnosticsd][I] [2023-10-30T11:12:14.144523257Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-10-30T11:12:14.144846947Z][diagnosticsd][I] [2023-10-30T11:12:14.144767033Z][diagnosticsd.ipc][I] run (with context) 0b363723-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-10-30T11:12:14.146021214Z][diagnosticsd][I] [2023-10-30T11:12:14.145867018Z][diagnosticsd.ipc][I] run (with context) 2f7bfc35-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-10-30T11:12:14.146194292Z][diagnosticsd][I] [2023-10-30T11:12:14.146053369Z][diagnosticsd.ipc][I] ipc.NewClient: bbc2a075-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-10-30T11:12:14.146202330Z][diagnosticsd][I] [2023-10-30T11:12:14.146073678Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-10-30T11:12:15.048571555Z][diagnosticsd][I] [2023-10-30T11:12:15.048405267Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:29.219160888Z][diagnosticsd][I] [2023-10-30T11:16:29.218752420Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-10-30T11:16:29.219367276Z][diagnosticsd][I] [2023-10-30T11:16:29.219291857Z][diagnosticsd.ipc][I] run (with context) 2c6edbcd-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-10-30T11:16:29.221927766Z][diagnosticsd][I] [2023-10-30T11:16:29.219509521Z][diagnosticsd.ipc][I] run (with context) cdb5bfae-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-10-30T11:16:29.221950510Z][diagnosticsd][I] [2023-10-30T11:16:29.219547023Z][diagnosticsd.ipc][I] ipc.NewClient: 9065c3e8-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-10-30T11:16:29.221960950Z][diagnosticsd][I] [2023-10-30T11:16:29.219670209Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-10-30T11:16:29.915340505Z][diagnosticsd][I] [2023-10-30T11:16:29.915212772Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-10-30T11:24:31.425948490Z][diagnosticsd][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:30:46.136533340Z][diagnosticsd][I] [2023-10-30T11:30:46.136231982Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-10-30T11:30:46.136623801Z][diagnosticsd][I] [2023-10-30T11:30:46.136533194Z][diagnosticsd.ipc][I] run (with context) af97e896-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-10-30T11:30:46.137633060Z][diagnosticsd][I] [2023-10-30T11:30:46.137470512Z][diagnosticsd.ipc][I] run (with context) 89baf6b8-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-10-30T11:30:46.137687277Z][diagnosticsd][I] [2023-10-30T11:30:46.137566722Z][diagnosticsd.ipc][I] ipc.NewClient: c6f8893f-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-10-30T11:30:46.137688688Z][diagnosticsd][I] [2023-10-30T11:30:46.137627868Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-10-30T11:30:46.656669342Z][diagnosticsd][I] [2023-10-30T11:30:46.656492763Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:49.080829731Z][diagnosticsd][I] [2023-10-30T12:16:49.080565088Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-10-30T12:16:49.080959138Z][diagnosticsd][I] [2023-10-30T12:16:49.080914758Z][diagnosticsd.ipc][I] run (with context) 4cb5479f-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-10-30T12:16:49.081068922Z][diagnosticsd][I] [2023-10-30T12:16:49.080961857Z][diagnosticsd.ipc][I] run (with context) 4e645d73-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-10-30T12:16:49.081124037Z][diagnosticsd][I] [2023-10-30T12:16:49.081102502Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-10-30T12:16:49.081515635Z][diagnosticsd][I] [2023-10-30T12:16:49.081443662Z][diagnosticsd.ipc][I] ipc.NewClient: aae237bd-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-10-30T12:16:49.531292070Z][diagnosticsd][I] [2023-10-30T12:16:49.531200500Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:58.134561951Z][diagnosticsd][I] [2023-10-30T18:22:58.134271196Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-10-30T18:22:58.134787950Z][diagnosticsd][I] [2023-10-30T18:22:58.134570251Z][diagnosticsd.ipc][I] run (with context) da7f0d70-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-10-30T18:22:58.135499429Z][diagnosticsd][I] [2023-10-30T18:22:58.135343377Z][diagnosticsd.ipc][I] run (with context) a7b58fdc-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-10-30T18:22:58.135532698Z][diagnosticsd][I] [2023-10-30T18:22:58.135499706Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-10-30T18:22:58.136040692Z][diagnosticsd][I] [2023-10-30T18:22:58.135348139Z][diagnosticsd.ipc][I] ipc.NewClient: d689c610-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-10-30T18:22:58.664569902Z][diagnosticsd][I] [2023-10-30T18:22:58.664484095Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:22.469776861Z][diagnosticsd][I] [2023-10-31T14:21:22.468393673Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-10-31T14:21:22.470749101Z][diagnosticsd][I] [2023-10-31T14:21:22.470011548Z][diagnosticsd.ipc][I] run (with context) b26249ac-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-10-31T14:21:22.475963699Z][diagnosticsd][I] [2023-10-31T14:21:22.475147159Z][diagnosticsd.ipc][I] run (with context) 20f317fe-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-10-31T14:21:22.479926508Z][diagnosticsd][I] [2023-10-31T14:21:22.475241560Z][diagnosticsd.ipc][I] ipc.NewClient: f181a7a9-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-10-31T14:21:22.479964321Z][diagnosticsd][I] [2023-10-31T14:21:22.476390180Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-10-31T14:21:23.227656130Z][diagnosticsd][I] [2023-10-31T14:21:23.226004583Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-10-31T18:19:41.684900183Z][diagnosticsd][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:18.113680629Z][diagnosticsd][I] [2023-11-01T10:49:18.113378811Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-01T10:49:18.113709271Z][diagnosticsd][I] [2023-11-01T10:49:18.113674326Z][diagnosticsd.ipc][I] run (with context) 948f7555-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-01T10:49:18.118808970Z][diagnosticsd][I] [2023-11-01T10:49:18.118103402Z][diagnosticsd.ipc][I] run (with context) 60fbb8ee-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-01T10:49:18.118994867Z][diagnosticsd][I] [2023-11-01T10:49:18.118322071Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-01T10:49:18.118995560Z][diagnosticsd][I] [2023-11-01T10:49:18.118414549Z][diagnosticsd.ipc][I] ipc.NewClient: 0e132306-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-01T10:49:18.690316796Z][diagnosticsd][I] [2023-11-01T10:49:18.690184654Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-11-01T12:12:02.811094745Z][diagnosticsd][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:21.738511088Z][diagnosticsd][I] [2023-11-02T11:16:21.738349164Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-02T11:16:21.738552779Z][diagnosticsd][I] [2023-11-02T11:16:21.738504341Z][diagnosticsd.ipc][I] run (with context) 61b19ee6-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-02T11:16:21.740604984Z][diagnosticsd][I] [2023-11-02T11:16:21.740456215Z][diagnosticsd.ipc][I] run (with context) 14faf8f1-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-02T11:16:21.742909521Z][diagnosticsd][I] [2023-11-02T11:16:21.740472675Z][diagnosticsd.ipc][I] ipc.NewClient: 257a7edf-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-02T11:16:21.742929789Z][diagnosticsd][I] [2023-11-02T11:16:21.740634690Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-02T11:16:21.820899817Z][diagnosticsd][I] [2023-11-02T11:16:21.820816460Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:23.049262570Z][diagnosticsd][I] [2023-11-02T14:21:23.049099630Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-02T14:21:23.049314243Z][diagnosticsd][I] [2023-11-02T14:21:23.049288231Z][diagnosticsd.ipc][I] run (with context) 2d124980-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-02T14:21:23.210566789Z][diagnosticsd][I] [2023-11-02T14:21:23.050276119Z][diagnosticsd.ipc][I] run (with context) 9d8af133-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-02T14:21:23.210645321Z][diagnosticsd][I] [2023-11-02T14:21:23.210548714Z][diagnosticsd.ipc][I] ipc.NewClient: 1e746dec-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-02T14:21:23.210664677Z][diagnosticsd][I] [2023-11-02T14:21:23.210588049Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-02T14:21:23.283233229Z][diagnosticsd][I] [2023-11-02T14:21:23.283160086Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-11-02T17:26:29.036440799Z][diagnosticsd][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:59:00.777846451Z][diagnosticsd][I] [2023-11-08T08:59:00.777648233Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-08T08:59:00.777918463Z][diagnosticsd][I] [2023-11-08T08:59:00.777873716Z][diagnosticsd.ipc][I] run (with context) 70dbe9ce-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-08T08:59:00.778640591Z][diagnosticsd][I] [2023-11-08T08:59:00.778546282Z][diagnosticsd.ipc][I] run (with context) c9421315-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-08T08:59:00.778728697Z][diagnosticsd][I] [2023-11-08T08:59:00.778652240Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-08T08:59:00.778760722Z][diagnosticsd][I] [2023-11-08T08:59:00.778574233Z][diagnosticsd.ipc][I] ipc.NewClient: 7b3f449f-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-08T08:59:00.860628123Z][diagnosticsd][I] [2023-11-08T08:59:00.860444856Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-11-08T09:00:00.783841828Z][diagnosticsd][I] [2023-11-08T09:00:00.783708572Z][diagnosticsd.bugsnag][I] bugsnag/sessions/publisher.publish unable to deliver session: Post "https://sessions.bugsnag.com": dial tcp: lookup sessions.bugsnag.com on 192.168.65.7:53: no such host
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:35.126389031Z][diagnosticsd][I] [2023-11-14T06:44:35.126165818Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-14T06:44:35.126441261Z][diagnosticsd][I] [2023-11-14T06:44:35.126361359Z][diagnosticsd.ipc][I] run (with context) 81dd278d-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-14T06:44:35.130999670Z][diagnosticsd][I] [2023-11-14T06:44:35.130819129Z][diagnosticsd.ipc][I] run (with context) 3cafac21-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-14T06:44:35.131050540Z][diagnosticsd][I] [2023-11-14T06:44:35.130856243Z][diagnosticsd.ipc][I] ipc.NewClient: e93ba14a-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-14T06:44:35.131191548Z][diagnosticsd][I] [2023-11-14T06:44:35.131138708Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-14T06:44:35.452017195Z][diagnosticsd][I] [2023-11-14T06:44:35.451931647Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:05.047539705Z][diagnosticsd][I] [2023-11-15T10:03:05.047365742Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-15T10:03:05.047558149Z][diagnosticsd][I] [2023-11-15T10:03:05.047529265Z][diagnosticsd.ipc][I] run (with context) b7663f63-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-15T10:03:05.050101673Z][diagnosticsd][I] [2023-11-15T10:03:05.049987414Z][diagnosticsd.ipc][I] ipc.NewClient: 7848ba2d-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-15T10:03:05.052186289Z][diagnosticsd][I] [2023-11-15T10:03:05.052075040Z][diagnosticsd.ipc][I] run (with context) 20db1232-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-15T10:03:05.052267349Z][diagnosticsd][I] [2023-11-15T10:03:05.052233221Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-15T10:03:05.963300615Z][diagnosticsd][I] [2023-11-15T10:03:05.963193074Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-11-15T11:38:21.035061254Z][diagnosticsd][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T12:53:02.188538174Z][diagnosticsd][I] [2023-11-15T12:53:02.188401522Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-15T12:53:02.188569246Z][diagnosticsd][I] [2023-11-15T12:53:02.188548092Z][diagnosticsd.ipc][I] run (with context) 7c528339-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-15T12:53:02.188797546Z][diagnosticsd][I] [2023-11-15T12:53:02.188722831Z][diagnosticsd.ipc][I] run (with context) fad22bbb-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-15T12:53:02.188894993Z][diagnosticsd][I] [2023-11-15T12:53:02.188744289Z][diagnosticsd.ipc][I] ipc.NewClient: a6d56a50-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-15T12:53:02.188927555Z][diagnosticsd][I] [2023-11-15T12:53:02.188851319Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-15T12:53:02.237687697Z][diagnosticsd][I] [2023-11-15T12:53:02.237605763Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-11-15T12:59:07.660146339Z][diagnosticsd][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T13:04:10.211698377Z][diagnosticsd][I] [2023-11-15T13:04:10.211433928Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-15T13:04:10.211759421Z][diagnosticsd][I] [2023-11-15T13:04:10.211721472Z][diagnosticsd.ipc][I] run (with context) 2db878ea-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-15T13:04:10.212156316Z][diagnosticsd][I] [2023-11-15T13:04:10.212050973Z][diagnosticsd.ipc][I] run (with context) c698d902-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-15T13:04:10.212190864Z][diagnosticsd][I] [2023-11-15T13:04:10.212056433Z][diagnosticsd.ipc][I] ipc.NewClient: 3ba96c23-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-15T13:04:10.212212103Z][diagnosticsd][I] [2023-11-15T13:04:10.212172852Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-15T13:04:10.264494499Z][diagnosticsd][I] [2023-11-15T13:04:10.264404630Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:55.471112413Z][diagnosticsd][I] [2023-11-16T09:41:55.470930966Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-16T09:41:55.471139330Z][diagnosticsd][I] [2023-11-16T09:41:55.471118725Z][diagnosticsd.ipc][I] run (with context) 0ff2ec19-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-16T09:41:55.471613971Z][diagnosticsd][I] [2023-11-16T09:41:55.471514428Z][diagnosticsd.ipc][I] run (with context) 6d9a147f-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-16T09:41:55.471676875Z][diagnosticsd][I] [2023-11-16T09:41:55.471552350Z][diagnosticsd.ipc][I] ipc.NewClient: d9b205ef-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-16T09:41:55.471690247Z][diagnosticsd][I] [2023-11-16T09:41:55.471646727Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-16T09:41:55.543958070Z][diagnosticsd][I] [2023-11-16T09:41:55.543874410Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:41.194406333Z][diagnosticsd][I] [2023-11-16T11:01:41.194124416Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-16T11:01:41.194422996Z][diagnosticsd][I] [2023-11-16T11:01:41.194389777Z][diagnosticsd.ipc][I] run (with context) 3db03632-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-16T11:01:41.194731793Z][diagnosticsd][I] [2023-11-16T11:01:41.194596455Z][diagnosticsd.ipc][I] run (with context) b701e82c-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-16T11:01:41.194779169Z][diagnosticsd][I] [2023-11-16T11:01:41.194598280Z][diagnosticsd.ipc][I] ipc.NewClient: 67996955-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-16T11:01:41.194816835Z][diagnosticsd][I] [2023-11-16T11:01:41.194784849Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-16T11:01:41.249440977Z][diagnosticsd][I] [2023-11-16T11:01:41.249338694Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-11-16T11:02:41.795990651Z][diagnosticsd][I] [2023-11-16T11:02:41.795720233Z][diagnosticsd.bugsnag][I] bugsnag/sessions/publisher.publish unable to deliver session: Post "https://sessions.bugsnag.com": dial tcp: lookup sessions.bugsnag.com on 192.168.65.7:53: no such host
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:47.118122249Z][diagnosticsd][I] [2023-11-18T16:49:47.117841150Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-18T16:49:47.118203680Z][diagnosticsd][I] [2023-11-18T16:49:47.118176654Z][diagnosticsd.ipc][I] run (with context) 5e51e4fb-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-18T16:49:47.119327796Z][diagnosticsd][I] [2023-11-18T16:49:47.119236384Z][diagnosticsd.ipc][I] run (with context) c1f513dd-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-18T16:49:47.119356824Z][diagnosticsd][I] [2023-11-18T16:49:47.119330842Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-18T16:49:47.119512562Z][diagnosticsd][I] [2023-11-18T16:49:47.119445896Z][diagnosticsd.ipc][I] ipc.NewClient: 1ab0a7be-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-18T16:49:48.187103771Z][diagnosticsd][I] [2023-11-18T16:49:48.187016068Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-11-18T16:55:55.047254733Z][diagnosticsd][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T17:17:20.368065965Z][diagnosticsd][I] [2023-11-18T17:17:20.367892008Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-18T17:17:20.368088667Z][diagnosticsd][I] [2023-11-18T17:17:20.368063774Z][diagnosticsd.ipc][I] run (with context) 2c7df989-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-18T17:17:20.368436721Z][diagnosticsd][I] [2023-11-18T17:17:20.368321976Z][diagnosticsd.ipc][I] run (with context) ea92918e-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-18T17:17:20.368518677Z][diagnosticsd][I] [2023-11-18T17:17:20.368373086Z][diagnosticsd.ipc][I] ipc.NewClient: eb375cc8-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-18T17:17:20.368519897Z][diagnosticsd][I] [2023-11-18T17:17:20.368460416Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-18T17:17:20.415917339Z][diagnosticsd][I] [2023-11-18T17:17:20.415842798Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-11-18T17:24:55.648483113Z][diagnosticsd][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:56.131753217Z][diagnosticsd][I] [2023-11-23T09:32:56.131497765Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-23T09:32:56.131775867Z][diagnosticsd][I] [2023-11-23T09:32:56.131736816Z][diagnosticsd.ipc][I] run (with context) 9eb90969-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-23T09:32:56.132959743Z][diagnosticsd][I] [2023-11-23T09:32:56.132786162Z][diagnosticsd.ipc][I] run (with context) b1f2c388-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-23T09:32:56.133529853Z][diagnosticsd][I] [2023-11-23T09:32:56.132841907Z][diagnosticsd.ipc][I] ipc.NewClient: 728e5661-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-23T09:32:56.133539320Z][diagnosticsd][I] [2023-11-23T09:32:56.132988904Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-23T09:32:56.302464328Z][diagnosticsd][I] [2023-11-23T09:32:56.302286665Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:29.059022981Z][diagnosticsd][I] [2023-11-23T10:41:29.058745365Z][diagnosticsd][I] debug console is listening on /run/guest-services/debug-shell.sock
+[2023-11-23T10:41:29.059104908Z][diagnosticsd][I] [2023-11-23T10:41:29.059051402Z][diagnosticsd.ipc][I] run (with context) f370598a-diagnosticsd for component diagnosticsd on /run/guest-services/diagnosticd.sock
+[2023-11-23T10:41:29.061816853Z][diagnosticsd][I] [2023-11-23T10:41:29.061681934Z][diagnosticsd.ipc][I] run (with context) 66961b4a-diagnosticsd for component diagnosticsd on %!s(<nil>)
+[2023-11-23T10:41:29.061842589Z][diagnosticsd][I] [2023-11-23T10:41:29.061692905Z][diagnosticsd.ipc][I] ipc.NewClient: 907ddd59-diagnosticd -> /run/host-services/backend.sock BackendAPI
+[2023-11-23T10:41:29.061864066Z][diagnosticsd][I] [2023-11-23T10:41:29.061830660Z][diagnosticsd][I] reverseListener dialling AF_VSOCK 62374
+[2023-11-23T10:41:29.402371216Z][diagnosticsd][I] [2023-11-23T10:41:29.402285196Z][diagnosticsd][I] AF_VSOCK diagnostics path disabled: failed connect() to 00000002.0000f3a6: connection reset by peer
+[2023-11-23T10:42:29.377277339Z][diagnosticsd][I] [2023-11-23T10:42:29.377068769Z][diagnosticsd.bugsnag][I] bugsnag/sessions/publisher.publish unable to deliver session: Post "https://sessions.bugsnag.com": dial tcp: lookup sessions.bugsnag.com on 192.168.65.7:53: no such host

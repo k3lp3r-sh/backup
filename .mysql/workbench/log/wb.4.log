@@ -1,0 +1,39 @@
+16:25:13 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/kelper/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+16:25:13 [INF][      WBContext]: WbContext::init
+16:25:14 [INF][            WBA]: Looking for extension modules for WBA...
+16:25:14 [INF][            WBA]: 0 extension modules found
+16:25:14 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+16:25:14 [WRN][            grt]: /home/kelper/.mysql/workbench/connections.xml:26: link 'c021b26e-91a8-11ee-a9e5-546ceb80b597' <object GrtObject> key=owner could not be resolved
+16:25:14 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+16:25:14 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 8.0.34 CE build 3263449 (64 bit)
+	Configuration Directory: /home/kelper/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.18.0
+	OS:  x86_64
+	CPU: 20x 12th Gen Intel(R) Core(TM) i7-12700H (400.000MHz) - 15.31GiB RAM
+No video adapter info available
+	Fips mode enabled: no
+
+16:25:25 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'kelper'@'localhost' (using password: NO)
+16:25:25 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'kelper'@'localhost' (using password: NO)
+16:25:28 [INF][SQL Editor Form]: Opened connection 'kelper' to Arch Linux version 11.2.2-MariaDB
+16:25:28 [ERR][      WBContext]: Unsupported server version: Arch Linux 11.2.2-MariaDB
+16:26:52 [INF][         Wizard]: Execute 'Prepare Import'
+16:26:53 [INF][         Wizard]: Starting thread for 'Import data file'
+16:28:11 [INF][         Wizard]: Execute 'Prepare Import'
+16:28:12 [INF][         Wizard]: Starting thread for 'Import data file'
+16:28:12 [ERR][sqlide_power_import_export_be.py:start_import:454]: Can't find col: 0 in row: []

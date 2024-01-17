@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ENTRY timestamp='12:25:56 PM'>show databases</ENTRY>
+<ENTRY timestamp='12:26:06 PM'>use DBMSIII</ENTRY>
+<ENTRY timestamp='12:26:08 PM'>~</ENTRY>
+<ENTRY timestamp='12:26:09 PM'>~</ENTRY>
+<ENTRY timestamp='12:26:12 PM'>show tables</ENTRY>
+<ENTRY timestamp='12:26:25 PM'>drop table your_table_name</ENTRY>
+<ENTRY timestamp='12:26:26 PM'>show tables</ENTRY>
+<ENTRY timestamp='12:28:17 PM'>CREATE TABLE water_consumption (&#x0A;    house_number INT,&#x0A;    category VARCHAR(20),&#x0A;    occupied VARCHAR(3),&#x0A;    leak VARCHAR(3),&#x0A;    water_consumption FLOAT&#x0A;)</ENTRY>
+<ENTRY timestamp='12:28:21 PM'>show tables</ENTRY>
+<ENTRY timestamp='12:28:34 PM'>select * from water_consumption</ENTRY>
+<ENTRY timestamp='12:29:04 PM'>SELECT * FROM DBMSIII.water_consumption</ENTRY>
+<ENTRY timestamp='12:31:23 PM'>~</ENTRY>

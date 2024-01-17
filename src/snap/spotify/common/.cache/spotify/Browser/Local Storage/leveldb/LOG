@@ -1,0 +1,33 @@
+2023/09/28-11:18:18.606 14be Reusing MANIFEST /home/kelper/snap/spotify/common/.cache/spotify/Browser/Local Storage/leveldb/MANIFEST-000001
+2023/09/28-11:18:18.607 14be Recovering log #3
+2023/09/28-11:18:18.607 14be Reusing old log /home/kelper/snap/spotify/common/.cache/spotify/Browser/Local Storage/leveldb/000003.log 
+2023/09/28-11:19:18.678 14be Level-0 table #5: started
+2023/09/28-11:19:18.695 14be Level-0 table #5: 53986 bytes OK
+2023/09/28-11:19:18.707 14be Delete type=0 #3
+2023/09/28-11:21:18.677 14bf Level-0 table #7: started
+2023/09/28-11:21:18.698 14bf Level-0 table #7: 76894 bytes OK
+2023/09/28-11:21:18.707 14bf Delete type=0 #4
+2023/09/28-11:22:18.677 14bf Level-0 table #9: started
+2023/09/28-11:22:18.693 14bf Level-0 table #9: 54394 bytes OK
+2023/09/28-11:22:18.703 14bf Delete type=0 #6
+2023/09/28-11:24:18.677 14bf Level-0 table #11: started
+2023/09/28-11:24:18.693 14bf Level-0 table #11: 60031 bytes OK
+2023/09/28-11:24:18.709 14bf Delete type=0 #8
+2023/09/28-11:34:20.976 14be Level-0 table #13: started
+2023/09/28-11:34:21.001 14be Level-0 table #13: 39068 bytes OK
+2023/09/28-11:34:21.010 14be Delete type=0 #10
+2023/09/28-13:34:34.824 14be Level-0 table #15: started
+2023/09/28-13:34:34.840 14be Level-0 table #15: 27271 bytes OK
+2023/09/28-13:34:34.848 14be Delete type=0 #12
+2023/09/28-13:34:34.848 14be Compacting 4@0 + 1@1 files
+2023/09/28-13:34:34.856 14be Generated table #16@0: 865 keys, 16590 bytes
+2023/09/28-13:34:34.856 14be Compacted 4@0 + 1@1 files => 16590 bytes
+2023/09/28-13:34:34.862 14be compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/28-13:34:34.863 14be Delete type=2 #7
+2023/09/28-13:34:34.863 14be Delete type=2 #9
+2023/09/28-13:34:34.863 14be Delete type=2 #11
+2023/09/28-13:34:34.863 14be Delete type=2 #15
+2023/09/28-13:34:34.863 14be Delete type=2 #13
+2023/09/28-13:40:14.267 14bf Level-0 table #18: started
+2023/09/28-13:40:14.286 14bf Level-0 table #18: 46594 bytes OK
+2023/09/28-13:40:14.293 14bf Delete type=0 #14

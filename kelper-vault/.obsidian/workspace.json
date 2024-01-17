@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "32f7b8fdc847f730",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f2ba6da7b59fa76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce72f68a5dcce42a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "$100M Offers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "173eb020cd7f3faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Example-Problem-list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36a81ab27bbf6bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brick Exercise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf0a7ed012b8da63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The third dimension of thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d08e3749bbb321f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6317e84404ceb0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1847c5e62359c257",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80f1c05aab3628be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0025de9c13729032",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4e04f940045f823f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5770e3921e7a8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4684e673d19a3963",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The third dimension of thinking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5fa43c286a483a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The third dimension of thinking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44c3aee522ffe9e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb0c10202760a02f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The third dimension of thinking.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf0a7ed012b8da63",
+  "lastOpenFiles": [
+    "Brick Exercise.md",
+    "Example-Problem-list.md",
+    "$100M Offers.md",
+    "The third dimension of thinking.md",
+    "Russell Brunson Story.md",
+    "other examples of Dream Outcomes.md",
+    "Grand-Slam Offer.md",
+    "Pasted image 20231006141817.png",
+    "Pasted image 20231004163646.png",
+    "2023-10-03-145108_651x772_scrot.png",
+    "Untitled"
+  ]
+}

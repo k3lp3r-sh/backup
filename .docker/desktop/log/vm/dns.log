@@ -1,0 +1,736 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:09.079739737Z][dns][I] [2023-10-30T11:12:07.059187941Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-10-30T11:12:09.079741804Z][dns][I] [2023-10-30T11:12:09.078795854Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T11:12:09.079747206Z][dns][I] [2023-10-30T11:12:09.078808294Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T11:12:09.079747549Z][dns][I] [2023-10-30T11:12:09.078816505Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-10-30T11:12:09.079749420Z][dns][I] [2023-10-30T11:12:09.078836653Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-10-30T11:12:09.079749708Z][dns][I] [2023-10-30T11:12:09.078841806Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-10-30T11:12:09.079751214Z][dns][I] [2023-10-30T11:12:09.078846127Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-10-30T11:12:09.079751474Z][dns][I] [2023-10-30T11:12:09.078858011Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-10-30T11:12:09.079752963Z][dns][I] [2023-10-30T11:12:09.078899695Z][init.leases][I] Removing all 0 IPs
+[2023-10-30T11:12:09.079753249Z][dns][I] [2023-10-30T11:12:09.078904545Z][init.leases][I] Removing complete
+[2023-10-30T11:12:09.080009828Z][dns][I] [2023-10-30T11:12:09.079959071Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-10-30T11:12:09.080020845Z][dns][I] [2023-10-30T11:12:09.079983621Z][init.leases][I] logging flow decisions to stderr
+[2023-10-30T11:12:10.834888296Z][dns][I] [2023-10-30T11:12:10.834812619Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-10-30T11:13:10.903314971Z][dns][I] [2023-10-30T11:13:10.903143884Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T11:13:10.903320015Z][dns][I] [2023-10-30T11:13:10.903202217Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-30T11:13:10.908976993Z][dns][I] [2023-10-30T11:13:10.908767858Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:13:15.119247974Z][dns][I] [2023-10-30T11:13:15.119058453Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T11:13:15.119275174Z][dns][I] [2023-10-30T11:13:15.119177020Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-30T11:13:15.127861564Z][dns][I] [2023-10-30T11:13:15.127739099Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:27.099878233Z][dns][I] [2023-10-30T11:16:25.078919743Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-10-30T11:16:27.099882516Z][dns][I] [2023-10-30T11:16:27.072389802Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T11:16:27.099888615Z][dns][I] [2023-10-30T11:16:27.072403378Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T11:16:27.099889124Z][dns][I] [2023-10-30T11:16:27.072412566Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-10-30T11:16:27.099891330Z][dns][I] [2023-10-30T11:16:27.072430393Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-10-30T11:16:27.099891656Z][dns][I] [2023-10-30T11:16:27.072436848Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-10-30T11:16:27.099893427Z][dns][I] [2023-10-30T11:16:27.072442024Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-10-30T11:16:27.099893793Z][dns][I] [2023-10-30T11:16:27.072447747Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-10-30T11:16:27.099895787Z][dns][I] [2023-10-30T11:16:27.072490983Z][init.leases][I] Removing all 0 IPs
+[2023-10-30T11:16:27.099896098Z][dns][I] [2023-10-30T11:16:27.072494603Z][init.leases][I] Removing complete
+[2023-10-30T11:16:27.100209937Z][dns][I] [2023-10-30T11:16:27.100145381Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-10-30T11:16:27.100484526Z][dns][I] [2023-10-30T11:16:27.100149413Z][init.leases][I] logging flow decisions to stderr
+[2023-10-30T11:16:28.388711773Z][dns][I] [2023-10-30T11:16:28.388405401Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-10-30T11:16:39.701953440Z][dns][I] [2023-10-30T11:16:39.701716677Z][init.leases][I] [;docker.io.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:16:40.132885349Z][dns][I] [2023-10-30T11:16:40.132674838Z][init.leases][I] Add       52.3.144.121 for docker.io.
+[2023-10-30T11:16:40.132897206Z][dns][I] [2023-10-30T11:16:40.132730237Z][init.leases][I] Add       54.165.156.197 for docker.io.
+[2023-10-30T11:16:40.132908216Z][dns][I] [2023-10-30T11:16:40.132742547Z][init.leases][I] Add       44.196.175.70 for docker.io.
+[2023-10-30T11:16:40.132908908Z][dns][I] [2023-10-30T11:16:40.132762614Z][init.leases][I] [;docker.io.	IN	 A] = [52.3.144.121 54.165.156.197 44.196.175.70], code = 0, err = <nil>
+[2023-10-30T11:17:28.683051932Z][dns][I] [2023-10-30T11:17:28.682787586Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T11:17:28.683092656Z][dns][I] [2023-10-30T11:17:28.682862968Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-30T11:17:28.693612285Z][dns][I] [2023-10-30T11:17:28.693430135Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:17:29.936762677Z][dns][I] [2023-10-30T11:17:29.936633686Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T11:17:29.936779838Z][dns][I] [2023-10-30T11:17:29.936711881Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-30T11:17:29.939016375Z][dns][I] [2023-10-30T11:17:29.938957555Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:30:44.103176976Z][dns][I] [2023-10-30T11:30:42.078252673Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-10-30T11:30:44.103178655Z][dns][I] [2023-10-30T11:30:44.101795857Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T11:30:44.103183404Z][dns][I] [2023-10-30T11:30:44.101814014Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T11:30:44.103183817Z][dns][I] [2023-10-30T11:30:44.101876494Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-10-30T11:30:44.103206715Z][dns][I] [2023-10-30T11:30:44.101916994Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-10-30T11:30:44.103207184Z][dns][I] [2023-10-30T11:30:44.101930010Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-10-30T11:30:44.103209627Z][dns][I] [2023-10-30T11:30:44.101944939Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-10-30T11:30:44.113062562Z][dns][I] [2023-10-30T11:30:44.101957418Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-10-30T11:30:44.113064319Z][dns][I] [2023-10-30T11:30:44.102004058Z][init.leases][I] Removing all 0 IPs
+[2023-10-30T11:30:44.113069165Z][dns][I] [2023-10-30T11:30:44.102013964Z][init.leases][I] Removing complete
+[2023-10-30T11:30:44.113076713Z][dns][I] [2023-10-30T11:30:44.103581296Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-10-30T11:30:44.113078456Z][dns][I] [2023-10-30T11:30:44.103891409Z][init.leases][I] logging flow decisions to stderr
+[2023-10-30T11:30:45.423609720Z][dns][I] [2023-10-30T11:30:45.423436105Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-10-30T11:30:58.857624506Z][dns][I] [2023-10-30T11:30:58.857355114Z][init.leases][I] Add       52.3.144.121 for docker.io.
+[2023-10-30T11:30:58.857695780Z][dns][I] [2023-10-30T11:30:58.857442687Z][init.leases][I] Add       44.196.175.70 for docker.io.
+[2023-10-30T11:30:58.857714160Z][dns][I] [2023-10-30T11:30:58.857479741Z][init.leases][I] Add       54.165.156.197 for docker.io.
+[2023-10-30T11:30:58.857715147Z][dns][I] [2023-10-30T11:30:58.857511229Z][init.leases][I] [;docker.io.	IN	 A] = [52.3.144.121 44.196.175.70 54.165.156.197], code = 0, err = <nil>
+[2023-10-30T11:30:58.863974868Z][dns][I] [2023-10-30T11:30:58.863784268Z][init.leases][I] [;docker.io.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:31:45.480644370Z][dns][I] [2023-10-30T11:31:45.480393989Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:31:45.493106871Z][dns][I] [2023-10-30T11:31:45.492989232Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T11:31:45.493109851Z][dns][I] [2023-10-30T11:31:45.493050149Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-30T11:31:46.707858856Z][dns][I] [2023-10-30T11:31:46.707424198Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:31:47.212901378Z][dns][I] [2023-10-30T11:31:47.212534936Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T11:31:47.212923430Z][dns][I] [2023-10-30T11:31:47.212723891Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-30T11:31:58.806743572Z][dns][I] [2023-10-30T11:31:58.806475269Z][init.leases][I] Add       54.165.156.197 for docker.io.
+[2023-10-30T11:31:58.806749733Z][dns][I] [2023-10-30T11:31:58.806664014Z][init.leases][I] Add       44.196.175.70 for docker.io.
+[2023-10-30T11:31:58.806780569Z][dns][I] [2023-10-30T11:31:58.806735577Z][init.leases][I] Add       52.3.144.121 for docker.io.
+[2023-10-30T11:31:58.806818121Z][dns][I] [2023-10-30T11:31:58.806781714Z][init.leases][I] [;docker.io.	IN	 A] = [54.165.156.197 44.196.175.70 52.3.144.121], code = 0, err = <nil>
+[2023-10-30T11:31:58.809700558Z][dns][I] [2023-10-30T11:31:58.809480325Z][init.leases][I] [;docker.io.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:52:05.541724761Z][dns][I] [2023-10-30T11:52:05.541466987Z][init.leases][I] [;docker.io.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:52:07.110471284Z][dns][I] [2023-10-30T11:52:07.110250848Z][init.leases][I] Add       54.165.156.197 for docker.io.
+[2023-10-30T11:52:07.110477229Z][dns][I] [2023-10-30T11:52:07.110353699Z][init.leases][I] Add       44.196.175.70 for docker.io.
+[2023-10-30T11:52:07.110495115Z][dns][I] [2023-10-30T11:52:07.110382182Z][init.leases][I] Add       52.3.144.121 for docker.io.
+[2023-10-30T11:52:07.110496119Z][dns][I] [2023-10-30T11:52:07.110415991Z][init.leases][I] [;docker.io.	IN	 A] = [54.165.156.197 44.196.175.70 52.3.144.121], code = 0, err = <nil>
+[2023-10-30T11:52:45.864000217Z][dns][I] [2023-10-30T11:52:45.863804514Z][init.leases][I] Add       52.3.144.121 for docker.io.
+[2023-10-30T11:52:45.864005053Z][dns][I] [2023-10-30T11:52:45.863889281Z][init.leases][I] Add       44.196.175.70 for docker.io.
+[2023-10-30T11:52:45.864019041Z][dns][I] [2023-10-30T11:52:45.863919088Z][init.leases][I] Add       54.165.156.197 for docker.io.
+[2023-10-30T11:52:45.864029518Z][dns][I] [2023-10-30T11:52:45.863984765Z][init.leases][I] [;docker.io.	IN	 A] = [52.3.144.121 44.196.175.70 54.165.156.197], code = 0, err = <nil>
+[2023-10-30T11:52:45.864144153Z][dns][I] [2023-10-30T11:52:45.864036675Z][init.leases][I] [;docker.io.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T11:56:07.032967959Z][dns][I] [2023-10-30T11:56:07.032619157Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-30T11:56:08.266506681Z][dns][I] [2023-10-30T11:56:08.266295067Z][init.leases][I] Add       151.101.154.132 for debian.map.fastlydns.net.
+[2023-10-30T11:56:08.266526876Z][dns][I] [2023-10-30T11:56:08.266414581Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.154.132], code = 0, err = <nil>
+[2023-10-30T11:58:06.841519286Z][dns][I] [2023-10-30T11:58:06.841265380Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-30T11:58:08.177243062Z][dns][I] [2023-10-30T11:58:08.176968566Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-10-30T11:58:08.177249887Z][dns][I] [2023-10-30T11:58:08.177115108Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-10-30T11:59:15.039772505Z][dns][I] [2023-10-30T11:59:15.039494816Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-30T11:59:15.561662396Z][dns][I] [2023-10-30T11:59:15.561446028Z][init.leases][I] Add       151.101.154.132 for debian.map.fastlydns.net.
+[2023-10-30T11:59:15.561667044Z][dns][I] [2023-10-30T11:59:15.561539455Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.154.132], code = 0, err = <nil>
+[2023-10-30T12:03:06.976489899Z][dns][I] [2023-10-30T12:03:06.976237986Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-30T12:03:08.003631904Z][dns][I] [2023-10-30T12:03:08.003367908Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-10-30T12:03:08.003649983Z][dns][I] [2023-10-30T12:03:08.003451810Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-10-30T12:03:32.114556276Z][dns][I] [2023-10-30T12:03:32.114362216Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-30T12:03:32.140815072Z][dns][I] [2023-10-30T12:03:32.140518339Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-10-30T12:03:32.140899236Z][dns][I] [2023-10-30T12:03:32.140679239Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:46.096374770Z][dns][I] [2023-10-30T12:16:44.030022026Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-10-30T12:16:46.096385548Z][dns][I] [2023-10-30T12:16:46.096080155Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T12:16:46.096389113Z][dns][I] [2023-10-30T12:16:46.096090395Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T12:16:46.096389383Z][dns][I] [2023-10-30T12:16:46.096096885Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-10-30T12:16:46.096390830Z][dns][I] [2023-10-30T12:16:46.096111789Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-10-30T12:16:46.096391082Z][dns][I] [2023-10-30T12:16:46.096115410Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-10-30T12:16:46.096392296Z][dns][I] [2023-10-30T12:16:46.096118505Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-10-30T12:16:46.096392488Z][dns][I] [2023-10-30T12:16:46.096121743Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-10-30T12:16:46.096393525Z][dns][I] [2023-10-30T12:16:46.096155105Z][init.leases][I] Removing all 0 IPs
+[2023-10-30T12:16:46.096393716Z][dns][I] [2023-10-30T12:16:46.096160668Z][init.leases][I] Removing complete
+[2023-10-30T12:16:46.096431287Z][dns][I] [2023-10-30T12:16:46.096415461Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-10-30T12:16:46.096450139Z][dns][I] [2023-10-30T12:16:46.096444725Z][init.leases][I] logging flow decisions to stderr
+[2023-10-30T12:16:48.303304799Z][dns][I] [2023-10-30T12:16:48.303192874Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-10-30T12:17:48.464236701Z][dns][I] [2023-10-30T12:17:48.464075934Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T12:17:49.590060869Z][dns][I] [2023-10-30T12:17:49.589889986Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T12:17:49.593270596Z][dns][I] [2023-10-30T12:17:49.593068915Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T12:17:49.593303508Z][dns][I] [2023-10-30T12:17:49.593140150Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-30T12:17:49.604075401Z][dns][I] [2023-10-30T12:17:49.603906903Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T12:17:49.604080516Z][dns][I] [2023-10-30T12:17:49.603976054Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-30T12:25:16.978553958Z][dns][I] [2023-10-30T12:25:16.978040449Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-30T12:25:18.619976529Z][dns][I] [2023-10-30T12:25:18.619725098Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-10-30T12:25:18.620003387Z][dns][I] [2023-10-30T12:25:18.619858080Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-10-30T12:25:42.354465991Z][dns][I] [2023-10-30T12:25:42.354286307Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-30T12:25:42.580762315Z][dns][I] [2023-10-30T12:25:42.580554181Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-10-30T12:25:42.580770890Z][dns][I] [2023-10-30T12:25:42.580682957Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-10-30T12:27:21.018060509Z][dns][I] [2023-10-30T12:27:21.017842604Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-30T12:27:21.160307915Z][dns][I] [2023-10-30T12:27:21.159998191Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-10-30T12:27:21.160324286Z][dns][I] [2023-10-30T12:27:21.160280826Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:55.074567455Z][dns][I] [2023-10-30T18:22:53.039364253Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-10-30T18:22:55.074618678Z][dns][I] [2023-10-30T18:22:55.049263953Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T18:22:55.074619400Z][dns][I] [2023-10-30T18:22:55.049286065Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-30T18:22:55.074623310Z][dns][I] [2023-10-30T18:22:55.049304233Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-10-30T18:22:55.074625040Z][dns][I] [2023-10-30T18:22:55.049337632Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-10-30T18:22:55.074626184Z][dns][I] [2023-10-30T18:22:55.049352216Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-10-30T18:22:55.074626374Z][dns][I] [2023-10-30T18:22:55.049363248Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-10-30T18:22:55.074627040Z][dns][I] [2023-10-30T18:22:55.049375221Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-10-30T18:22:55.074627166Z][dns][I] [2023-10-30T18:22:55.049429578Z][init.leases][I] Removing all 0 IPs
+[2023-10-30T18:22:55.074627853Z][dns][I] [2023-10-30T18:22:55.049436676Z][init.leases][I] Removing complete
+[2023-10-30T18:22:55.074790831Z][dns][I] [2023-10-30T18:22:55.074683104Z][init.leases][I] logging flow decisions to stderr
+[2023-10-30T18:22:55.074793549Z][dns][I] [2023-10-30T18:22:55.074682664Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-10-30T18:22:57.364714842Z][dns][I] [2023-10-30T18:22:57.364578330Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-10-30T18:23:57.541564254Z][dns][I] [2023-10-30T18:23:57.541328868Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T18:23:57.550965971Z][dns][I] [2023-10-30T18:23:57.550909712Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T18:23:57.550986506Z][dns][I] [2023-10-30T18:23:57.550971925Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-30T18:23:58.705309268Z][dns][I] [2023-10-30T18:23:58.705190644Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-30T18:23:58.719319790Z][dns][I] [2023-10-30T18:23:58.719064237Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-30T18:23:58.719349840Z][dns][I] [2023-10-30T18:23:58.719187193Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:20.171298115Z][dns][I] [2023-10-31T14:21:18.110400825Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-10-31T14:21:20.171299366Z][dns][I] [2023-10-31T14:21:20.170614426Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-31T14:21:20.171302708Z][dns][I] [2023-10-31T14:21:20.170639154Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-10-31T14:21:20.171302960Z][dns][I] [2023-10-31T14:21:20.170653772Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-10-31T14:21:20.171304403Z][dns][I] [2023-10-31T14:21:20.170686354Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-10-31T14:21:20.171304592Z][dns][I] [2023-10-31T14:21:20.170697617Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-10-31T14:21:20.171305516Z][dns][I] [2023-10-31T14:21:20.170707338Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-10-31T14:21:20.171305676Z][dns][I] [2023-10-31T14:21:20.170716877Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-10-31T14:21:20.171306493Z][dns][I] [2023-10-31T14:21:20.170761525Z][init.leases][I] Removing all 0 IPs
+[2023-10-31T14:21:20.171306733Z][dns][I] [2023-10-31T14:21:20.170766680Z][init.leases][I] Removing complete
+[2023-10-31T14:21:20.171449711Z][dns][I] [2023-10-31T14:21:20.171421956Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-10-31T14:21:20.171464980Z][dns][I] [2023-10-31T14:21:20.171426419Z][init.leases][I] logging flow decisions to stderr
+[2023-10-31T14:21:21.405647558Z][dns][I] [2023-10-31T14:21:21.405506997Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-10-31T14:22:21.718618521Z][dns][I] [2023-10-31T14:22:21.718440924Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-31T14:22:21.718637093Z][dns][I] [2023-10-31T14:22:21.718586821Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-31T14:22:22.473857956Z][dns][I] [2023-10-31T14:22:22.473604012Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:22:23.144379331Z][dns][I] [2023-10-31T14:22:23.144067052Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-10-31T14:22:23.144399756Z][dns][I] [2023-10-31T14:22:23.144206936Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-10-31T14:22:23.151512181Z][dns][I] [2023-10-31T14:22:23.151302895Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:23:21.731812607Z][dns][I] [2023-10-31T14:23:21.731485468Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-31T14:23:22.376246857Z][dns][I] [2023-10-31T14:23:22.376040437Z][init.leases][I] Add       151.101.154.132 for debian.map.fastlydns.net.
+[2023-10-31T14:23:22.376273259Z][dns][I] [2023-10-31T14:23:22.376168668Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.154.132], code = 0, err = <nil>
+[2023-10-31T14:24:43.249589904Z][dns][I] [2023-10-31T14:24:43.249148576Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-31T14:24:44.991916601Z][dns][I] [2023-10-31T14:24:44.991275858Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-10-31T14:24:44.991934778Z][dns][I] [2023-10-31T14:24:44.991529432Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-10-31T14:26:39.752361153Z][dns][I] [2023-10-31T14:26:39.752072340Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:26:39.784452255Z][dns][I] [2023-10-31T14:26:39.784195363Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:26:39.784456295Z][dns][I] [2023-10-31T14:26:39.784348722Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:33:40.147596568Z][dns][I] [2023-10-31T14:33:40.147416138Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-10-31T14:33:41.893622271Z][dns][I] [2023-10-31T14:33:41.893392087Z][init.leases][I] Add       151.101.154.132 for debian.map.fastlydns.net.
+[2023-10-31T14:33:41.893686324Z][dns][I] [2023-10-31T14:33:41.893628656Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.154.132], code = 0, err = <nil>
+[2023-10-31T14:36:29.561104164Z][dns][I] [2023-10-31T14:36:29.560947640Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:36:29.561127767Z][dns][I] [2023-10-31T14:36:29.560989653Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:36:29.598445856Z][dns][I] [2023-10-31T14:36:29.598224643Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:31.058887174Z][dns][I] [2023-10-31T14:36:31.058736993Z][init.leases][I] Add       20.207.73.88 for codeload.github.com.
+[2023-10-31T14:36:31.058919360Z][dns][I] [2023-10-31T14:36:31.058844894Z][init.leases][I] [;codeload.github.com.	IN	 A] = [20.207.73.88], code = 0, err = <nil>
+[2023-10-31T14:36:35.192660911Z][dns][I] [2023-10-31T14:36:35.192339773Z][init.leases][I] Add       20.207.73.88 for codeload.github.com.
+[2023-10-31T14:36:35.192688035Z][dns][I] [2023-10-31T14:36:35.192462784Z][init.leases][I] [;codeload.github.com.	IN	 A] = [20.207.73.88], code = 0, err = <nil>
+[2023-10-31T14:36:35.248875763Z][dns][I] [2023-10-31T14:36:35.248574863Z][init.leases][I] [;codeload.github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:36.058470793Z][dns][I] [2023-10-31T14:36:36.058274210Z][init.leases][I] [;codeload.github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:37.152651413Z][dns][I] [2023-10-31T14:36:37.152332445Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:37.165801755Z][dns][I] [2023-10-31T14:36:37.165578510Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:36:37.165822554Z][dns][I] [2023-10-31T14:36:37.165672079Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:36:38.080319280Z][dns][I] [2023-10-31T14:36:38.080017173Z][init.leases][I] [;codeload.github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:38.082751931Z][dns][I] [2023-10-31T14:36:38.082500988Z][init.leases][I] Add       20.207.73.88 for codeload.github.com.
+[2023-10-31T14:36:38.082772480Z][dns][I] [2023-10-31T14:36:38.082623039Z][init.leases][I] [;codeload.github.com.	IN	 A] = [20.207.73.88], code = 0, err = <nil>
+[2023-10-31T14:36:39.838230376Z][dns][I] [2023-10-31T14:36:39.837969786Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:39.839225045Z][dns][I] [2023-10-31T14:36:39.839011648Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:36:39.839253947Z][dns][I] [2023-10-31T14:36:39.839134520Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:36:40.532105397Z][dns][I] [2023-10-31T14:36:40.531804465Z][init.leases][I] Add       20.207.73.88 for codeload.github.com.
+[2023-10-31T14:36:40.532129462Z][dns][I] [2023-10-31T14:36:40.531925032Z][init.leases][I] [;codeload.github.com.	IN	 A] = [20.207.73.88], code = 0, err = <nil>
+[2023-10-31T14:36:40.551469730Z][dns][I] [2023-10-31T14:36:40.551182878Z][init.leases][I] [;codeload.github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:43.536418309Z][dns][I] [2023-10-31T14:36:43.536241907Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:43.544887112Z][dns][I] [2023-10-31T14:36:43.544705558Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:36:43.544898802Z][dns][I] [2023-10-31T14:36:43.544836331Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:36:44.114001134Z][dns][I] [2023-10-31T14:36:44.113822666Z][init.leases][I] [;codeload.github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:44.122686311Z][dns][I] [2023-10-31T14:36:44.122555842Z][init.leases][I] Add       20.207.73.88 for codeload.github.com.
+[2023-10-31T14:36:44.122689069Z][dns][I] [2023-10-31T14:36:44.122663591Z][init.leases][I] [;codeload.github.com.	IN	 A] = [20.207.73.88], code = 0, err = <nil>
+[2023-10-31T14:36:52.669119249Z][dns][I] [2023-10-31T14:36:52.669024970Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:52.678167126Z][dns][I] [2023-10-31T14:36:52.678014510Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:36:52.678187959Z][dns][I] [2023-10-31T14:36:52.678086175Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:36:53.379178558Z][dns][I] [2023-10-31T14:36:53.379008986Z][init.leases][I] [;objects.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:53.384918273Z][dns][I] [2023-10-31T14:36:53.384775730Z][init.leases][I] Add       185.199.108.133 for objects.githubusercontent.com.
+[2023-10-31T14:36:53.384933265Z][dns][I] [2023-10-31T14:36:53.384829640Z][init.leases][I] Add       185.199.111.133 for objects.githubusercontent.com.
+[2023-10-31T14:36:53.384944042Z][dns][I] [2023-10-31T14:36:53.384840912Z][init.leases][I] Add       185.199.110.133 for objects.githubusercontent.com.
+[2023-10-31T14:36:53.384944515Z][dns][I] [2023-10-31T14:36:53.384849153Z][init.leases][I] Add       185.199.109.133 for objects.githubusercontent.com.
+[2023-10-31T14:36:53.384947235Z][dns][I] [2023-10-31T14:36:53.384875109Z][init.leases][I] [;objects.githubusercontent.com.	IN	 A] = [185.199.108.133 185.199.111.133 185.199.110.133 185.199.109.133], code = 0, err = <nil>
+[2023-10-31T14:36:55.217745858Z][dns][I] [2023-10-31T14:36:55.217590992Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:36:55.217763979Z][dns][I] [2023-10-31T14:36:55.217713919Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:36:55.221007499Z][dns][I] [2023-10-31T14:36:55.220834845Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:55.785319892Z][dns][I] [2023-10-31T14:36:55.785005526Z][init.leases][I] [;codeload.github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:36:55.786235592Z][dns][I] [2023-10-31T14:36:55.785928714Z][init.leases][I] Add       20.207.73.88 for codeload.github.com.
+[2023-10-31T14:36:55.786268897Z][dns][I] [2023-10-31T14:36:55.786034208Z][init.leases][I] [;codeload.github.com.	IN	 A] = [20.207.73.88], code = 0, err = <nil>
+[2023-10-31T14:37:09.373375308Z][dns][I] [2023-10-31T14:37:09.373062123Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:37:09.376844197Z][dns][I] [2023-10-31T14:37:09.376641159Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:37:09.376864924Z][dns][I] [2023-10-31T14:37:09.376720927Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:37:10.432907800Z][dns][I] [2023-10-31T14:37:10.432681099Z][init.leases][I] Add       20.207.73.88 for codeload.github.com.
+[2023-10-31T14:37:10.432933347Z][dns][I] [2023-10-31T14:37:10.432799935Z][init.leases][I] [;codeload.github.com.	IN	 A] = [20.207.73.88], code = 0, err = <nil>
+[2023-10-31T14:37:10.433765269Z][dns][I] [2023-10-31T14:37:10.433638473Z][init.leases][I] [;codeload.github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:37:11.452439309Z][dns][I] [2023-10-31T14:37:11.452204957Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:37:11.453066806Z][dns][I] [2023-10-31T14:37:11.452891488Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:37:11.453085006Z][dns][I] [2023-10-31T14:37:11.452941798Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:37:12.172337433Z][dns][I] [2023-10-31T14:37:12.172036000Z][init.leases][I] [;codeload.github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:37:12.173730954Z][dns][I] [2023-10-31T14:37:12.173417905Z][init.leases][I] Add       20.207.73.88 for codeload.github.com.
+[2023-10-31T14:37:12.173751254Z][dns][I] [2023-10-31T14:37:12.173610039Z][init.leases][I] [;codeload.github.com.	IN	 A] = [20.207.73.88], code = 0, err = <nil>
+[2023-10-31T14:37:15.384262796Z][dns][I] [2023-10-31T14:37:15.384010683Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:37:15.437615021Z][dns][I] [2023-10-31T14:37:15.437307509Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:37:15.437648972Z][dns][I] [2023-10-31T14:37:15.437469257Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:37:16.079399228Z][dns][I] [2023-10-31T14:37:16.079213417Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:37:16.185863484Z][dns][I] [2023-10-31T14:37:16.185666032Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T14:37:16.185887505Z][dns][I] [2023-10-31T14:37:16.185795977Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T14:38:41.101678283Z][dns][I] [2023-10-31T14:38:41.101501169Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:38:41.101685695Z][dns][I] [2023-10-31T14:38:41.101613576Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:38:41.102067527Z][dns][I] [2023-10-31T14:38:41.101869918Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:38:41.896423757Z][dns][I] [2023-10-31T14:38:41.896144904Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T14:38:41.896455202Z][dns][I] [2023-10-31T14:38:41.896267685Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T14:38:41.896491782Z][dns][I] [2023-10-31T14:38:41.896426255Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:40:11.562501419Z][dns][I] [2023-10-31T14:40:11.562423802Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:40:11.563872205Z][dns][I] [2023-10-31T14:40:11.563831685Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:40:11.564003993Z][dns][I] [2023-10-31T14:40:11.563982945Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:40:11.775848459Z][dns][I] [2023-10-31T14:40:11.775816834Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T14:40:11.775856901Z][dns][I] [2023-10-31T14:40:11.775852644Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T14:40:11.779398044Z][dns][I] [2023-10-31T14:40:11.779381817Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:41:40.723768483Z][dns][I] [2023-10-31T14:41:40.723681877Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:41:40.723924496Z][dns][I] [2023-10-31T14:41:40.723845649Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:41:40.723932663Z][dns][I] [2023-10-31T14:41:40.723918810Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:41:41.280295068Z][dns][I] [2023-10-31T14:41:41.279949779Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:41:41.290560826Z][dns][I] [2023-10-31T14:41:41.290365799Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T14:41:41.290598882Z][dns][I] [2023-10-31T14:41:41.290453875Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T14:43:18.704384269Z][dns][I] [2023-10-31T14:43:18.704093466Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:43:18.704415758Z][dns][I] [2023-10-31T14:43:18.704293782Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:43:18.704529016Z][dns][I] [2023-10-31T14:43:18.704453561Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:43:19.115023785Z][dns][I] [2023-10-31T14:43:19.114818699Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T14:43:19.115030511Z][dns][I] [2023-10-31T14:43:19.114917313Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T14:43:19.115394217Z][dns][I] [2023-10-31T14:43:19.115143756Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:45:42.293956606Z][dns][I] [2023-10-31T14:45:42.293551684Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:45:42.293962476Z][dns][I] [2023-10-31T14:45:42.293668543Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T14:45:42.293989667Z][dns][I] [2023-10-31T14:45:42.293892863Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T14:45:43.279405493Z][dns][I] [2023-10-31T14:45:43.279135624Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T14:45:43.289562764Z][dns][I] [2023-10-31T14:45:43.289390028Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T14:45:43.289581921Z][dns][I] [2023-10-31T14:45:43.289487680Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T16:45:30.283943728Z][dns][I] [2023-10-31T16:45:30.283796229Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T16:45:30.283948777Z][dns][I] [2023-10-31T16:45:30.283915214Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T16:45:31.006748684Z][dns][I] [2023-10-31T16:45:31.006500016Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:45:31.522323615Z][dns][I] [2023-10-31T16:45:31.522152298Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:45:31.523542260Z][dns][I] [2023-10-31T16:45:31.523309084Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T16:45:31.523548211Z][dns][I] [2023-10-31T16:45:31.523427161Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T16:45:46.043174828Z][dns][I] [2023-10-31T16:45:46.042901572Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:45:46.044059944Z][dns][I] [2023-10-31T16:45:46.043847451Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T16:45:46.044065104Z][dns][I] [2023-10-31T16:45:46.043924104Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T16:45:46.609645804Z][dns][I] [2023-10-31T16:45:46.609361418Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T16:45:46.609673002Z][dns][I] [2023-10-31T16:45:46.609466624Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T16:45:46.609704111Z][dns][I] [2023-10-31T16:45:46.609595496Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:47:10.593969711Z][dns][I] [2023-10-31T16:47:10.593731292Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:47:10.594281798Z][dns][I] [2023-10-31T16:47:10.594167533Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T16:47:10.594283880Z][dns][I] [2023-10-31T16:47:10.594248926Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T16:47:10.837960900Z][dns][I] [2023-10-31T16:47:10.837739073Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:47:10.838758830Z][dns][I] [2023-10-31T16:47:10.838670545Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T16:47:10.838790961Z][dns][I] [2023-10-31T16:47:10.838733960Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T16:48:37.697323073Z][dns][I] [2023-10-31T16:48:37.697154972Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:48:37.775112247Z][dns][I] [2023-10-31T16:48:37.774878726Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T16:48:37.775144689Z][dns][I] [2023-10-31T16:48:37.774984940Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T16:48:38.490742802Z][dns][I] [2023-10-31T16:48:38.490554916Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:48:38.490764887Z][dns][I] [2023-10-31T16:48:38.490663532Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T16:48:38.490787975Z][dns][I] [2023-10-31T16:48:38.490731230Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T16:50:05.654965248Z][dns][I] [2023-10-31T16:50:05.654668546Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T16:50:05.654988830Z][dns][I] [2023-10-31T16:50:05.654842843Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T16:50:05.656583243Z][dns][I] [2023-10-31T16:50:05.656318477Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:50:05.898584884Z][dns][I] [2023-10-31T16:50:05.898311204Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:50:05.899454635Z][dns][I] [2023-10-31T16:50:05.899184576Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T16:50:05.899460022Z][dns][I] [2023-10-31T16:50:05.899323445Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T16:51:42.733330403Z][dns][I] [2023-10-31T16:51:42.733050642Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T16:51:42.733337701Z][dns][I] [2023-10-31T16:51:42.733172747Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T16:51:42.733376507Z][dns][I] [2023-10-31T16:51:42.733300017Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:51:43.277043862Z][dns][I] [2023-10-31T16:51:43.276760190Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T16:51:43.277071076Z][dns][I] [2023-10-31T16:51:43.276890451Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T16:51:43.277176118Z][dns][I] [2023-10-31T16:51:43.277054445Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:54:06.696332045Z][dns][I] [2023-10-31T16:54:06.696153990Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-10-31T16:54:06.696349448Z][dns][I] [2023-10-31T16:54:06.696265435Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-10-31T16:54:06.696500234Z][dns][I] [2023-10-31T16:54:06.696383399Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-10-31T16:54:07.266443568Z][dns][I] [2023-10-31T16:54:07.266122830Z][init.leases][I] Add       49.44.79.236 for raw.githubusercontent.com.
+[2023-10-31T16:54:07.266517068Z][dns][I] [2023-10-31T16:54:07.266259053Z][init.leases][I] [;raw.githubusercontent.com.	IN	 A] = [49.44.79.236], code = 0, err = <nil>
+[2023-10-31T16:54:07.266559756Z][dns][I] [2023-10-31T16:54:07.266524339Z][init.leases][I] [;raw.githubusercontent.com.	IN	 AAAA] = [], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:15.058128004Z][dns][I] [2023-11-01T10:49:13.032877232Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-01T10:49:15.058133210Z][dns][I] [2023-11-01T10:49:15.055816940Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-01T10:49:15.058173010Z][dns][I] [2023-11-01T10:49:15.055839725Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-01T10:49:15.058174469Z][dns][I] [2023-11-01T10:49:15.055857027Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-01T10:49:15.058181405Z][dns][I] [2023-11-01T10:49:15.055899817Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-01T10:49:15.058182440Z][dns][I] [2023-11-01T10:49:15.055915480Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-01T10:49:15.058187033Z][dns][I] [2023-11-01T10:49:15.055928432Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-01T10:49:15.058187825Z][dns][I] [2023-11-01T10:49:15.055940412Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-01T10:49:15.058192845Z][dns][I] [2023-11-01T10:49:15.056010560Z][init.leases][I] Removing all 0 IPs
+[2023-11-01T10:49:15.058193711Z][dns][I] [2023-11-01T10:49:15.056017254Z][init.leases][I] Removing complete
+[2023-11-01T10:49:15.058923647Z][dns][I] [2023-11-01T10:49:15.058507413Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-01T10:49:15.058932012Z][dns][I] [2023-11-01T10:49:15.058777507Z][init.leases][I] logging flow decisions to stderr
+[2023-11-01T10:49:17.352962093Z][dns][I] [2023-11-01T10:49:17.352757515Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-01T10:50:18.263863858Z][dns][I] [2023-11-01T10:50:18.263682349Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-01T10:50:19.810812100Z][dns][I] [2023-11-01T10:50:19.810716692Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-01T10:50:19.810822496Z][dns][I] [2023-11-01T10:50:19.810794687Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-01T10:50:19.810836783Z][dns][I] [2023-11-01T10:50:19.810801548Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-01T10:50:19.810840563Z][dns][I] [2023-11-01T10:50:19.810828684Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-01T10:50:19.811004153Z][dns][I] [2023-11-01T10:50:19.810856656Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:19.102983541Z][dns][I] [2023-11-02T11:16:17.058482000Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-02T11:16:19.102985348Z][dns][I] [2023-11-02T11:16:19.102033674Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-02T11:16:19.102989464Z][dns][I] [2023-11-02T11:16:19.102044638Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-02T11:16:19.102989705Z][dns][I] [2023-11-02T11:16:19.102052999Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-02T11:16:19.102990858Z][dns][I] [2023-11-02T11:16:19.102078104Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-02T11:16:19.102991071Z][dns][I] [2023-11-02T11:16:19.102084964Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-02T11:16:19.102991961Z][dns][I] [2023-11-02T11:16:19.102089438Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-02T11:16:19.102992129Z][dns][I] [2023-11-02T11:16:19.102095218Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-02T11:16:19.102992959Z][dns][I] [2023-11-02T11:16:19.102129804Z][init.leases][I] Removing all 0 IPs
+[2023-11-02T11:16:19.102993153Z][dns][I] [2023-11-02T11:16:19.102133015Z][init.leases][I] Removing complete
+[2023-11-02T11:16:19.103120484Z][dns][I] [2023-11-02T11:16:19.103082202Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-02T11:16:19.103213735Z][dns][I] [2023-11-02T11:16:19.103160172Z][init.leases][I] logging flow decisions to stderr
+[2023-11-02T11:16:20.413889305Z][dns][I] [2023-11-02T11:16:20.413564240Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-02T11:17:20.794541717Z][dns][I] [2023-11-02T11:17:20.794287590Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-02T11:17:21.913750579Z][dns][I] [2023-11-02T11:17:21.913523898Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-02T11:17:21.913777732Z][dns][I] [2023-11-02T11:17:21.913656746Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-02T11:17:21.914063313Z][dns][I] [2023-11-02T11:17:21.913778735Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-02T11:17:22.153298070Z][dns][I] [2023-11-02T11:17:22.153086142Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-02T11:17:22.153338447Z][dns][I] [2023-11-02T11:17:22.153206104Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:20.110200388Z][dns][I] [2023-11-02T14:21:18.034534629Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-02T14:21:20.110201112Z][dns][I] [2023-11-02T14:21:20.109804575Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-02T14:21:20.110204657Z][dns][I] [2023-11-02T14:21:20.109822854Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-02T14:21:20.110204911Z][dns][I] [2023-11-02T14:21:20.109840241Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-02T14:21:20.110206519Z][dns][I] [2023-11-02T14:21:20.109873474Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-02T14:21:20.110206712Z][dns][I] [2023-11-02T14:21:20.109886796Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-02T14:21:20.110207766Z][dns][I] [2023-11-02T14:21:20.109899018Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-02T14:21:20.110207941Z][dns][I] [2023-11-02T14:21:20.109907267Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-02T14:21:20.110208971Z][dns][I] [2023-11-02T14:21:20.109945766Z][init.leases][I] Removing all 0 IPs
+[2023-11-02T14:21:20.110209155Z][dns][I] [2023-11-02T14:21:20.109949992Z][init.leases][I] Removing complete
+[2023-11-02T14:21:20.110282259Z][dns][I] [2023-11-02T14:21:20.110251912Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-02T14:21:20.110289858Z][dns][I] [2023-11-02T14:21:20.110272556Z][init.leases][I] logging flow decisions to stderr
+[2023-11-02T14:21:22.276231441Z][dns][I] [2023-11-02T14:21:22.275954269Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-02T14:22:22.199943664Z][dns][I] [2023-11-02T14:22:22.199890707Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-02T14:22:22.822339727Z][dns][I] [2023-11-02T14:22:22.822175858Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-02T14:22:22.822383964Z][dns][I] [2023-11-02T14:22:22.822283541Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-02T14:22:23.272952397Z][dns][I] [2023-11-02T14:22:23.272781678Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-02T14:22:23.273153512Z][dns][I] [2023-11-02T14:22:23.272978112Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-02T14:22:23.273170589Z][dns][I] [2023-11-02T14:22:23.272787181Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:58:58.059023675Z][dns][I] [2023-11-08T08:58:56.030629797Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-08T08:58:58.059029170Z][dns][I] [2023-11-08T08:58:58.058554319Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-08T08:58:58.059036994Z][dns][I] [2023-11-08T08:58:58.058571384Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-08T08:58:58.059037408Z][dns][I] [2023-11-08T08:58:58.058585529Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-08T08:58:58.059039714Z][dns][I] [2023-11-08T08:58:58.058618886Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-08T08:58:58.059040144Z][dns][I] [2023-11-08T08:58:58.058628702Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-08T08:58:58.059042777Z][dns][I] [2023-11-08T08:58:58.058637957Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-08T08:58:58.059043241Z][dns][I] [2023-11-08T08:58:58.058647710Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-08T08:58:58.059045241Z][dns][I] [2023-11-08T08:58:58.058699042Z][init.leases][I] Removing all 0 IPs
+[2023-11-08T08:58:58.059045749Z][dns][I] [2023-11-08T08:58:58.058710792Z][init.leases][I] Removing complete
+[2023-11-08T08:58:58.059489397Z][dns][I] [2023-11-08T08:58:58.059406901Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-08T08:58:58.059490589Z][dns][I] [2023-11-08T08:58:58.059435910Z][init.leases][I] logging flow decisions to stderr
+[2023-11-08T08:58:59.280107652Z][dns][I] [2023-11-08T08:58:59.280052199Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-08T08:59:59.711449269Z][dns][I] [2023-11-08T08:59:59.711375205Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 3, err = <nil>
+[2023-11-08T08:59:59.711464363Z][dns][I] [2023-11-08T08:59:59.711423430Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-08T09:00:00.783430656Z][dns][I] [2023-11-08T09:00:00.783325143Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-08T09:00:00.783515996Z][dns][I] [2023-11-08T09:00:00.783460165Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 3, err = <nil>
+[2023-11-08T09:02:47.947811124Z][dns][I] [2023-11-08T09:02:47.947716884Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:02:47.949635737Z][dns][I] [2023-11-08T09:02:47.949567481Z][init.leases][I] [;deb.debian.org.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-08T09:02:47.951237937Z][dns][I] [2023-11-08T09:02:47.951184374Z][init.leases][I] [;deb.debian.org.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-08T09:02:47.952844999Z][dns][I] [2023-11-08T09:02:47.952792647Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:02:47.954290073Z][dns][I] [2023-11-08T09:02:47.954233069Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:02:48.958906440Z][dns][I] [2023-11-08T09:02:48.958748242Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:02:48.962694762Z][dns][I] [2023-11-08T09:02:48.962516866Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:02:48.965959680Z][dns][I] [2023-11-08T09:02:48.965727775Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:02:50.966864976Z][dns][I] [2023-11-08T09:02:50.966594412Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:02:50.971447526Z][dns][I] [2023-11-08T09:02:50.971331356Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:02:50.974442102Z][dns][I] [2023-11-08T09:02:50.974322438Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:06:34.021493819Z][dns][I] [2023-11-08T09:06:34.021393377Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:06:34.022711815Z][dns][I] [2023-11-08T09:06:34.022553901Z][init.leases][I] [;deb.debian.org.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-08T09:06:34.023692901Z][dns][I] [2023-11-08T09:06:34.023628375Z][init.leases][I] [;deb.debian.org.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-08T09:06:34.024453551Z][dns][I] [2023-11-08T09:06:34.024436452Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:06:34.025163648Z][dns][I] [2023-11-08T09:06:34.025142138Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:06:35.031415470Z][dns][I] [2023-11-08T09:06:35.031115288Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:06:35.034428349Z][dns][I] [2023-11-08T09:06:35.034295714Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:06:35.036764872Z][dns][I] [2023-11-08T09:06:35.036693313Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:06:37.039126561Z][dns][I] [2023-11-08T09:06:37.038946180Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:06:37.043135160Z][dns][I] [2023-11-08T09:06:37.042954461Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:06:37.045441836Z][dns][I] [2023-11-08T09:06:37.045314354Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 3, err = <nil>
+[2023-11-08T09:07:25.317180206Z][dns][I] [2023-11-08T09:07:25.316767623Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-08T09:07:27.065110567Z][dns][I] [2023-11-08T09:07:27.064726019Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-08T09:07:27.065159784Z][dns][I] [2023-11-08T09:07:27.064975889Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-08T09:07:37.693826817Z][dns][I] [2023-11-08T09:07:37.693439269Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-08T09:07:37.741273461Z][dns][I] [2023-11-08T09:07:37.740982773Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-08T09:07:37.741335667Z][dns][I] [2023-11-08T09:07:37.741095944Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-08T09:08:42.936800073Z][dns][I] [2023-11-08T09:08:42.936678288Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-08T09:08:43.152025646Z][dns][I] [2023-11-08T09:08:43.151741011Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-08T09:08:43.152032239Z][dns][I] [2023-11-08T09:08:43.151946771Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-08T09:10:04.124852767Z][dns][I] [2023-11-08T09:10:04.124585159Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-08T09:10:05.897740489Z][dns][I] [2023-11-08T09:10:05.897290780Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-08T09:10:05.897771483Z][dns][I] [2023-11-08T09:10:05.897443136Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-08T09:11:29.325529627Z][dns][I] [2023-11-08T09:11:29.325097992Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-08T09:11:31.574259034Z][dns][I] [2023-11-08T09:11:31.573830890Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-08T09:11:31.574371831Z][dns][I] [2023-11-08T09:11:31.574050036Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-08T03:55:26.375735346Z][dns][I] [2023-11-08T03:55:26.375367432Z][init.leases][I] [;docker.io.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-08T03:55:26.375783310Z][dns][I] [2023-11-08T03:55:26.375703155Z][init.leases][I] Add       54.165.156.197 for docker.io.
+[2023-11-08T03:55:26.375913544Z][dns][I] [2023-11-08T03:55:26.375803348Z][init.leases][I] Add       52.3.144.121 for docker.io.
+[2023-11-08T03:55:26.375914648Z][dns][I] [2023-11-08T03:55:26.375827328Z][init.leases][I] Add       44.196.175.70 for docker.io.
+[2023-11-08T03:55:26.375920628Z][dns][I] [2023-11-08T03:55:26.375859648Z][init.leases][I] [;docker.io.	IN	 A] = [54.165.156.197 52.3.144.121 44.196.175.70], code = 0, err = <nil>
+[2023-11-08T03:56:31.003050073Z][dns][I] [2023-11-08T03:56:31.002895072Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-08T03:56:32.443099384Z][dns][I] [2023-11-08T03:56:32.442709343Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-08T03:56:32.443164778Z][dns][I] [2023-11-08T03:56:32.442897712Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:32.081212513Z][dns][I] [2023-11-14T06:44:30.036752993Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-14T06:44:32.081213365Z][dns][I] [2023-11-14T06:44:32.080521935Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-14T06:44:32.081216976Z][dns][I] [2023-11-14T06:44:32.080534792Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-14T06:44:32.081217221Z][dns][I] [2023-11-14T06:44:32.080542607Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-14T06:44:32.081218799Z][dns][I] [2023-11-14T06:44:32.080566063Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-14T06:44:32.081219030Z][dns][I] [2023-11-14T06:44:32.080570409Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-14T06:44:32.081220121Z][dns][I] [2023-11-14T06:44:32.080574202Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-14T06:44:32.081220303Z][dns][I] [2023-11-14T06:44:32.080578665Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-14T06:44:32.081221470Z][dns][I] [2023-11-14T06:44:32.080663740Z][init.leases][I] Removing all 0 IPs
+[2023-11-14T06:44:32.081221671Z][dns][I] [2023-11-14T06:44:32.080666670Z][init.leases][I] Removing complete
+[2023-11-14T06:44:32.081507824Z][dns][I] [2023-11-14T06:44:32.081472765Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-14T06:44:32.081549365Z][dns][I] [2023-11-14T06:44:32.081533300Z][init.leases][I] logging flow decisions to stderr
+[2023-11-14T06:44:34.289951485Z][dns][I] [2023-11-14T06:44:34.289866226Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-14T06:45:34.275956094Z][dns][I] [2023-11-14T06:45:34.275918305Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-14T06:45:34.285383091Z][dns][I] [2023-11-14T06:45:34.285323401Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-14T06:45:34.285416665Z][dns][I] [2023-11-14T06:45:34.285399241Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-14T06:45:35.442077975Z][dns][I] [2023-11-14T06:45:35.442005264Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-14T06:45:35.442673399Z][dns][I] [2023-11-14T06:45:35.442646485Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-14T06:45:35.442682624Z][dns][I] [2023-11-14T06:45:35.442670405Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-14T06:46:02.383997367Z][dns][I] [2023-11-14T06:46:02.383741315Z][init.leases][I] [;docker.io.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-14T06:46:04.405533818Z][dns][I] [2023-11-14T06:46:04.405402684Z][init.leases][I] Add       3.228.146.75 for docker.io.
+[2023-11-14T06:46:04.405715337Z][dns][I] [2023-11-14T06:46:04.405472013Z][init.leases][I] Add       18.210.197.188 for docker.io.
+[2023-11-14T06:46:04.405745771Z][dns][I] [2023-11-14T06:46:04.405720618Z][init.leases][I] Add       18.206.20.10 for docker.io.
+[2023-11-14T06:46:04.405780697Z][dns][I] [2023-11-14T06:46:04.405757515Z][init.leases][I] [;docker.io.	IN	 A] = [3.228.146.75 18.210.197.188 18.206.20.10], code = 0, err = <nil>
+[2023-11-14T06:46:27.581415156Z][dns][I] [2023-11-14T06:46:27.581218126Z][init.leases][I] Add       107.23.26.212 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-14T06:46:27.581419125Z][dns][I] [2023-11-14T06:46:27.581299390Z][init.leases][I] Add       34.228.253.107 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-14T06:46:27.581430404Z][dns][I] [2023-11-14T06:46:27.581312414Z][init.leases][I] Add       23.21.112.52 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-14T06:46:27.581430869Z][dns][I] [2023-11-14T06:46:27.581328213Z][init.leases][I] Add       174.129.65.117 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-14T06:46:27.581434198Z][dns][I] [2023-11-14T06:46:27.581337741Z][init.leases][I] Add       18.214.139.248 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-14T06:46:27.581434564Z][dns][I] [2023-11-14T06:46:27.581349439Z][init.leases][I] Add       184.73.223.49 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-14T06:46:27.581436716Z][dns][I] [2023-11-14T06:46:27.581364093Z][init.leases][I] Add       18.214.19.83 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-14T06:46:27.581437103Z][dns][I] [2023-11-14T06:46:27.581372241Z][init.leases][I] Add       54.237.190.106 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-14T06:46:27.581453257Z][dns][I] [2023-11-14T06:46:27.581417508Z][init.leases][I] [;cognito-identity.us-east-1.amazonaws.com.	IN	 A] = [107.23.26.212 34.228.253.107 23.21.112.52 174.129.65.117 18.214.139.248 184.73.223.49 18.214.19.83 54.237.190.106], code = 0, err = <nil>
+[2023-11-14T06:46:29.228488812Z][dns][I] [2023-11-14T06:46:29.228447847Z][init.leases][I] Add       18.155.99.91 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-14T06:46:29.228500185Z][dns][I] [2023-11-14T06:46:29.228488248Z][init.leases][I] Add       18.155.99.63 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-14T06:46:29.228529084Z][dns][I] [2023-11-14T06:46:29.228498002Z][init.leases][I] Add       18.155.99.64 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-14T06:46:29.228543801Z][dns][I] [2023-11-14T06:46:29.228529383Z][init.leases][I] Add       18.155.99.50 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-14T06:46:29.228563500Z][dns][I] [2023-11-14T06:46:29.228550722Z][init.leases][I] [;pinpoint.us-east-1.amazonaws.com.	IN	 A] = [18.155.99.91 18.155.99.63 18.155.99.64 18.155.99.50], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:03.107388577Z][dns][I] [2023-11-15T10:03:01.034011311Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-15T10:03:03.107389296Z][dns][I] [2023-11-15T10:03:03.083305418Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-15T10:03:03.107392621Z][dns][I] [2023-11-15T10:03:03.083341033Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-15T10:03:03.107392919Z][dns][I] [2023-11-15T10:03:03.083367075Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-15T10:03:03.107394371Z][dns][I] [2023-11-15T10:03:03.083423004Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-15T10:03:03.107394596Z][dns][I] [2023-11-15T10:03:03.083448345Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-15T10:03:03.107395620Z][dns][I] [2023-11-15T10:03:03.083468178Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-15T10:03:03.107395823Z][dns][I] [2023-11-15T10:03:03.083490096Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-15T10:03:03.107396828Z][dns][I] [2023-11-15T10:03:03.083574760Z][init.leases][I] Removing all 0 IPs
+[2023-11-15T10:03:03.107397016Z][dns][I] [2023-11-15T10:03:03.083582328Z][init.leases][I] Removing complete
+[2023-11-15T10:03:03.107498058Z][dns][I] [2023-11-15T10:03:03.107475914Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-15T10:03:03.107533579Z][dns][I] [2023-11-15T10:03:03.107512335Z][init.leases][I] logging flow decisions to stderr
+[2023-11-15T10:03:04.311519449Z][dns][I] [2023-11-15T10:03:04.311257275Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-15T10:03:08.479674770Z][dns][I] [2023-11-15T10:03:08.479367270Z][init.leases][I] Add       44.193.115.219 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:03:08.479686439Z][dns][I] [2023-11-15T10:03:08.479530660Z][init.leases][I] Add       107.23.26.212 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:03:08.479725155Z][dns][I] [2023-11-15T10:03:08.479567660Z][init.leases][I] Add       54.225.38.185 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:03:08.479725849Z][dns][I] [2023-11-15T10:03:08.479594907Z][init.leases][I] Add       44.216.225.154 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:03:08.479729556Z][dns][I] [2023-11-15T10:03:08.479617904Z][init.leases][I] Add       3.88.247.163 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:03:08.479744926Z][dns][I] [2023-11-15T10:03:08.479643785Z][init.leases][I] Add       23.21.112.52 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:03:08.479748239Z][dns][I] [2023-11-15T10:03:08.479673289Z][init.leases][I] Add       34.226.39.75 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:03:08.479748927Z][dns][I] [2023-11-15T10:03:08.479706365Z][init.leases][I] Add       174.129.65.117 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:03:08.479795189Z][dns][I] [2023-11-15T10:03:08.479753110Z][init.leases][I] [;cognito-identity.us-east-1.amazonaws.com.	IN	 A] = [44.193.115.219 107.23.26.212 54.225.38.185 44.216.225.154 3.88.247.163 23.21.112.52 34.226.39.75 174.129.65.117], code = 0, err = <nil>
+[2023-11-15T10:03:10.924218946Z][dns][I] [2023-11-15T10:03:10.923986566Z][init.leases][I] Add       18.155.99.50 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T10:03:10.924257013Z][dns][I] [2023-11-15T10:03:10.924053129Z][init.leases][I] Add       18.155.99.91 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T10:03:10.924270705Z][dns][I] [2023-11-15T10:03:10.924064996Z][init.leases][I] Add       18.155.99.63 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T10:03:10.924271462Z][dns][I] [2023-11-15T10:03:10.924076947Z][init.leases][I] Add       18.155.99.64 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T10:03:10.924275525Z][dns][I] [2023-11-15T10:03:10.924098579Z][init.leases][I] [;pinpoint.us-east-1.amazonaws.com.	IN	 A] = [18.155.99.50 18.155.99.91 18.155.99.63 18.155.99.64], code = 0, err = <nil>
+[2023-11-15T10:04:05.527828695Z][dns][I] [2023-11-15T10:04:05.527573742Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-15T10:04:05.936086085Z][dns][I] [2023-11-15T10:04:05.935903965Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-15T10:04:05.936091532Z][dns][I] [2023-11-15T10:04:05.936002295Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-15T10:04:05.999216580Z][dns][I] [2023-11-15T10:04:05.999036725Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-15T10:04:05.999231322Z][dns][I] [2023-11-15T10:04:05.999121141Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-15T10:04:06.001752920Z][dns][I] [2023-11-15T10:04:06.001620257Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-15T10:08:29.981880990Z][dns][I] [2023-11-15T10:08:29.981577957Z][init.leases][I] Add       23.21.112.52 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:08:29.981887790Z][dns][I] [2023-11-15T10:08:29.981683739Z][init.leases][I] Add       54.211.254.102 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:08:29.981906242Z][dns][I] [2023-11-15T10:08:29.981710215Z][init.leases][I] Add       54.86.238.156 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:08:29.981906919Z][dns][I] [2023-11-15T10:08:29.981729373Z][init.leases][I] Add       34.226.39.75 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:08:29.981910606Z][dns][I] [2023-11-15T10:08:29.981770501Z][init.leases][I] Add       54.225.38.185 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:08:29.981911286Z][dns][I] [2023-11-15T10:08:29.981789047Z][init.leases][I] Add       52.0.242.135 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:08:29.981928588Z][dns][I] [2023-11-15T10:08:29.981856937Z][init.leases][I] Add       34.228.253.107 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:08:29.981929500Z][dns][I] [2023-11-15T10:08:29.981871514Z][init.leases][I] Add       52.206.182.31 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T10:08:29.981934193Z][dns][I] [2023-11-15T10:08:29.981904442Z][init.leases][I] [;cognito-identity.us-east-1.amazonaws.com.	IN	 A] = [23.21.112.52 54.211.254.102 54.86.238.156 34.226.39.75 54.225.38.185 52.0.242.135 34.228.253.107 52.206.182.31], code = 0, err = <nil>
+[2023-11-15T10:08:32.322871379Z][dns][I] [2023-11-15T10:08:32.322762911Z][init.leases][I] Add       18.155.99.91 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T10:08:32.322879084Z][dns][I] [2023-11-15T10:08:32.322794908Z][init.leases][I] Add       18.155.99.64 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T10:08:32.322884144Z][dns][I] [2023-11-15T10:08:32.322820690Z][init.leases][I] Add       18.155.99.63 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T10:08:32.322884383Z][dns][I] [2023-11-15T10:08:32.322827241Z][init.leases][I] Add       18.155.99.50 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T10:08:32.322885468Z][dns][I] [2023-11-15T10:08:32.322840782Z][init.leases][I] [;pinpoint.us-east-1.amazonaws.com.	IN	 A] = [18.155.99.91 18.155.99.64 18.155.99.63 18.155.99.50], code = 0, err = <nil>
+[2023-11-15T12:53:00.067762739Z][dns][I] [2023-11-15T12:52:58.026409229Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-15T12:53:00.068101644Z][dns][I] [2023-11-15T12:53:00.067590335Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-15T12:53:00.068102562Z][dns][I] [2023-11-15T12:53:00.067597646Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-15T12:53:00.068105070Z][dns][I] [2023-11-15T12:53:00.067603928Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-15T12:53:00.068105244Z][dns][I] [2023-11-15T12:53:00.067618166Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-15T12:53:00.068105941Z][dns][I] [2023-11-15T12:53:00.067622037Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-15T12:53:00.068106105Z][dns][I] [2023-11-15T12:53:00.067624984Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-15T12:53:00.068106735Z][dns][I] [2023-11-15T12:53:00.067628607Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-15T12:53:00.068106882Z][dns][I] [2023-11-15T12:53:00.067662841Z][init.leases][I] Removing all 0 IPs
+[2023-11-15T12:53:00.068107499Z][dns][I] [2023-11-15T12:53:00.067664877Z][init.leases][I] Removing complete
+[2023-11-15T12:53:00.068111105Z][dns][I] [2023-11-15T12:53:00.067835332Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-15T12:53:00.068112004Z][dns][I] [2023-11-15T12:53:00.067885449Z][init.leases][I] logging flow decisions to stderr
+[2023-11-15T12:53:07.043769494Z][dns][I] [2023-11-15T12:53:07.043506876Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-15T12:53:11.383339627Z][dns][I] [2023-11-15T12:53:11.382949526Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-15T12:54:01.545644875Z][dns][I] [2023-11-15T12:54:01.545402826Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-15T12:54:01.545665478Z][dns][I] [2023-11-15T12:54:01.545603417Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-15T12:54:02.519244776Z][dns][I] [2023-11-15T12:54:02.519061651Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-15T12:54:02.527319074Z][dns][I] [2023-11-15T12:54:02.527133887Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-15T12:54:02.527338867Z][dns][I] [2023-11-15T12:54:02.527182135Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-15T12:54:06.239348300Z][dns][I] [2023-11-15T12:54:06.238954592Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-15T12:54:06.250912514Z][dns][I] [2023-11-15T12:54:06.250730428Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-15T13:04:08.042087501Z][dns][I] [2023-11-15T13:04:06.028695852Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-15T13:04:08.042088258Z][dns][I] [2023-11-15T13:04:08.041834116Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-15T13:04:08.042090714Z][dns][I] [2023-11-15T13:04:08.041842850Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-15T13:04:08.042090982Z][dns][I] [2023-11-15T13:04:08.041850060Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-15T13:04:08.042092013Z][dns][I] [2023-11-15T13:04:08.041867913Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-15T13:04:08.042092207Z][dns][I] [2023-11-15T13:04:08.041873408Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-15T13:04:08.042093104Z][dns][I] [2023-11-15T13:04:08.041878017Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-15T13:04:08.042093304Z][dns][I] [2023-11-15T13:04:08.041882511Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-15T13:04:08.042094403Z][dns][I] [2023-11-15T13:04:08.041917378Z][init.leases][I] Removing all 0 IPs
+[2023-11-15T13:04:08.042094620Z][dns][I] [2023-11-15T13:04:08.041920151Z][init.leases][I] Removing complete
+[2023-11-15T13:04:08.042198584Z][dns][I] [2023-11-15T13:04:08.042171380Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-15T13:04:08.042228561Z][dns][I] [2023-11-15T13:04:08.042218035Z][init.leases][I] logging flow decisions to stderr
+[2023-11-15T13:04:09.237428253Z][dns][I] [2023-11-15T13:04:09.237316163Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-15T13:04:12.587134470Z][dns][I] [2023-11-15T13:04:12.586817213Z][init.leases][I] Add       54.237.190.106 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T13:04:12.587140914Z][dns][I] [2023-11-15T13:04:12.586943287Z][init.leases][I] Add       18.214.139.248 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T13:04:12.587159197Z][dns][I] [2023-11-15T13:04:12.586965678Z][init.leases][I] Add       107.23.26.212 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T13:04:12.587159938Z][dns][I] [2023-11-15T13:04:12.586982711Z][init.leases][I] Add       52.0.242.135 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T13:04:12.587165332Z][dns][I] [2023-11-15T13:04:12.586995684Z][init.leases][I] Add       174.129.65.117 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T13:04:12.587166023Z][dns][I] [2023-11-15T13:04:12.587010928Z][init.leases][I] Add       34.199.11.109 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T13:04:12.587169674Z][dns][I] [2023-11-15T13:04:12.587024834Z][init.leases][I] Add       23.21.112.52 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T13:04:12.587170557Z][dns][I] [2023-11-15T13:04:12.587088549Z][init.leases][I] Add       34.234.2.115 for cognito-identity.us-east-1.amazonaws.com.
+[2023-11-15T13:04:12.587207845Z][dns][I] [2023-11-15T13:04:12.587130133Z][init.leases][I] [;cognito-identity.us-east-1.amazonaws.com.	IN	 A] = [54.237.190.106 18.214.139.248 107.23.26.212 52.0.242.135 174.129.65.117 34.199.11.109 23.21.112.52 34.234.2.115], code = 0, err = <nil>
+[2023-11-15T13:04:15.199287751Z][dns][I] [2023-11-15T13:04:15.199157494Z][init.leases][I] Add       13.249.221.127 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T13:04:15.199319501Z][dns][I] [2023-11-15T13:04:15.199280370Z][init.leases][I] Add       13.249.221.68 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T13:04:15.199338162Z][dns][I] [2023-11-15T13:04:15.199311735Z][init.leases][I] Add       13.249.221.22 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T13:04:15.199364500Z][dns][I] [2023-11-15T13:04:15.199335954Z][init.leases][I] Add       13.249.221.44 for pinpoint.us-east-1.amazonaws.com.
+[2023-11-15T13:04:15.199423195Z][dns][I] [2023-11-15T13:04:15.199379982Z][init.leases][I] [;pinpoint.us-east-1.amazonaws.com.	IN	 A] = [13.249.221.127 13.249.221.68 13.249.221.22 13.249.221.44], code = 0, err = <nil>
+[2023-11-15T13:05:10.057021559Z][dns][I] [2023-11-15T13:05:10.056773192Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-15T13:05:10.057028299Z][dns][I] [2023-11-15T13:05:10.056947618Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-15T13:05:11.194074367Z][dns][I] [2023-11-15T13:05:11.193952462Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-15T13:05:11.194080776Z][dns][I] [2023-11-15T13:05:11.194010021Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-15T13:05:11.209172619Z][dns][I] [2023-11-15T13:05:11.208989442Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-15T13:05:11.891537851Z][dns][I] [2023-11-15T13:05:11.891416113Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:52.095104672Z][dns][I] [2023-11-16T09:41:50.028592762Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-16T09:41:52.104594696Z][dns][I] [2023-11-16T09:41:52.094845125Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-16T09:41:52.104595886Z][dns][I] [2023-11-16T09:41:52.094859373Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-16T09:41:52.104599022Z][dns][I] [2023-11-16T09:41:52.094870726Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-16T09:41:52.104599240Z][dns][I] [2023-11-16T09:41:52.094896434Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-16T09:41:52.104600378Z][dns][I] [2023-11-16T09:41:52.094905315Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-16T09:41:52.104600558Z][dns][I] [2023-11-16T09:41:52.094912853Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-16T09:41:52.104601693Z][dns][I] [2023-11-16T09:41:52.094920054Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-16T09:41:52.104601870Z][dns][I] [2023-11-16T09:41:52.094957682Z][init.leases][I] Removing all 0 IPs
+[2023-11-16T09:41:52.104602886Z][dns][I] [2023-11-16T09:41:52.094961518Z][init.leases][I] Removing complete
+[2023-11-16T09:41:52.104608643Z][dns][I] [2023-11-16T09:41:52.095495919Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-16T09:41:52.104610253Z][dns][I] [2023-11-16T09:41:52.095701073Z][init.leases][I] logging flow decisions to stderr
+[2023-11-16T09:41:54.400948957Z][dns][I] [2023-11-16T09:41:54.400784070Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-16T09:42:54.423063476Z][dns][I] [2023-11-16T09:42:54.423018483Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-16T09:42:54.514522699Z][dns][I] [2023-11-16T09:42:54.514254357Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-16T09:42:54.514553322Z][dns][I] [2023-11-16T09:42:54.514389261Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-16T09:42:55.624525054Z][dns][I] [2023-11-16T09:42:55.624136473Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-16T09:42:55.657494621Z][dns][I] [2023-11-16T09:42:55.657249767Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-16T09:42:55.657570138Z][dns][I] [2023-11-16T09:42:55.657344878Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:34.058884666Z][dns][I] [2023-11-16T11:01:32.025500308Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-16T11:01:34.058885446Z][dns][I] [2023-11-16T11:01:34.058690064Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-16T11:01:34.058888505Z][dns][I] [2023-11-16T11:01:34.058696678Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-16T11:01:34.058888792Z][dns][I] [2023-11-16T11:01:34.058702540Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-16T11:01:34.058890037Z][dns][I] [2023-11-16T11:01:34.058717216Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-16T11:01:34.058890237Z][dns][I] [2023-11-16T11:01:34.058721146Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-16T11:01:34.058891327Z][dns][I] [2023-11-16T11:01:34.058724594Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-16T11:01:34.058891522Z][dns][I] [2023-11-16T11:01:34.058727795Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-16T11:01:34.058892538Z][dns][I] [2023-11-16T11:01:34.058768597Z][init.leases][I] Removing all 0 IPs
+[2023-11-16T11:01:34.058892769Z][dns][I] [2023-11-16T11:01:34.058772055Z][init.leases][I] Removing complete
+[2023-11-16T11:01:34.061629522Z][dns][I] [2023-11-16T11:01:34.061598383Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-16T11:01:34.061632075Z][dns][I] [2023-11-16T11:01:34.061619276Z][init.leases][I] logging flow decisions to stderr
+[2023-11-16T11:01:40.337093171Z][dns][I] [2023-11-16T11:01:40.336784484Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-16T11:02:40.670613109Z][dns][I] [2023-11-16T11:02:40.670367985Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-16T11:02:40.676435110Z][dns][I] [2023-11-16T11:02:40.676325687Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-16T11:02:40.676469471Z][dns][I] [2023-11-16T11:02:40.676430535Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-16T11:02:41.795526265Z][dns][I] [2023-11-16T11:02:41.795355860Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-16T11:02:41.795552417Z][dns][I] [2023-11-16T11:02:41.795514140Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 3, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:45.064170009Z][dns][I] [2023-11-18T16:49:43.037424067Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-18T16:49:45.064171609Z][dns][I] [2023-11-18T16:49:45.041866930Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-18T16:49:45.064175656Z][dns][I] [2023-11-18T16:49:45.041874127Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-18T16:49:45.064175859Z][dns][I] [2023-11-18T16:49:45.041880047Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-18T16:49:45.064177031Z][dns][I] [2023-11-18T16:49:45.041895218Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-18T16:49:45.064177162Z][dns][I] [2023-11-18T16:49:45.041899249Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-18T16:49:45.064177827Z][dns][I] [2023-11-18T16:49:45.041902153Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-18T16:49:45.064177952Z][dns][I] [2023-11-18T16:49:45.041905530Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-18T16:49:45.064179417Z][dns][I] [2023-11-18T16:49:45.041936755Z][init.leases][I] Removing all 0 IPs
+[2023-11-18T16:49:45.064179573Z][dns][I] [2023-11-18T16:49:45.041938726Z][init.leases][I] Removing complete
+[2023-11-18T16:49:45.064328999Z][dns][I] [2023-11-18T16:49:45.064293627Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-18T16:49:45.064349356Z][dns][I] [2023-11-18T16:49:45.064336892Z][init.leases][I] logging flow decisions to stderr
+[2023-11-18T16:49:48.777091348Z][dns][I] [2023-11-18T16:49:48.776975333Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-18T16:50:47.109456599Z][dns][I] [2023-11-18T16:50:47.109061532Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-18T16:50:47.109608569Z][dns][I] [2023-11-18T16:50:47.109222961Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-18T16:50:47.194059971Z][dns][I] [2023-11-18T16:50:47.193808569Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-18T16:50:48.313657300Z][dns][I] [2023-11-18T16:50:48.313416501Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-18T16:50:48.313820607Z][dns][I] [2023-11-18T16:50:48.313696531Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-18T16:50:48.313904657Z][dns][I] [2023-11-18T16:50:48.313849728Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-18T17:17:09.024364207Z][dns][I] [2023-11-18T17:17:07.028752092Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-18T17:17:09.024365527Z][dns][I] [2023-11-18T17:17:09.023602263Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-18T17:17:09.024367424Z][dns][I] [2023-11-18T17:17:09.023616371Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-18T17:17:09.024367621Z][dns][I] [2023-11-18T17:17:09.023628002Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-18T17:17:09.024368434Z][dns][I] [2023-11-18T17:17:09.023652699Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-18T17:17:09.024368584Z][dns][I] [2023-11-18T17:17:09.023661489Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-18T17:17:09.024369301Z][dns][I] [2023-11-18T17:17:09.023667941Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-18T17:17:09.024369441Z][dns][I] [2023-11-18T17:17:09.023675615Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-18T17:17:09.024370094Z][dns][I] [2023-11-18T17:17:09.023712667Z][init.leases][I] Removing all 0 IPs
+[2023-11-18T17:17:09.024370269Z][dns][I] [2023-11-18T17:17:09.023717454Z][init.leases][I] Removing complete
+[2023-11-18T17:17:09.024451699Z][dns][I] [2023-11-18T17:17:09.024440943Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-18T17:17:09.024481818Z][dns][I] [2023-11-18T17:17:09.024463386Z][init.leases][I] logging flow decisions to stderr
+[2023-11-18T17:17:10.291031089Z][dns][I] [2023-11-18T17:17:10.290882855Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-18T17:18:10.768722465Z][dns][I] [2023-11-18T17:18:10.768521734Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-18T17:18:10.768726825Z][dns][I] [2023-11-18T17:18:10.768569471Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-18T17:18:10.769513134Z][dns][I] [2023-11-18T17:18:10.769485394Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-18T17:18:21.164462813Z][dns][I] [2023-11-18T17:18:21.164135242Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-18T17:18:21.164485775Z][dns][I] [2023-11-18T17:18:21.164275672Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-18T17:18:21.171313466Z][dns][I] [2023-11-18T17:18:21.171275286Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:53.139277248Z][dns][I] [2023-11-23T09:32:51.126612259Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-23T09:32:53.139279888Z][dns][I] [2023-11-23T09:32:53.114093540Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-23T09:32:53.139284237Z][dns][I] [2023-11-23T09:32:53.114105971Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-23T09:32:53.139284545Z][dns][I] [2023-11-23T09:32:53.114114820Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-23T09:32:53.139286466Z][dns][I] [2023-11-23T09:32:53.114138109Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-23T09:32:53.139286709Z][dns][I] [2023-11-23T09:32:53.114144455Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-23T09:32:53.139287655Z][dns][I] [2023-11-23T09:32:53.114149277Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-23T09:32:53.139287859Z][dns][I] [2023-11-23T09:32:53.114154481Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-23T09:32:53.139288922Z][dns][I] [2023-11-23T09:32:53.114201897Z][init.leases][I] Removing all 0 IPs
+[2023-11-23T09:32:53.139289174Z][dns][I] [2023-11-23T09:32:53.114208924Z][init.leases][I] Removing complete
+[2023-11-23T09:32:53.139346405Z][dns][I] [2023-11-23T09:32:53.139322870Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-23T09:32:53.139372827Z][dns][I] [2023-11-23T09:32:53.139353667Z][init.leases][I] logging flow decisions to stderr
+[2023-11-23T09:32:55.485586117Z][dns][I] [2023-11-23T09:32:55.485369654Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-23T09:33:10.008461262Z][dns][I] [2023-11-23T09:33:10.008204457Z][init.leases][I] [;docker.io.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-23T09:33:10.881196779Z][dns][I] [2023-11-23T09:33:10.880900691Z][init.leases][I] Add       3.224.227.198 for docker.io.
+[2023-11-23T09:33:10.881206256Z][dns][I] [2023-11-23T09:33:10.881014241Z][init.leases][I] Add       44.219.3.189 for docker.io.
+[2023-11-23T09:33:10.881224337Z][dns][I] [2023-11-23T09:33:10.881041665Z][init.leases][I] Add       44.193.181.103 for docker.io.
+[2023-11-23T09:33:10.881225368Z][dns][I] [2023-11-23T09:33:10.881081329Z][init.leases][I] [;docker.io.	IN	 A] = [3.224.227.198 44.219.3.189 44.193.181.103], code = 0, err = <nil>
+[2023-11-23T09:33:55.185904414Z][dns][I] [2023-11-23T09:33:55.185824304Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-23T09:33:55.185945411Z][dns][I] [2023-11-23T09:33:55.185921932Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-23T09:33:55.541190977Z][dns][I] [2023-11-23T09:33:55.541042905Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-23T09:33:56.272731606Z][dns][I] [2023-11-23T09:33:56.272624452Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-23T09:33:56.305653514Z][dns][I] [2023-11-23T09:33:56.305538498Z][init.leases][I] Add       35.190.88.7 for sessions.bugsnag.com.
+[2023-11-23T09:33:56.305669395Z][dns][I] [2023-11-23T09:33:56.305612465Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [35.190.88.7], code = 0, err = <nil>
+[2023-11-23T09:36:24.118195612Z][dns][I] [2023-11-23T09:36:24.117532066Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-23T09:36:24.430670690Z][dns][I] [2023-11-23T09:36:24.430274032Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-23T09:36:24.430678317Z][dns][I] [2023-11-23T09:36:24.430435605Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-23T09:36:35.688551735Z][dns][I] [2023-11-23T09:36:35.688312324Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-23T09:36:35.774766535Z][dns][I] [2023-11-23T09:36:35.774645859Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-23T09:36:35.774785568Z][dns][I] [2023-11-23T09:36:35.774756507Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-23T10:03:08.429296101Z][dns][I] [2023-11-23T10:03:08.428899680Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-23T10:03:09.576745988Z][dns][I] [2023-11-23T10:03:09.576460954Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-23T10:03:09.576763440Z][dns][I] [2023-11-23T10:03:09.576589408Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-23T10:04:11.619345696Z][dns][I] [2023-11-23T10:04:11.618999734Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-23T10:04:11.620339363Z][dns][I] [2023-11-23T10:04:11.620081461Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-11-23T10:04:11.620365301Z][dns][I] [2023-11-23T10:04:11.620226386Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-11-23T10:04:37.159367966Z][dns][I] [2023-11-23T10:04:37.159200911Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-23T10:04:37.159598567Z][dns][I] [2023-11-23T10:04:37.159447712Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-11-23T10:04:37.159697017Z][dns][I] [2023-11-23T10:04:37.159630378Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-11-23T10:04:40.615069936Z][dns][I] [2023-11-23T10:04:40.614729869Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-11-23T10:04:40.615095717Z][dns][I] [2023-11-23T10:04:40.614870980Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-11-23T10:04:41.436293977Z][dns][I] [2023-11-23T10:04:41.435972210Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-23T10:05:38.155322924Z][dns][I] [2023-11-23T10:05:38.155060450Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-11-23T10:05:38.155407690Z][dns][I] [2023-11-23T10:05:38.155162921Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-11-23T10:05:38.155411175Z][dns][I] [2023-11-23T10:05:38.155185723Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-23T10:08:50.982035992Z][dns][I] [2023-11-23T10:08:50.981568404Z][init.leases][I] Add       20.207.73.82 for github.com.
+[2023-11-23T10:08:50.982067681Z][dns][I] [2023-11-23T10:08:50.981936859Z][init.leases][I] [;github.com.	IN	 A] = [20.207.73.82], code = 0, err = <nil>
+[2023-11-23T10:08:50.982111843Z][dns][I] [2023-11-23T10:08:50.981952979Z][init.leases][I] [;github.com.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-23T10:09:07.478083008Z][dns][I] [2023-11-23T10:09:07.477682517Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-23T10:09:08.080639284Z][dns][I] [2023-11-23T10:09:08.080378915Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-23T10:09:08.080669385Z][dns][I] [2023-11-23T10:09:08.080508930Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-23T10:09:27.841332416Z][dns][I] [2023-11-23T10:09:27.841165653Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-23T10:09:27.950146367Z][dns][I] [2023-11-23T10:09:27.949940012Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-23T10:09:27.950170524Z][dns][I] [2023-11-23T10:09:27.950049440Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-23T10:10:46.801346837Z][dns][I] [2023-11-23T10:10:46.801039275Z][init.leases][I] [;_http._tcp.deb.debian.org.	IN	 SRV] = [], code = 0, err = <nil>
+[2023-11-23T10:10:46.906810859Z][dns][I] [2023-11-23T10:10:46.906533191Z][init.leases][I] Add       151.101.158.132 for debian.map.fastlydns.net.
+[2023-11-23T10:10:46.906814837Z][dns][I] [2023-11-23T10:10:46.906733962Z][init.leases][I] [;debian.map.fastlydns.net.	IN	 A] = [151.101.158.132], code = 0, err = <nil>
+[2023-11-23T10:12:35.266166209Z][dns][I] [2023-11-23T10:12:35.265996422Z][init.leases][I] [;flathub.org.	IN	 AAAA] = [], code = 0, err = <nil>
+[2023-11-23T10:12:35.983059407Z][dns][I] [2023-11-23T10:12:35.982756036Z][init.leases][I] Add       199.232.57.91 for flathub.org.
+[2023-11-23T10:12:35.983079196Z][dns][I] [2023-11-23T10:12:35.982900195Z][init.leases][I] [;flathub.org.	IN	 A] = [199.232.57.91], code = 0, err = <nil>
+[2023-11-23T10:12:37.325419643Z][dns][I] [2023-11-23T10:12:37.325075737Z][init.leases][I] Add       151.101.157.91 for dl.flathub.org.
+[2023-11-23T10:12:37.325441770Z][dns][I] [2023-11-23T10:12:37.325275246Z][init.leases][I] [;dl.flathub.org.	IN	 A] = [151.101.157.91], code = 0, err = <nil>
+[2023-11-23T10:12:37.378971453Z][dns][I] [2023-11-23T10:12:37.378713947Z][init.leases][I] [;dl.flathub.org.	IN	 AAAA] = [], code = 0, err = <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:26.107352191Z][dns][I] [2023-11-23T10:41:24.035144411Z][init][I] IP allowlist loaded, allowing all traffic 
+[2023-11-23T10:41:26.107353683Z][dns][I] [2023-11-23T10:41:26.080598083Z][init.leases][I] old Registry Access Management policy: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-23T10:41:26.107357141Z][dns][I] [2023-11-23T10:41:26.080633298Z][init.leases][I] updating Registry Access Management policy to: refresh due after 0001-01-01 00:00:00 +0000 UTC, grace ends 0001-01-01 00:00:00 +0000 UTC, grace interval 0s
+[2023-11-23T10:41:26.107357390Z][dns][I] [2023-11-23T10:41:26.080657165Z][init.leases][I] AddNet    0.0.0.0/0
+[2023-11-23T10:41:26.107358572Z][dns][I] [2023-11-23T10:41:26.080710537Z][init.leases][I] AddNet    10.0.0.0/8
+[2023-11-23T10:41:26.107358769Z][dns][I] [2023-11-23T10:41:26.080727891Z][init.leases][I] AddNet    172.16.0.0/12
+[2023-11-23T10:41:26.107359766Z][dns][I] [2023-11-23T10:41:26.080740883Z][init.leases][I] AddNet    192.168.0.0/16
+[2023-11-23T10:41:26.107359958Z][dns][I] [2023-11-23T10:41:26.080756368Z][init.leases][I] AddNet    127.0.0.0/8
+[2023-11-23T10:41:26.107360914Z][dns][I] [2023-11-23T10:41:26.080866157Z][init.leases][I] Removing all 0 IPs
+[2023-11-23T10:41:26.107361144Z][dns][I] [2023-11-23T10:41:26.080878009Z][init.leases][I] Removing complete
+[2023-11-23T10:41:26.107707159Z][dns][I] [2023-11-23T10:41:26.107510218Z][init.leases][I] starting DNS forwarder control on /run/guest-services/dns-forwarder.sock
+[2023-11-23T10:41:26.107779132Z][dns][I] [2023-11-23T10:41:26.107510554Z][init.leases][I] logging flow decisions to stderr
+[2023-11-23T10:41:28.309914049Z][dns][I] [2023-11-23T10:41:28.309753165Z][init.leases][I] [;linuxkit-525400123456.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-23T10:42:28.281287498Z][dns][I] [2023-11-23T10:42:28.281097699Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-23T10:42:28.281294484Z][dns][I] [2023-11-23T10:42:28.281125062Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 3, err = <nil>
+[2023-11-23T10:42:29.376876287Z][dns][I] [2023-11-23T10:42:29.376647198Z][init.leases][I] [;sessions.bugsnag.com.	IN	 A] = [], code = 3, err = <nil>
+[2023-11-23T10:42:29.376886913Z][dns][I] [2023-11-23T10:42:29.376824631Z][init.leases][I] [;sessions.bugsnag.com.	IN	 AAAA] = [], code = 3, err = <nil>

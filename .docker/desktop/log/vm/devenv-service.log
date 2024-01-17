@@ -1,0 +1,48 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:13.989097480Z][devenv-service][I] time="2023-10-30T11:12:13Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:29.165617242Z][devenv-service][I] time="2023-10-30T11:16:29Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+[2023-10-30T11:24:31.475680285Z][devenv-service][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:30:46.007352359Z][devenv-service][I] time="2023-10-30T11:30:46Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:48.974120999Z][devenv-service][I] time="2023-10-30T12:16:48Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:58.042957354Z][devenv-service][I] time="2023-10-30T18:22:58Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:22.181582882Z][devenv-service][I] time="2023-10-31T14:21:22Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+[2023-10-31T18:19:41.681889244Z][devenv-service][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:18.006580498Z][devenv-service][I] time="2023-11-01T10:49:18Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+[2023-11-01T12:12:02.810621709Z][devenv-service][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:20.933266889Z][devenv-service][I] time="2023-11-02T11:16:20Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:22.951637172Z][devenv-service][I] time="2023-11-02T14:21:22Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+[2023-11-02T17:26:29.039638012Z][devenv-service][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:58:59.953801727Z][devenv-service][I] time="2023-11-08T08:58:59Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:35.038702173Z][devenv-service][I] time="2023-11-14T06:44:35Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:04.950102640Z][devenv-service][I] time="2023-11-15T10:03:04Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+[2023-11-15T11:38:21.035073401Z][devenv-service][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T12:53:02.152740214Z][devenv-service][I] time="2023-11-15T12:53:02Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+[2023-11-15T12:59:07.660138916Z][devenv-service][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T13:04:10.179784976Z][devenv-service][I] time="2023-11-15T13:04:10Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:54.940851757Z][devenv-service][I] time="2023-11-16T09:41:54Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:41.150400249Z][devenv-service][I] time="2023-11-16T11:01:41Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:47.010271305Z][devenv-service][I] time="2023-11-18T16:49:47Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+[2023-11-18T16:55:55.053783068Z][devenv-service][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T17:17:20.310941920Z][devenv-service][I] time="2023-11-18T17:17:20Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+[2023-11-18T17:24:55.652448090Z][devenv-service][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:56.003353136Z][devenv-service][I] time="2023-11-23T09:32:56Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:28.940666671Z][devenv-service][I] time="2023-11-23T10:41:28Z" level=info msg="Starting listening on unix:/run/guest-services/devenv-volumes.sock\n"

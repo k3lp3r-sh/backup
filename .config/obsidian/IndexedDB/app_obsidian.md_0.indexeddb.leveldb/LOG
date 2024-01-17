@@ -1,0 +1,6 @@
+2023/12/12-21:20:36.367 1d76 Reusing MANIFEST /home/kelper/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/12-21:20:36.367 1d76 Recovering log #16
+2023/12/12-21:20:36.384 1d76 Reusing old log /home/kelper/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000016.log 
+2023/12/12-23:34:20.103 1d75 Level-0 table #22: started
+2023/12/12-23:34:20.120 1d75 Level-0 table #22: 1410027 bytes OK
+2023/12/12-23:34:20.128 1d75 Delete type=0 #16

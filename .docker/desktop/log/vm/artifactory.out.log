@@ -1,0 +1,118 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:15.848766739Z][artifactory.out][I] 2023-10-30T11:12:15.847Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-10-30T11:12:15.848776576Z][artifactory.out][I] 2023-10-30T11:12:15.848Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-10-30T11:12:15.848795880Z][artifactory.out][I] 2023-10-30T11:12:15.848Z INFO [docker.extension:159] - Making directory: /run/guest-services
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:30.765357326Z][artifactory.out][I] 2023-10-30T11:16:30.763Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-10-30T11:16:30.765367154Z][artifactory.out][I] 2023-10-30T11:16:30.765Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-10-30T11:16:30.765377892Z][artifactory.out][I] 2023-10-30T11:16:30.765Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-10-30T11:24:31.475717448Z][artifactory.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:30:47.713471688Z][artifactory.out][I] 2023-10-30T11:30:47.712Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-10-30T11:30:47.713477215Z][artifactory.out][I] 2023-10-30T11:30:47.713Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-10-30T11:30:47.713485654Z][artifactory.out][I] 2023-10-30T11:30:47.713Z INFO [docker.extension:159] - Making directory: /run/guest-services
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:50.092364885Z][artifactory.out][I] 2023-10-30T12:16:50.090Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-10-30T12:16:50.092374026Z][artifactory.out][I] 2023-10-30T12:16:50.092Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-10-30T12:16:50.092382432Z][artifactory.out][I] 2023-10-30T12:16:50.092Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-10-30T12:17:41.146860948Z][artifactory.out][I] 2023-10-30T12:17:41.145Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T12:17:41.151615600Z][artifactory.out][I] 2023-10-30T12:17:41.151Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T12:19:02.659474672Z][artifactory.out][I] 2023-10-30T12:19:02.658Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T12:19:02.668380480Z][artifactory.out][I] 2023-10-30T12:19:02.667Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T12:19:24.470327284Z][artifactory.out][I] 2023-10-30T12:19:24.470Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T12:19:24.474777657Z][artifactory.out][I] 2023-10-30T12:19:24.474Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T12:20:03.285740826Z][artifactory.out][I] 2023-10-30T12:20:03.285Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T12:20:03.290255484Z][artifactory.out][I] 2023-10-30T12:20:03.289Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T12:22:37.682596769Z][artifactory.out][I] 2023-10-30T12:22:37.682Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T12:22:37.685962566Z][artifactory.out][I] 2023-10-30T12:22:37.685Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T12:26:10.842115581Z][artifactory.out][I] 2023-10-30T12:26:10.841Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T12:26:10.845812378Z][artifactory.out][I] 2023-10-30T12:26:10.845Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T12:26:21.429736816Z][artifactory.out][I] 2023-10-30T12:26:21.429Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T12:26:21.432429816Z][artifactory.out][I] 2023-10-30T12:26:21.432Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T12:27:36.203821162Z][artifactory.out][I] 2023-10-30T12:27:36.203Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T12:27:36.210074446Z][artifactory.out][I] 2023-10-30T12:27:36.209Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T12:28:20.400359140Z][artifactory.out][I] 2023-10-30T12:28:20.399Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T12:28:20.402798727Z][artifactory.out][I] 2023-10-30T12:28:20.402Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T13:09:37.890817487Z][artifactory.out][I] 2023-10-30T13:09:37.890Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T13:09:37.892806261Z][artifactory.out][I] 2023-10-30T13:09:37.892Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T17:40:57.180091542Z][artifactory.out][I] 2023-10-30T17:40:57.179Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T17:40:57.185413638Z][artifactory.out][I] 2023-10-30T17:40:57.185Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T17:43:24.822888988Z][artifactory.out][I] 2023-10-30T17:43:24.822Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T17:43:24.830509770Z][artifactory.out][I] 2023-10-30T17:43:24.830Z INFO [docker.extension:107] - Found registries: nil
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:59.306490844Z][artifactory.out][I] 2023-10-30T18:22:59.304Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-10-30T18:22:59.306500285Z][artifactory.out][I] 2023-10-30T18:22:59.306Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-10-30T18:22:59.306512063Z][artifactory.out][I] 2023-10-30T18:22:59.306Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-10-30T18:22:59.313987697Z][artifactory.out][I] 2023-10-30T18:22:59.310Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T18:22:59.319991202Z][artifactory.out][I] 2023-10-30T18:22:59.319Z INFO [docker.extension:107] - Found registries: nil
+[2023-10-30T18:23:21.302220971Z][artifactory.out][I] 2023-10-30T18:23:21.301Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-10-30T18:23:21.306814244Z][artifactory.out][I] 2023-10-30T18:23:21.306Z INFO [docker.extension:107] - Found registries: nil
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:24.988563717Z][artifactory.out][I] 2023-10-31T14:21:24.986Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-10-31T14:21:24.988571437Z][artifactory.out][I] 2023-10-31T14:21:24.988Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-10-31T14:21:24.988580704Z][artifactory.out][I] 2023-10-31T14:21:24.988Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-10-31T18:19:41.681919303Z][artifactory.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:19.302320386Z][artifactory.out][I] 2023-11-01T10:49:19.300Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-01T10:49:19.302327216Z][artifactory.out][I] 2023-11-01T10:49:19.302Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-01T10:49:19.302377893Z][artifactory.out][I] 2023-11-01T10:49:19.302Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-11-01T12:12:02.811706959Z][artifactory.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:22.421504684Z][artifactory.out][I] 2023-11-02T11:16:22.419Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-02T11:16:22.421514707Z][artifactory.out][I] 2023-11-02T11:16:22.421Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-02T11:16:22.421523022Z][artifactory.out][I] 2023-11-02T11:16:22.421Z INFO [docker.extension:159] - Making directory: /run/guest-services
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:23.861126783Z][artifactory.out][I] 2023-11-02T14:21:23.859Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-02T14:21:23.861135536Z][artifactory.out][I] 2023-11-02T14:21:23.860Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-02T14:21:23.861144425Z][artifactory.out][I] 2023-11-02T14:21:23.860Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-11-02T17:26:29.032155656Z][artifactory.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:59:01.451796987Z][artifactory.out][I] 2023-11-08T08:59:01.450Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-08T08:59:01.451805986Z][artifactory.out][I] 2023-11-08T08:59:01.451Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-08T08:59:01.451896844Z][artifactory.out][I] 2023-11-08T08:59:01.451Z INFO [docker.extension:159] - Making directory: /run/guest-services
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:36.097710358Z][artifactory.out][I] 2023-11-14T06:44:36.095Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-14T06:44:36.097720221Z][artifactory.out][I] 2023-11-14T06:44:36.097Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-14T06:44:36.097729617Z][artifactory.out][I] 2023-11-14T06:44:36.097Z INFO [docker.extension:159] - Making directory: /run/guest-services
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:06.575758017Z][artifactory.out][I] 2023-11-15T10:03:06.574Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-15T10:03:06.575766178Z][artifactory.out][I] 2023-11-15T10:03:06.575Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-15T10:03:06.575854629Z][artifactory.out][I] 2023-11-15T10:03:06.575Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-11-15T11:38:21.035096872Z][artifactory.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T12:53:03.081938223Z][artifactory.out][I] 2023-11-15T12:53:03.080Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-15T12:53:03.081947182Z][artifactory.out][I] 2023-11-15T12:53:03.081Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-15T12:53:03.081955644Z][artifactory.out][I] 2023-11-15T12:53:03.081Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-11-15T12:59:07.660144955Z][artifactory.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T13:04:11.835083721Z][artifactory.out][I] 2023-11-15T13:04:11.833Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-15T13:04:11.835095623Z][artifactory.out][I] 2023-11-15T13:04:11.834Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-15T13:04:11.835103576Z][artifactory.out][I] 2023-11-15T13:04:11.834Z INFO [docker.extension:159] - Making directory: /run/guest-services
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:56.127274520Z][artifactory.out][I] 2023-11-16T09:41:56.125Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-16T09:41:56.127281875Z][artifactory.out][I] 2023-11-16T09:41:56.126Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-16T09:41:56.127290974Z][artifactory.out][I] 2023-11-16T09:41:56.127Z INFO [docker.extension:159] - Making directory: /run/guest-services
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:42.514350906Z][artifactory.out][I] 2023-11-16T11:01:42.512Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-16T11:01:42.514362836Z][artifactory.out][I] 2023-11-16T11:01:42.514Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-16T11:01:42.514373073Z][artifactory.out][I] 2023-11-16T11:01:42.514Z INFO [docker.extension:159] - Making directory: /run/guest-services
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:48.811778077Z][artifactory.out][I] 2023-11-18T16:49:48.810Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-18T16:49:48.811841845Z][artifactory.out][I] 2023-11-18T16:49:48.811Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-18T16:49:48.811843870Z][artifactory.out][I] 2023-11-18T16:49:48.811Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-11-18T16:55:55.053829178Z][artifactory.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T17:17:21.741154621Z][artifactory.out][I] 2023-11-18T17:17:21.739Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-18T17:17:21.741163802Z][artifactory.out][I] 2023-11-18T17:17:21.740Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-18T17:17:21.741171812Z][artifactory.out][I] 2023-11-18T17:17:21.740Z INFO [docker.extension:159] - Making directory: /run/guest-services
+[2023-11-18T17:17:35.570027457Z][artifactory.out][I] 2023-11-18T17:17:35.567Z INFO [docker.extension:105] - Image search request: {:function "search-images", :args {:free-text "", :limit 50}}
+[2023-11-18T17:17:35.572689638Z][artifactory.out][I] 2023-11-18T17:17:35.572Z INFO [docker.extension:107] - Found registries: nil
+[2023-11-18T17:24:55.646772456Z][artifactory.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:57.440982827Z][artifactory.out][I] 2023-11-23T09:32:57.438Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-23T09:32:57.441049569Z][artifactory.out][I] 2023-11-23T09:32:57.440Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-23T09:32:57.441054778Z][artifactory.out][I] 2023-11-23T09:32:57.440Z INFO [docker.extension:159] - Making directory: /run/guest-services
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:30.062603783Z][artifactory.out][I] 2023-11-23T10:41:30.061Z INFO [docker.cli:119] - Docker Artifactory Agent version: v1.0.34
+[2023-11-23T10:41:30.062614893Z][artifactory.out][I] 2023-11-23T10:41:30.062Z INFO [docker.extension:157] - Binding to unix socket at /run/guest-services/artifactory-agent.sock
+[2023-11-23T10:41:30.062623988Z][artifactory.out][I] 2023-11-23T10:41:30.062Z INFO [docker.extension:159] - Making directory: /run/guest-services

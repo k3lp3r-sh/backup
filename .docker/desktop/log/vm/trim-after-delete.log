@@ -1,0 +1,127 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:15.231517507Z][trim-after-delete][I] 2023/10/30 11:12:15 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-10-30T11:12:15.235133264Z][trim-after-delete][I] 2023/10/30 11:12:15 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:30.004600506Z][trim-after-delete][I] 2023/10/30 11:16:30 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-10-30T11:16:30.006029992Z][trim-after-delete][I] 2023/10/30 11:16:30 (Re-)connected to the Docker daemon
+[2023-10-30T11:24:26.349643707Z][trim-after-delete][I] 2023/10/30 11:24:26 Failed to read event: will retry in 1s
+[2023-10-30T11:24:27.352092343Z][trim-after-delete][I] 2023/10/30 11:24:27 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-30T11:24:28.352970368Z][trim-after-delete][I] 2023/10/30 11:24:28 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-30T11:24:29.353944872Z][trim-after-delete][I] 2023/10/30 11:24:29 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-30T11:24:30.355159988Z][trim-after-delete][I] 2023/10/30 11:24:30 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-30T11:24:31.355944094Z][trim-after-delete][I] 2023/10/30 11:24:31 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-30T11:24:31.442448073Z][trim-after-delete][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:30:46.710266522Z][trim-after-delete][I] 2023/10/30 11:30:46 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-10-30T11:30:46.806719848Z][trim-after-delete][I] 2023/10/30 11:30:46 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:49.551625480Z][trim-after-delete][I] 2023/10/30 12:16:49 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-10-30T12:16:49.556081001Z][trim-after-delete][I] 2023/10/30 12:16:49 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:58.692778365Z][trim-after-delete][I] 2023/10/30 18:22:58 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-10-30T18:22:58.694320366Z][trim-after-delete][I] 2023/10/30 18:22:58 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:23.491155792Z][trim-after-delete][I] 2023/10/31 14:21:23 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-10-31T14:21:23.899977658Z][trim-after-delete][I] 2023/10/31 14:21:23 (Re-)connected to the Docker daemon
+[2023-10-31T18:19:36.621482786Z][trim-after-delete][I] 2023/10/31 18:19:36 Failed to read event: will retry in 1s
+[2023-10-31T18:19:37.622608188Z][trim-after-delete][I] 2023/10/31 18:19:37 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-31T18:19:38.623009629Z][trim-after-delete][I] 2023/10/31 18:19:38 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-31T18:19:39.623574770Z][trim-after-delete][I] 2023/10/31 18:19:39 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-31T18:19:40.624172332Z][trim-after-delete][I] 2023/10/31 18:19:40 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-31T18:19:41.624974090Z][trim-after-delete][I] 2023/10/31 18:19:41 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-10-31T18:19:41.687050785Z][trim-after-delete][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:18.700124357Z][trim-after-delete][I] 2023/11/01 10:49:18 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-01T10:49:18.701941559Z][trim-after-delete][I] 2023/11/01 10:49:18 (Re-)connected to the Docker daemon
+[2023-11-01T12:11:57.755072715Z][trim-after-delete][I] 2023/11/01 12:11:57 Failed to read event: will retry in 1s
+[2023-11-01T12:11:58.755899709Z][trim-after-delete][I] 2023/11/01 12:11:58 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-01T12:11:59.756814891Z][trim-after-delete][I] 2023/11/01 12:11:59 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-01T12:12:00.757903398Z][trim-after-delete][I] 2023/11/01 12:12:00 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-01T12:12:01.758395787Z][trim-after-delete][I] 2023/11/01 12:12:01 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-01T12:12:02.758764896Z][trim-after-delete][I] 2023/11/01 12:12:02 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-01T12:12:02.816455831Z][trim-after-delete][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:21.828963352Z][trim-after-delete][I] 2023/11/02 11:16:21 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-02T11:16:21.844437483Z][trim-after-delete][I] 2023/11/02 11:16:21 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:23.278787284Z][trim-after-delete][I] 2023/11/02 14:21:23 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-02T14:21:23.284185289Z][trim-after-delete][I] 2023/11/02 14:21:23 (Re-)connected to the Docker daemon
+[2023-11-02T17:26:23.978695541Z][trim-after-delete][I] 2023/11/02 17:26:23 Failed to read event: will retry in 1s
+[2023-11-02T17:26:24.979464551Z][trim-after-delete][I] 2023/11/02 17:26:24 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-02T17:26:25.980085208Z][trim-after-delete][I] 2023/11/02 17:26:25 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-02T17:26:26.980388889Z][trim-after-delete][I] 2023/11/02 17:26:26 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-02T17:26:27.981117764Z][trim-after-delete][I] 2023/11/02 17:26:27 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-02T17:26:28.981738134Z][trim-after-delete][I] 2023/11/02 17:26:28 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-02T17:26:29.041168956Z][trim-after-delete][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:59:00.860389279Z][trim-after-delete][I] 2023/11/08 08:59:00 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-08T08:59:00.861898684Z][trim-after-delete][I] 2023/11/08 08:59:00 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:35.458868514Z][trim-after-delete][I] 2023/11/14 06:44:35 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-14T06:44:35.460470936Z][trim-after-delete][I] 2023/11/14 06:44:35 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:06.004233427Z][trim-after-delete][I] 2023/11/15 10:03:06 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-15T10:03:06.054475097Z][trim-after-delete][I] 2023/11/15 10:03:06 (Re-)connected to the Docker daemon
+[2023-11-15T11:38:15.987770726Z][trim-after-delete][I] 2023/11/15 11:38:15 Failed to read event: will retry in 1s
+[2023-11-15T11:38:16.988280431Z][trim-after-delete][I] 2023/11/15 11:38:16 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T11:38:17.988580659Z][trim-after-delete][I] 2023/11/15 11:38:17 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T11:38:18.988857845Z][trim-after-delete][I] 2023/11/15 11:38:18 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T11:38:19.989214247Z][trim-after-delete][I] 2023/11/15 11:38:19 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T11:38:20.990245316Z][trim-after-delete][I] 2023/11/15 11:38:20 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T11:38:21.033723583Z][trim-after-delete][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T12:53:02.475091354Z][trim-after-delete][I] 2023/11/15 12:53:02 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-15T12:53:07.653599712Z][trim-after-delete][I] 2023/11/15 12:53:07 (Re-)connected to the Docker daemon
+[2023-11-15T12:59:02.584270867Z][trim-after-delete][I] 2023/11/15 12:59:02 Failed to read event: will retry in 1s
+[2023-11-15T12:59:03.585436534Z][trim-after-delete][I] 2023/11/15 12:59:03 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T12:59:04.586781504Z][trim-after-delete][I] 2023/11/15 12:59:04 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T12:59:05.587640602Z][trim-after-delete][I] 2023/11/15 12:59:05 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T12:59:06.588923087Z][trim-after-delete][I] 2023/11/15 12:59:06 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T12:59:07.589681808Z][trim-after-delete][I] 2023/11/15 12:59:07 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-15T12:59:07.666006180Z][trim-after-delete][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T13:04:11.175117521Z][trim-after-delete][I] 2023/11/15 13:04:11 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-15T13:04:11.176003231Z][trim-after-delete][I] 2023/11/15 13:04:11 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:55.513476446Z][trim-after-delete][I] 2023/11/16 09:41:55 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-16T09:41:55.544855974Z][trim-after-delete][I] 2023/11/16 09:41:55 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:41.907724739Z][trim-after-delete][I] 2023/11/16 11:01:41 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-16T11:01:41.908607622Z][trim-after-delete][I] 2023/11/16 11:01:41 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:48.201238519Z][trim-after-delete][I] 2023/11/18 16:49:48 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-18T16:49:49.434064861Z][trim-after-delete][I] 2023/11/18 16:49:49 (Re-)connected to the Docker daemon
+[2023-11-18T16:50:15.612778429Z][trim-after-delete][I] 2023/11/18 16:50:15 A container has been removed: will run the action at least once more
+[2023-11-18T16:50:15.614166340Z][trim-after-delete][I] 2023/11/18 16:50:15 A container has been removed: will run the action at least once more
+[2023-11-18T16:50:15.614386630Z][trim-after-delete][I] 2023/11/18 16:50:15 A container has been removed: will run the action at least once more
+[2023-11-18T16:50:15.614390913Z][trim-after-delete][I] 2023/11/18 16:50:15 A container has been removed: will run the action at least once more
+[2023-11-18T16:50:15.614977666Z][trim-after-delete][I] 2023/11/18 16:50:15 A container has been removed: will run the action at least once more
+[2023-11-18T16:50:15.614982174Z][trim-after-delete][I] 2023/11/18 16:50:15 A container has been removed: will run the action at least once more
+[2023-11-18T16:50:15.615607123Z][trim-after-delete][I] 2023/11/18 16:50:15 A container has been removed: will run the action at least once more
+[2023-11-18T16:50:15.623784515Z][trim-after-delete][I] 2023/11/18 16:50:15 A container has been removed: will run the action at least once more
+[2023-11-18T16:50:15.668351718Z][trim-after-delete][I] 2023/11/18 16:50:15 A container has been removed: will run the action at least once more
+[2023-11-18T16:50:25.622668258Z][trim-after-delete][I] 2023/11/18 16:50:25 Running /sbin/fstrim -v /var/lib/docker
+[2023-11-18T16:50:25.679624971Z][trim-after-delete][I] 2023/11/18 16:50:25 /var/lib/docker: 54.9 GiB (58914537472 bytes) trimmed
+[2023-11-18T16:55:49.969734866Z][trim-after-delete][I] 2023/11/18 16:55:49 Failed to read event: will retry in 1s
+[2023-11-18T16:55:50.971250883Z][trim-after-delete][I] 2023/11/18 16:55:50 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T16:55:51.972638937Z][trim-after-delete][I] 2023/11/18 16:55:51 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T16:55:52.974209756Z][trim-after-delete][I] 2023/11/18 16:55:52 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T16:55:53.975965914Z][trim-after-delete][I] 2023/11/18 16:55:53 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T16:55:54.976714691Z][trim-after-delete][I] 2023/11/18 16:55:54 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T16:55:55.049810626Z][trim-after-delete][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T17:17:21.333382082Z][trim-after-delete][I] 2023/11/18 17:17:21 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-18T17:17:21.334173584Z][trim-after-delete][I] 2023/11/18 17:17:21 (Re-)connected to the Docker daemon
+[2023-11-18T17:24:50.617718013Z][trim-after-delete][I] 2023/11/18 17:24:50 Failed to read event: will retry in 1s
+[2023-11-18T17:24:51.584653018Z][trim-after-delete][I] 2023/11/18 17:24:51 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T17:24:52.585428222Z][trim-after-delete][I] 2023/11/18 17:24:52 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T17:24:53.586157606Z][trim-after-delete][I] 2023/11/18 17:24:53 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T17:24:54.586977787Z][trim-after-delete][I] 2023/11/18 17:24:54 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T17:24:55.587430341Z][trim-after-delete][I] 2023/11/18 17:24:55 Failed to connect to the Docker daemon at /var/run/docker.proxy.sock: will retry in 1s
+[2023-11-18T17:24:55.651256057Z][trim-after-delete][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:56.411110636Z][trim-after-delete][I] 2023/11/23 09:32:56 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-23T09:32:56.545726441Z][trim-after-delete][I] 2023/11/23 09:32:56 (Re-)connected to the Docker daemon
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:29.435187482Z][trim-after-delete][I] 2023/11/23 10:41:29 I will run /sbin/fstrim -v /var/lib/docker around 10.0 seconds after an image is deleted
+[2023-11-23T10:41:29.437351091Z][trim-after-delete][I] 2023/11/23 10:41:29 (Re-)connected to the Docker daemon

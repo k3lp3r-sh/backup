@@ -1,0 +1,178 @@
+-------------------------------------------------------------------------------->8
+2023-10-27 21:17:15 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-10-27 21:17:15 [I] current docker context: desktop-linux
+2023-10-27 21:17:15 [W] failed to ping docker daemon on default context: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+2023-10-27 21:17:35 [I] builder manager started
+2023-10-27 21:17:35 [I] build manager started
+2023-10-27 21:17:35 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-10-27 21:22:15 [E] docker events error: Cannot connect to the Docker daemon at unix:///home/kelper/.docker/desktop/docker.sock. Is the docker daemon running?
+2023-10-27 21:22:15 [I] received signal (terminated)
+2023-10-27 21:22:15 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-10-30 11:11:58 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-10-30 11:11:58 [I] current docker context: desktop-linux
+2023-10-30 11:12:15 [I] builder manager started
+2023-10-30 11:12:15 [I] build manager started
+2023-10-30 11:12:15 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-10-30 11:12:15 [I] starting listener for default/default
+2023-10-30 11:12:15 [I] starting listener for desktop-linux/desktop-linux
+2023-10-30 11:14:00 [I] received signal (terminated)
+2023-10-30 11:14:00 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-10-30 11:16:24 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-10-30 11:16:24 [I] current docker context: desktop-linux
+2023-10-30 11:16:24 [W] failed to ping docker daemon on default context: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+2023-10-30 11:16:29 [I] builder manager started
+2023-10-30 11:16:29 [I] build manager started
+2023-10-30 11:16:29 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-10-30 11:16:29 [I] starting listener for desktop-linux/desktop-linux
+2023-10-30 11:30:41 [E] docker events error: unexpected EOF
+2023-10-30 11:30:41 [E] error receiving build history event desktop-linux/desktop-linux: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-10-30 11:30:46 [I] starting listener for desktop-linux/desktop-linux
+-------------------------------------------------------------------------------->8
+2023-10-30 12:16:44 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-10-30 12:16:44 [I] current docker context: desktop-linux
+2023-10-30 17:47:41 [W] failed to ping docker daemon on default context: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+2023-10-30 17:47:41 [I] builder manager started
+2023-10-30 17:47:41 [I] build manager started
+2023-10-30 17:47:41 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-10-30 17:47:41 [I] starting listener for desktop-linux/desktop-linux
+2023-10-30 17:47:42 [I] received signal (terminated)
+2023-10-30 17:47:42 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-10-30 18:22:53 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-10-30 18:22:53 [I] current docker context: desktop-linux
+2023-10-30 18:56:31 [W] failed to ping docker daemon on default context: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+2023-10-30 18:56:31 [I] builder manager started
+2023-10-30 18:56:31 [I] build manager started
+2023-10-30 18:56:31 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-10-30 18:56:32 [I] starting listener for desktop-linux/desktop-linux
+2023-10-30 19:10:15 [I] received signal (terminated)
+2023-10-30 19:10:15 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-10-31 14:21:17 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-10-31 14:21:17 [I] current docker context: desktop-linux
+2023-10-31 14:21:23 [I] builder manager started
+2023-10-31 14:21:23 [I] build manager started
+2023-10-31 14:21:23 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-10-31 14:21:24 [I] starting listener for default/default
+2023-10-31 14:21:24 [I] starting listener for desktop-linux/desktop-linux
+-------------------------------------------------------------------------------->8
+2023-11-01 10:49:13 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-01 10:49:13 [I] current docker context: desktop-linux
+2023-11-01 10:49:18 [I] builder manager started
+2023-11-01 10:49:18 [I] build manager started
+2023-11-01 10:49:18 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-01 10:49:18 [I] starting listener for default/default
+2023-11-01 10:49:18 [I] starting listener for desktop-linux/desktop-linux
+-------------------------------------------------------------------------------->8
+2023-11-02 11:16:16 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-02 11:16:16 [I] current docker context: desktop-linux
+2023-11-02 11:16:21 [I] builder manager started
+2023-11-02 11:16:21 [I] build manager started
+2023-11-02 11:16:21 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-02 11:16:21 [I] starting listener for default/default
+2023-11-02 11:16:21 [I] starting listener for desktop-linux/desktop-linux
+-------------------------------------------------------------------------------->8
+2023-11-02 14:21:18 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-02 14:21:18 [I] current docker context: desktop-linux
+2023-11-02 14:21:23 [I] builder manager started
+2023-11-02 14:21:23 [I] build manager started
+2023-11-02 14:21:23 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-02 14:21:23 [I] starting listener for default/default
+2023-11-02 14:21:23 [I] starting listener for desktop-linux/desktop-linux
+2023-11-02 17:51:46 [E] error receiving build history event default/default: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-11-02 17:51:47 [I] received signal (terminated)
+2023-11-02 17:51:47 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-11-08 08:58:55 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-08 08:58:55 [I] current docker context: desktop-linux
+2023-11-08 08:59:00 [I] builder manager started
+2023-11-08 08:59:00 [I] build manager started
+2023-11-08 08:59:00 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-08 08:59:00 [I] starting listener for default/default
+2023-11-08 08:59:00 [I] starting listener for desktop-linux/desktop-linux
+2023-11-08 04:17:19 [E] error receiving build history event default/default: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-11-08 04:17:19 [I] received signal (terminated)
+2023-11-08 04:17:19 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-11-14 06:44:30 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-14 06:44:30 [I] current docker context: desktop-linux
+2023-11-14 07:29:11 [W] failed to ping docker daemon on default context: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
+2023-11-14 07:29:11 [I] builder manager started
+2023-11-14 07:29:11 [I] build manager started
+2023-11-14 07:29:11 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-14 07:29:11 [I] starting listener for desktop-linux/desktop-linux
+2023-11-14 08:57:26 [I] received signal (terminated)
+2023-11-14 08:57:26 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-11-15 10:03:00 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-15 10:03:00 [I] current docker context: desktop-linux
+2023-11-15 10:03:06 [I] builder manager started
+2023-11-15 10:03:06 [I] build manager started
+2023-11-15 10:03:06 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-15 10:03:06 [I] starting listener for default/default
+2023-11-15 10:03:06 [I] starting listener for desktop-linux/desktop-linux
+2023-11-15 12:52:57 [E] error receiving build history event desktop-linux/desktop-linux: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-11-15 12:52:57 [E] docker events error: unexpected EOF
+2023-11-15 12:53:07 [I] starting listener for desktop-linux/desktop-linux
+2023-11-15 13:04:06 [E] error receiving build history event desktop-linux/desktop-linux: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-11-15 13:04:06 [E] docker events error: unexpected EOF
+2023-11-15 13:04:10 [I] starting listener for desktop-linux/desktop-linux
+2023-11-15 13:05:50 [E] error receiving build history event default/default: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-11-15 13:05:50 [I] received signal (terminated)
+2023-11-15 13:05:50 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-11-16 09:41:50 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-16 09:41:50 [I] current docker context: desktop-linux
+2023-11-16 09:41:55 [I] builder manager started
+2023-11-16 09:41:55 [I] build manager started
+2023-11-16 09:41:55 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-16 09:41:55 [I] starting listener for default/default
+2023-11-16 09:41:55 [I] starting listener for desktop-linux/desktop-linux
+2023-11-16 11:01:26 [I] received signal (terminated)
+2023-11-16 11:01:26 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-11-16 11:01:30 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-16 11:01:30 [I] current docker context: desktop-linux
+2023-11-16 11:01:41 [I] builder manager started
+2023-11-16 11:01:41 [I] build manager started
+2023-11-16 11:01:41 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-16 11:01:41 [I] starting listener for default/default
+2023-11-16 11:01:41 [I] starting listener for desktop-linux/desktop-linux
+2023-11-16 12:17:56 [E] error receiving build history event default/default: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-11-16 12:17:56 [I] received signal (terminated)
+2023-11-16 12:17:56 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-11-18 16:49:43 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-18 16:49:43 [I] current docker context: desktop-linux
+2023-11-18 16:49:49 [I] builder manager started
+2023-11-18 16:49:49 [I] build manager started
+2023-11-18 16:49:49 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-18 16:49:49 [I] starting listener for desktop-linux/desktop-linux
+2023-11-18 16:49:49 [I] starting listener for default/default
+2023-11-18 17:17:07 [E] error receiving build history event desktop-linux/desktop-linux: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-11-18 17:17:07 [E] docker events error: unexpected EOF
+2023-11-18 17:17:21 [I] starting listener for desktop-linux/desktop-linux
+2023-11-18 19:45:48 [E] error receiving build history event default/default: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-11-18 19:45:48 [I] received signal (terminated)
+2023-11-18 19:45:48 [I] context canceled, exiting
+-------------------------------------------------------------------------------->8
+2023-11-23 09:32:50 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-23 09:32:50 [I] current docker context: desktop-linux
+2023-11-23 09:32:56 [I] builder manager started
+2023-11-23 09:32:56 [I] build manager started
+2023-11-23 09:32:56 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-23 09:32:56 [I] starting listener for default/default
+2023-11-23 09:32:56 [I] starting listener for desktop-linux/desktop-linux
+-------------------------------------------------------------------------------->8
+2023-11-23 10:41:24 [I] starting desktop-build/v0.6.0 go/1.20.6 linux/amd64
+2023-11-23 10:41:24 [I] current docker context: desktop-linux
+2023-11-23 10:41:29 [I] builder manager started
+2023-11-23 10:41:29 [I] build manager started
+2023-11-23 10:41:29 [I] starting server (socket=/home/kelper/.docker/desktop/docker-desktop-build.sock)
+2023-11-23 10:41:29 [I] starting listener for default/default
+2023-11-23 10:41:29 [I] starting listener for desktop-linux/desktop-linux
+2023-11-23 11:12:42 [E] error receiving build history event default/default: rpc error: code = Unavailable desc = error reading from server: EOF
+2023-11-23 11:12:42 [I] received signal (terminated)
+2023-11-23 11:12:42 [I] context canceled, exiting

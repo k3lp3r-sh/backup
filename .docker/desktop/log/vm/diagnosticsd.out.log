@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:14.144976724Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-10-30T11:12:14.146090409Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:29.221982976Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-10-30T11:16:29.221994821Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+[2023-10-30T11:24:31.426006999Z][diagnosticsd.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:30:46.137125371Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-10-30T11:30:46.137638768Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:49.081113069Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-10-30T12:16:49.081119971Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:58.135184642Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-10-30T18:22:58.135511453Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:22.472214576Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-10-31T14:21:22.476567851Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+[2023-10-31T18:19:41.684879411Z][diagnosticsd.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:18.113862923Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-01T10:49:18.118805361Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+[2023-11-01T12:12:02.811113433Z][diagnosticsd.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:21.738635773Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-02T11:16:21.740645009Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:23.049454191Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-02T14:21:23.210605414Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+[2023-11-02T17:26:29.036461986Z][diagnosticsd.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:59:00.778080471Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-08T08:59:00.778657137Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:35.126525864Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-14T06:44:35.131099414Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:05.047666853Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-15T10:03:05.052244117Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+[2023-11-15T11:38:21.035123811Z][diagnosticsd.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T12:53:02.188675402Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-15T12:53:02.188828576Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+[2023-11-15T12:59:07.660129374Z][diagnosticsd.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T13:04:10.211929674Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-15T13:04:10.212189979Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:55.471303913Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-16T09:41:55.471649874Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:41.194580403Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-16T11:01:41.194798265Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:47.118459633Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-18T16:49:47.119340506Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+[2023-11-18T16:55:55.047256238Z][diagnosticsd.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T17:17:20.368245734Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-18T17:17:20.368472389Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+[2023-11-18T17:24:55.648502428Z][diagnosticsd.out][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:56.132075244Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-23T09:32:56.133002016Z][diagnosticsd.out][I] ⇨ http server started on <nil>
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:29.059260744Z][diagnosticsd.out][I] ⇨ http server started on /run/guest-services/diagnosticd.sock
+[2023-11-23T10:41:29.061897748Z][diagnosticsd.out][I] ⇨ http server started on <nil>

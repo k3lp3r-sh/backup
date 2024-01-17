@@ -1,0 +1,48 @@
+12:24:05 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/kelper/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+12:24:05 [INF][      WBContext]: WbContext::init
+12:24:05 [INF][            WBA]: Looking for extension modules for WBA...
+12:24:05 [INF][            WBA]: 0 extension modules found
+12:24:05 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+12:24:05 [WRN][            grt]: /home/kelper/.mysql/workbench/connections.xml:25: link '1a0445b2-8c1d-11ee-9d2f-546ceb80b597' <object GrtObject> key=owner could not be resolved
+12:24:05 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+12:24:05 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 8.0.34 CE build 3263449 (64 bit)
+	Configuration Directory: /home/kelper/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.18.0
+	OS:  x86_64
+	CPU: 20x 12th Gen Intel(R) Core(TM) i7-12700H (400.000MHz) - 15.31GiB RAM
+No video adapter info available
+	Fips mode enabled: no
+
+12:24:07 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'kelper'@'localhost' (using password: NO)
+12:24:07 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'kelper'@'localhost' (using password: NO)
+12:24:09 [INF][SQL Editor Form]: Opened connection 'kelper' to Arch Linux version 11.2.2-MariaDB
+12:24:09 [ERR][      WBContext]: Unsupported server version: Arch Linux 11.2.2-MariaDB
+12:24:26 [WRN][   mforms.linux]: Unknown column storage type[20]
+12:24:26 [WRN][   mforms.linux]: Unknown column storage type[20]
+12:24:26 [ERR][wb_admin_export.py:get_mysqldump_version:122]: Could not parse version number from mysqldump:
+mysqldump: Deprecated program name. It will be removed in a future release, use '/usr/bin/mariadb-dump' instead
+mysqldump from 11.2.2-MariaDB, client 10.19 for Linux (x86_64)
+12:24:26 [ERR][wb_admin_utils.py:page_activated:352]: Exception activating the page - '<' not supported between instances of 'NoneType' and 'str'Unknown column storage type[20]
+12:24:27 [WRN][   mforms.linux]: Unknown column storage type[20]
+12:25:27 [WRN][   mforms.linux]: Unknown column storage type[20]
+12:25:27 [WRN][   mforms.linux]: Unknown column storage type[20]
+12:30:00 [ERR][sqlide_power_import_export_be.py:analyze_file:574]: Error analyzing file, we have no values.Execute 'Prepare Import'
+12:31:14 [INF][         Wizard]: Starting thread for 'Import data file'
+12:31:14 [ERR][SQL Editor Form]: Error Code: 1050
+Table 'water_consumption' already exists
+12:31:14 [ERR][sqlide_power_import_export_be.py:prepare_new_table:273]: Error creating table for import: ("Table 'water_consumption' already exists", 1050)

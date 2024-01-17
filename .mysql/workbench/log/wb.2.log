@@ -1,0 +1,41 @@
+17:50:24 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: /usr/share/mysql-workbench
+	plugin path: /usr/lib/mysql-workbench/plugins
+	struct path: /usr/share/mysql-workbench/grt
+	module path: /usr/lib/mysql-workbench/modules
+	library path: /usr/share/mysql-workbench/libraries
+	user data dir: /home/kelper/.mysql/workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+17:50:24 [INF][      WBContext]: WbContext::init
+17:50:25 [INF][            WBA]: Looking for extension modules for WBA...
+17:50:25 [INF][            WBA]: 0 extension modules found
+17:50:25 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+17:50:25 [WRN][            grt]: /home/kelper/.mysql/workbench/connections.xml:25: link '71cdd2ac-933b-11ee-a21b-546ceb80b597' <object GrtObject> key=owner could not be resolved
+17:50:25 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+17:50:25 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Linux/Unix version 8.0.34 CE build 3263449 (64 bit)
+	Configuration Directory: /home/kelper/.mysql/workbench
+	Data Directory: /usr/share/mysql-workbench
+	Cairo Version: 1.18.0
+	OS:  x86_64
+	CPU: 20x 12th Gen Intel(R) Core(TM) i7-12700H (400.000MHz) - 15.31GiB RAM
+No video adapter info available
+	Fips mode enabled: no
+
+17:50:25 [INF][    WQE backend]: Found auto-save workspace /home/kelper/.mysql/workbench/sql_workspaces/kelper-1.autosave
+17:50:27 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'kelper'@'localhost' (using password: NO)
+17:50:27 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'kelper'@'localhost' (using password: NO)
+17:50:29 [INF][SQL Editor Form]: Opened connection 'kelper' to Arch Linux version 11.2.2-MariaDB
+17:50:29 [ERR][      WBContext]: Unsupported server version: Arch Linux 11.2.2-MariaDB
+17:51:07 [INF][         Wizard]: Execute 'Prepare Import'
+17:51:07 [INF][         Wizard]: Starting thread for 'Import data file'
+17:58:00 [INF][         Wizard]: Execute 'Prepare Import'
+17:58:00 [INF][         Wizard]: Starting thread for 'Import data file'
+18:23:04 [INF][         Wizard]: Execute 'Prepare Import'
+18:23:04 [INF][         Wizard]: Starting thread for 'Import data file'

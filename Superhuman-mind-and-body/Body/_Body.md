@@ -1,0 +1,4 @@
+
+- [[Strength]]
+- [[Endurance]]
+- [[Aesthetics]]

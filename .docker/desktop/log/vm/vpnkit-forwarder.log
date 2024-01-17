@@ -1,0 +1,133 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:15.315044429Z][vpnkit-forwarder][I] 2023/10/30 11:12:15 Not starting a control server
+[2023-10-30T11:12:15.315413144Z][vpnkit-forwarder][I] time="2023-10-30T11:12:15Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-10-30T11:12:15.315685066Z][vpnkit-forwarder][I] time="2023-10-30T11:12:15Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 533.938µs"
+[2023-10-30T11:12:15.315934316Z][vpnkit-forwarder][I] time="2023-10-30T11:12:15Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-10-30T11:12:15.317773099Z][vpnkit-forwarder][I] time="2023-10-30T11:12:15Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:30.071191423Z][vpnkit-forwarder][I] 2023/10/30 11:16:30 Not starting a control server
+[2023-10-30T11:16:30.071536762Z][vpnkit-forwarder][I] time="2023-10-30T11:16:30Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-10-30T11:16:30.071721710Z][vpnkit-forwarder][I] time="2023-10-30T11:16:30Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 310.462µs"
+[2023-10-30T11:16:30.072005640Z][vpnkit-forwarder][I] time="2023-10-30T11:16:30Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-10-30T11:16:30.072433887Z][vpnkit-forwarder][I] time="2023-10-30T11:16:30Z" level=info msg="established connection to vpnkit-forwarder"
+[2023-10-30T11:24:31.475646561Z][vpnkit-forwarder][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:30:46.799418068Z][vpnkit-forwarder][I] 2023/10/30 11:30:46 Not starting a control server
+[2023-10-30T11:30:46.799986004Z][vpnkit-forwarder][I] time="2023-10-30T11:30:46Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-10-30T11:30:46.800592968Z][vpnkit-forwarder][I] time="2023-10-30T11:30:46Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 937.481µs"
+[2023-10-30T11:30:46.800917481Z][vpnkit-forwarder][I] time="2023-10-30T11:30:46Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-10-30T11:30:46.804214196Z][vpnkit-forwarder][I] time="2023-10-30T11:30:46Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:49.594111919Z][vpnkit-forwarder][I] 2023/10/30 12:16:49 Not starting a control server
+[2023-10-30T12:16:49.594280476Z][vpnkit-forwarder][I] time="2023-10-30T12:16:49Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-10-30T12:16:49.594505584Z][vpnkit-forwarder][I] time="2023-10-30T12:16:49Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 358.489µs"
+[2023-10-30T12:16:49.594837517Z][vpnkit-forwarder][I] time="2023-10-30T12:16:49Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-10-30T12:16:49.595991542Z][vpnkit-forwarder][I] time="2023-10-30T12:16:49Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:58.741472414Z][vpnkit-forwarder][I] 2023/10/30 18:22:58 Not starting a control server
+[2023-10-30T18:22:58.741649722Z][vpnkit-forwarder][I] time="2023-10-30T18:22:58Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-10-30T18:22:58.741921979Z][vpnkit-forwarder][I] time="2023-10-30T18:22:58Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 420.601µs"
+[2023-10-30T18:22:58.742039075Z][vpnkit-forwarder][I] time="2023-10-30T18:22:58Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-10-30T18:22:58.743011689Z][vpnkit-forwarder][I] time="2023-10-30T18:22:58Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:23.719758166Z][vpnkit-forwarder][I] 2023/10/31 14:21:23 Not starting a control server
+[2023-10-31T14:21:23.719999398Z][vpnkit-forwarder][I] time="2023-10-31T14:21:23Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-10-31T14:21:23.720171088Z][vpnkit-forwarder][I] time="2023-10-31T14:21:23Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 263.34µs"
+[2023-10-31T14:21:23.720361848Z][vpnkit-forwarder][I] time="2023-10-31T14:21:23Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-10-31T14:21:23.720589617Z][vpnkit-forwarder][I] time="2023-10-31T14:21:23Z" level=info msg="established connection to vpnkit-forwarder"
+[2023-10-31T18:19:41.691829634Z][vpnkit-forwarder][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:18.753822254Z][vpnkit-forwarder][I] 2023/11/01 10:49:18 Not starting a control server
+[2023-11-01T10:49:18.753972703Z][vpnkit-forwarder][I] time="2023-11-01T10:49:18Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-01T10:49:18.754102894Z][vpnkit-forwarder][I] time="2023-11-01T10:49:18Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 241.817µs"
+[2023-11-01T10:49:18.754338851Z][vpnkit-forwarder][I] time="2023-11-01T10:49:18Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-01T10:49:18.756042316Z][vpnkit-forwarder][I] time="2023-11-01T10:49:18Z" level=info msg="established connection to vpnkit-forwarder"
+[2023-11-01T12:12:02.821459267Z][vpnkit-forwarder][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:21.884934631Z][vpnkit-forwarder][I] 2023/11/02 11:16:21 Not starting a control server
+[2023-11-02T11:16:21.884944137Z][vpnkit-forwarder][I] time="2023-11-02T11:16:21Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-02T11:16:21.885303761Z][vpnkit-forwarder][I] time="2023-11-02T11:16:21Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-02T11:16:21.885336367Z][vpnkit-forwarder][I] time="2023-11-02T11:16:21Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 569.778µs"
+[2023-11-02T11:16:21.886777884Z][vpnkit-forwarder][I] time="2023-11-02T11:16:21Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:23.332588235Z][vpnkit-forwarder][I] 2023/11/02 14:21:23 Not starting a control server
+[2023-11-02T14:21:23.333984687Z][vpnkit-forwarder][I] time="2023-11-02T14:21:23Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-02T14:21:23.333992102Z][vpnkit-forwarder][I] time="2023-11-02T14:21:23Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-02T14:21:23.334045778Z][vpnkit-forwarder][I] time="2023-11-02T14:21:23Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 102.518µs"
+[2023-11-02T14:21:23.334527275Z][vpnkit-forwarder][I] time="2023-11-02T14:21:23Z" level=info msg="established connection to vpnkit-forwarder"
+[2023-11-02T17:26:29.044326377Z][vpnkit-forwarder][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:59:00.911747024Z][vpnkit-forwarder][I] 2023/11/08 08:59:00 Not starting a control server
+[2023-11-08T08:59:00.911865480Z][vpnkit-forwarder][I] time="2023-11-08T08:59:00Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-08T08:59:00.912064573Z][vpnkit-forwarder][I] time="2023-11-08T08:59:00Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 321.701µs"
+[2023-11-08T08:59:00.912121918Z][vpnkit-forwarder][I] time="2023-11-08T08:59:00Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-08T08:59:00.913823262Z][vpnkit-forwarder][I] time="2023-11-08T08:59:00Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:35.505825372Z][vpnkit-forwarder][I] 2023/11/14 06:44:35 Not starting a control server
+[2023-11-14T06:44:35.506176993Z][vpnkit-forwarder][I] time="2023-11-14T06:44:35Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-14T06:44:35.506358915Z][vpnkit-forwarder][I] time="2023-11-14T06:44:35Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 292.506µs"
+[2023-11-14T06:44:35.506652722Z][vpnkit-forwarder][I] time="2023-11-14T06:44:35Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-14T06:44:35.506711616Z][vpnkit-forwarder][I] time="2023-11-14T06:44:35Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:06.049215241Z][vpnkit-forwarder][I] 2023/11/15 10:03:06 Not starting a control server
+[2023-11-15T10:03:06.049336481Z][vpnkit-forwarder][I] time="2023-11-15T10:03:06Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-15T10:03:06.049451410Z][vpnkit-forwarder][I] time="2023-11-15T10:03:06Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 222.213µs"
+[2023-11-15T10:03:06.049985347Z][vpnkit-forwarder][I] time="2023-11-15T10:03:06Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-15T10:03:06.050567545Z][vpnkit-forwarder][I] time="2023-11-15T10:03:06Z" level=info msg="established connection to vpnkit-forwarder"
+[2023-11-15T10:08:31.228647727Z][vpnkit-forwarder][I] time="2023-11-15T10:08:31Z" level=info msg="closing TCP proxy because dial tcp 0.0.0.0:8000: connect: connection refused"
+[2023-11-15T10:08:31.282968043Z][vpnkit-forwarder][I] time="2023-11-15T10:08:31Z" level=info msg="closing TCP proxy because dial tcp 0.0.0.0:8000: connect: connection refused"
+[2023-11-15T10:08:31.388056632Z][vpnkit-forwarder][I] time="2023-11-15T10:08:31Z" level=info msg="closing TCP proxy because dial tcp 0.0.0.0:8000: connect: connection refused"
+[2023-11-15T10:08:31.592540282Z][vpnkit-forwarder][I] time="2023-11-15T10:08:31Z" level=info msg="closing TCP proxy because dial tcp 0.0.0.0:8000: connect: connection refused"
+[2023-11-15T10:08:31.997782424Z][vpnkit-forwarder][I] time="2023-11-15T10:08:31Z" level=info msg="closing TCP proxy because dial tcp 0.0.0.0:8000: connect: connection refused"
+[2023-11-15T11:38:21.035052612Z][vpnkit-forwarder][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T12:53:02.522595142Z][vpnkit-forwarder][I] 2023/11/15 12:53:02 Not starting a control server
+[2023-11-15T12:53:02.522748052Z][vpnkit-forwarder][I] time="2023-11-15T12:53:02Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-15T12:53:02.522955882Z][vpnkit-forwarder][I] time="2023-11-15T12:53:02Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 294.424µs"
+[2023-11-15T12:53:02.523235697Z][vpnkit-forwarder][I] time="2023-11-15T12:53:02Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-15T12:53:02.524794782Z][vpnkit-forwarder][I] time="2023-11-15T12:53:02Z" level=info msg="established connection to vpnkit-forwarder"
+[2023-11-15T12:59:07.663376998Z][vpnkit-forwarder][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T13:04:11.224367974Z][vpnkit-forwarder][I] 2023/11/15 13:04:11 Not starting a control server
+[2023-11-15T13:04:11.224547739Z][vpnkit-forwarder][I] time="2023-11-15T13:04:11Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-15T13:04:11.224685711Z][vpnkit-forwarder][I] time="2023-11-15T13:04:11Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 204.272µs"
+[2023-11-15T13:04:11.224747798Z][vpnkit-forwarder][I] time="2023-11-15T13:04:11Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-15T13:04:11.225121980Z][vpnkit-forwarder][I] time="2023-11-15T13:04:11Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:55.560513061Z][vpnkit-forwarder][I] 2023/11/16 09:41:55 Not starting a control server
+[2023-11-16T09:41:55.561074889Z][vpnkit-forwarder][I] time="2023-11-16T09:41:55Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-16T09:41:55.561327634Z][vpnkit-forwarder][I] time="2023-11-16T09:41:55Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 738.933µs"
+[2023-11-16T09:41:55.561449182Z][vpnkit-forwarder][I] time="2023-11-16T09:41:55Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-16T09:41:55.561758012Z][vpnkit-forwarder][I] time="2023-11-16T09:41:55Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:41.962740200Z][vpnkit-forwarder][I] 2023/11/16 11:01:41 Not starting a control server
+[2023-11-16T11:01:41.962947226Z][vpnkit-forwarder][I] time="2023-11-16T11:01:41Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-16T11:01:41.963211653Z][vpnkit-forwarder][I] time="2023-11-16T11:01:41Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 326.893µs"
+[2023-11-16T11:01:41.963369343Z][vpnkit-forwarder][I] time="2023-11-16T11:01:41Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-16T11:01:41.963514316Z][vpnkit-forwarder][I] time="2023-11-16T11:01:41Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:48.250364646Z][vpnkit-forwarder][I] 2023/11/18 16:49:48 Not starting a control server
+[2023-11-18T16:49:48.250498458Z][vpnkit-forwarder][I] time="2023-11-18T16:49:48Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-18T16:49:48.250689709Z][vpnkit-forwarder][I] time="2023-11-18T16:49:48Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 237.823µs"
+[2023-11-18T16:49:48.250916644Z][vpnkit-forwarder][I] time="2023-11-18T16:49:48Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-18T16:49:48.251136532Z][vpnkit-forwarder][I] time="2023-11-18T16:49:48Z" level=info msg="established connection to vpnkit-forwarder"
+[2023-11-18T16:55:55.050791971Z][vpnkit-forwarder][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T17:17:21.403090675Z][vpnkit-forwarder][I] 2023/11/18 17:17:21 Not starting a control server
+[2023-11-18T17:17:21.403230255Z][vpnkit-forwarder][I] time="2023-11-18T17:17:21Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-18T17:17:21.403483757Z][vpnkit-forwarder][I] time="2023-11-18T17:17:21Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 297.849µs"
+[2023-11-18T17:17:21.403695899Z][vpnkit-forwarder][I] time="2023-11-18T17:17:21Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-18T17:17:21.403732004Z][vpnkit-forwarder][I] time="2023-11-18T17:17:21Z" level=info msg="established connection to vpnkit-forwarder"
+[2023-11-18T17:24:55.656515940Z][vpnkit-forwarder][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:56.518902138Z][vpnkit-forwarder][I] 2023/11/23 09:32:56 Not starting a control server
+[2023-11-23T09:32:56.519878539Z][vpnkit-forwarder][I] time="2023-11-23T09:32:56Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-23T09:32:56.520127159Z][vpnkit-forwarder][I] time="2023-11-23T09:32:56Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 329.607µs"
+[2023-11-23T09:32:56.520167707Z][vpnkit-forwarder][I] time="2023-11-23T09:32:56Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-23T09:32:56.521378153Z][vpnkit-forwarder][I] time="2023-11-23T09:32:56Z" level=info msg="established connection to vpnkit-forwarder"
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:29.514274158Z][vpnkit-forwarder][I] 2023/11/23 10:41:29 Not starting a control server
+[2023-11-23T10:41:29.514496373Z][vpnkit-forwarder][I] time="2023-11-23T10:41:29Z" level=info msg="dialing Unix domain socket /run/host-services/vpnkit-data.sock for data connection"
+[2023-11-23T10:41:29.514506607Z][vpnkit-forwarder][I] time="2023-11-23T10:41:29Z" level=info msg="connected data connection on Unix domain socket /run/host-services/vpnkit-data.sock after 193.734µs"
+[2023-11-23T10:41:29.514724923Z][vpnkit-forwarder][I] time="2023-11-23T10:41:29Z" level=info msg="listening on Unix domain socket /run/guest-services/wsl2-expose-ports.sock for data connection"
+[2023-11-23T10:41:29.515882569Z][vpnkit-forwarder][I] time="2023-11-23T10:41:29Z" level=info msg="established connection to vpnkit-forwarder"

@@ -1,0 +1,232 @@
+[1, 11:02:56] show databases: Running...
+[1, 11:02:56] show databases: Fetching...
+[1, 11:02:56] show databases: 6 row(s) returned
+[1, 12:25:56] show databases: Running...
+[1, 12:25:56] show databases: Fetching...
+[1, 12:25:56] show databases: 7 row(s) returned
+[2, 12:26:06] use DBMSIII: Running...
+[2, 12:26:06] use DBMSIII: 0 row(s) affected
+[3, 12:26:08] use DBMSIII: Running...
+[3, 12:26:08] use DBMSIII: 0 row(s) affected
+[4, 12:26:09] use DBMSIII: Running...
+[4, 12:26:09] use DBMSIII: 0 row(s) affected
+[5, 12:26:12] show tables: Running...
+[5, 12:26:12] show tables: Fetching...
+[5, 12:26:12] show tables: 1 row(s) returned
+[6, 12:26:25] drop table your_table_name: Running...
+[6, 12:26:25] drop table your_table_name: 0 row(s) affected
+[7, 12:26:26] show tables: Running...
+[7, 12:26:26] show tables: Fetching...
+[7, 12:26:27] show tables: 0 row(s) returned
+[8, 12:28:17] CREATE TABLE water_consumption (
+    house_number INT,
+    category VARCHAR(20),
+    occupied VARCHAR(3),
+    leak VARCHAR(3),
+    water_consumption FLOAT
+): Running...
+[8, 12:28:17] CREATE TABLE water_consumption (
+    house_number INT,
+    category VARCHAR(20),
+    occupied VARCHAR(3),
+    leak VARCHAR(3),
+    water_consumption FLOAT
+): 0 row(s) affected
+[9, 12:28:21] show tables: Running...
+[9, 12:28:21] show tables: Fetching...
+[9, 12:28:21] show tables: 1 row(s) returned
+[10, 12:28:34] select * from water_consumption
+LIMIT 0, 1000
+: Running...
+[10, 12:28:34] select * from water_consumption
+LIMIT 0, 1000
+: Fetching...
+[10, 12:28:34] select * from water_consumption
+LIMIT 0, 1000
+: 0 row(s) returned
+[11, 12:29:04] SELECT * FROM DBMSIII.water_consumption
+LIMIT 0, 1000
+: Running...
+[11, 12:29:04] SELECT * FROM DBMSIII.water_consumption
+LIMIT 0, 1000
+: Fetching...
+[11, 12:29:04] SELECT * FROM DBMSIII.water_consumption
+LIMIT 0, 1000
+: 0 row(s) returned
+[12, 12:29:54] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[12, 12:29:54] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[13, 12:29:54] SHOW DATABASES: Executing 
+[13, 12:29:54] SHOW DATABASES: OK
+[14, 12:30:00] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[14, 12:30:00] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[15, 12:31:03] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[15, 12:31:03] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[16, 12:31:03] SHOW DATABASES: Executing 
+[16, 12:31:03] SHOW DATABASES: OK
+[17, 12:31:05] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[17, 12:31:05] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[18, 12:31:14]  CREATE TABLE `DBMSIII`.`water_consumption` (`House Number` int, `Category` text, `Occupied` text, `Water Consumption` double): Executing 
+[18, 12:31:14]  CREATE TABLE `DBMSIII`.`water_consumption` (`House Number` int, `Category` text, `Occupied` text, `Water Consumption` double): Error Code: 1050
+Table 'water_consumption' already exists
+[19, 12:31:14]  DROP TABLE `DBMSIII`.`water_consumption`: Executing 
+[19, 12:31:14]  DROP TABLE `DBMSIII`.`water_consumption`: OK
+[20, 12:31:14]  CREATE TABLE `DBMSIII`.`water_consumption` (`House Number` int, `Category` text, `Occupied` text, `Water Consumption` double): Executing 
+[20, 12:31:14]  CREATE TABLE `DBMSIII`.`water_consumption` (`House Number` int, `Category` text, `Occupied` text, `Water Consumption` double): OK
+[21, 12:31:14] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`water_consumption` (`House Number`,`Category`,`Occupied`,`Water Consumption`) VALUES(?,?,?,?)': Executing 
+[21, 12:31:14] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`water_consumption` (`House Number`,`Category`,`Occupied`,`Water Consumption`) VALUES(?,?,?,?)': OK
+[22, 12:31:16] DEALLOCATE PREPARE stmt: Executing 
+[22, 12:31:16] DEALLOCATE PREPARE stmt: OK
+[23, 12:31:23] SELECT * FROM DBMSIII.water_consumption
+LIMIT 0, 1000
+: Running...
+[23, 12:31:23] SELECT * FROM DBMSIII.water_consumption
+LIMIT 0, 1000
+: Fetching...
+[23, 12:31:23] SELECT * FROM DBMSIII.water_consumption
+LIMIT 0, 1000
+: 420 row(s) returned
+[1, 16:26:10] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[1, 16:26:10] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[2, 16:26:10] SHOW DATABASES: Executing 
+[2, 16:26:10] SHOW DATABASES: OK
+[3, 16:26:23] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[3, 16:26:23] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[4, 16:26:23] SHOW TABLES FROM `DBMSIII` like 'apartmentMeter': Executing 
+[4, 16:26:23] SHOW TABLES FROM `DBMSIII` like 'apartmentMeter': OK
+[5, 16:26:53]  CREATE TABLE `DBMSIII`.`apartmentMeter` (`apartment_id` text, `meter_id` text): Executing 
+[5, 16:26:53]  CREATE TABLE `DBMSIII`.`apartmentMeter` (`apartment_id` text, `meter_id` text): OK
+[6, 16:26:53] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`apartmentMeter` (`apartment_id`,`meter_id`) VALUES(?,?)': Executing 
+[6, 16:26:53] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`apartmentMeter` (`apartment_id`,`meter_id`) VALUES(?,?)': OK
+[7, 16:26:53] DEALLOCATE PREPARE stmt: Executing 
+[7, 16:26:53] DEALLOCATE PREPARE stmt: OK
+[8, 16:27:16] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[8, 16:27:16] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[9, 16:27:16] SHOW DATABASES: Executing 
+[9, 16:27:16] SHOW DATABASES: OK
+[10, 16:27:20] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[10, 16:27:20] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[11, 16:27:20] SHOW TABLES FROM `DBMSIII` like 'meter_data': Executing 
+[11, 16:27:20] SHOW TABLES FROM `DBMSIII` like 'meter_data': OK
+[12, 16:27:29] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[12, 16:27:29] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[13, 16:27:29] SHOW TABLES FROM `DBMSIII` like 'meterData': Executing 
+[13, 16:27:29] SHOW TABLES FROM `DBMSIII` like 'meterData': OK
+[14, 16:28:12]  CREATE TABLE `DBMSIII`.`meterData` (`meter_id` text, `active` text, `issue_date` datetime, `last_update` datetime): Executing 
+[14, 16:28:12]  CREATE TABLE `DBMSIII`.`meterData` (`meter_id` text, `active` text, `issue_date` datetime, `last_update` datetime): OK
+[15, 16:28:12] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`meterData` (`meter_id`,`active`,`issue_date`,`last_update`) VALUES(?,?,?,?)': Executing 
+[15, 16:28:12] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`meterData` (`meter_id`,`active`,`issue_date`,`last_update`) VALUES(?,?,?,?)': OK
+[16, 16:28:12] DEALLOCATE PREPARE stmt: Executing 
+[16, 16:28:12] DEALLOCATE PREPARE stmt: OK
+[1, 12:27:17] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[1, 12:27:17] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[2, 12:27:17] SHOW DATABASES: Executing 
+[2, 12:27:17] SHOW DATABASES: OK
+[3, 12:27:22] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[3, 12:27:22] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[4, 12:27:22] SHOW TABLES FROM `DBMSIII` like 'paymentData': Executing 
+[4, 12:27:22] SHOW TABLES FROM `DBMSIII` like 'paymentData': OK
+[5, 12:27:41]  CREATE TABLE `DBMSIII`.`paymentData` (`Apartment_id` text, `Occupants` int, `Consumption_level` double, `Staff_id` text, `Amount` double, `Payment_date` datetime): Executing 
+[5, 12:27:41]  CREATE TABLE `DBMSIII`.`paymentData` (`Apartment_id` text, `Occupants` int, `Consumption_level` double, `Staff_id` text, `Amount` double, `Payment_date` datetime): OK
+[6, 12:27:41] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`paymentData` (`Apartment_id`,`Occupants`,`Consumption_level`,`Staff_id`,`Amount`,`Payment_date`) VALUES(?,?,?,?,?,?)': Executing 
+[6, 12:27:41] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`paymentData` (`Apartment_id`,`Occupants`,`Consumption_level`,`Staff_id`,`Amount`,`Payment_date`) VALUES(?,?,?,?,?,?)': OK
+[7, 12:27:42] DEALLOCATE PREPARE stmt: Executing 
+[7, 12:27:42] DEALLOCATE PREPARE stmt: OK
+[8, 12:27:57] show tables: Running...
+[8, 12:27:57] show tables: Error Code: 1046. No database selected
+Select the default DB to be used by double-clicking its name in the SCHEMAS list in the sidebar.
+[9, 12:27:59] use DBMSIII: Running...
+[9, 12:27:59] use DBMSIII: 0 row(s) affected
+[10, 12:28:02] show tables: Running...
+[10, 12:28:02] show tables: Fetching...
+[10, 12:28:02] show tables: 3 row(s) returned
+[11, 12:28:18] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[11, 12:28:18] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[12, 12:28:18] SHOW DATABASES: Executing 
+[12, 12:28:18] SHOW DATABASES: OK
+[13, 12:28:22] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[13, 12:28:22] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[14, 12:28:22] SHOW TABLES FROM `DBMSIII` like 'staffData': Executing 
+[14, 12:28:22] SHOW TABLES FROM `DBMSIII` like 'staffData': OK
+[15, 12:28:29]  CREATE TABLE `DBMSIII`.`staffData` (`Staff_id` text, `Staff_name` text, `Staff_contact` bigint): Executing 
+[15, 12:28:29]  CREATE TABLE `DBMSIII`.`staffData` (`Staff_id` text, `Staff_name` text, `Staff_contact` bigint): OK
+[16, 12:28:29] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`staffData` (`Staff_id`,`Staff_name`,`Staff_contact`) VALUES(?,?,?)': Executing 
+[16, 12:28:29] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`staffData` (`Staff_id`,`Staff_name`,`Staff_contact`) VALUES(?,?,?)': OK
+[17, 12:28:29] DEALLOCATE PREPARE stmt: Executing 
+[17, 12:28:29] DEALLOCATE PREPARE stmt: OK
+[18, 12:28:34] show tables: Running...
+[18, 12:28:34] show tables: Fetching...
+[18, 12:28:34] show tables: 4 row(s) returned
+[1, 17:50:34] use DBMSIII: Running...
+[1, 17:50:34] use DBMSIII: 0 row(s) affected
+[2, 17:50:50] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[2, 17:50:50] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[3, 17:50:50] SHOW DATABASES: Executing 
+[3, 17:50:50] SHOW DATABASES: OK
+[4, 17:50:58] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[4, 17:50:58] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[5, 17:50:58] SHOW COLUMNS FROM `DBMSIII`.`apartmentMeter`: Executing 
+[5, 17:50:58] SHOW COLUMNS FROM `DBMSIII`.`apartmentMeter`: OK
+[6, 17:51:07] TRUNCATE TABLE `DBMSIII`.`apartmentMeter`: Executing 
+[6, 17:51:07] TRUNCATE TABLE `DBMSIII`.`apartmentMeter`: OK
+[7, 17:51:07] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`apartmentMeter` (`apartment_id`,`meter_id`) VALUES(?,?)': Executing 
+[7, 17:51:07] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`apartmentMeter` (`apartment_id`,`meter_id`) VALUES(?,?)': OK
+[8, 17:51:08] DEALLOCATE PREPARE stmt: Executing 
+[8, 17:51:08] DEALLOCATE PREPARE stmt: OK
+[9, 17:57:45] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[9, 17:57:45] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[10, 17:57:45] SHOW DATABASES: Executing 
+[10, 17:57:45] SHOW DATABASES: OK
+[11, 17:57:51] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[11, 17:57:51] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[12, 17:57:51] SHOW COLUMNS FROM `DBMSIII`.`meterData`: Executing 
+[12, 17:57:51] SHOW COLUMNS FROM `DBMSIII`.`meterData`: OK
+[13, 17:58:00] TRUNCATE TABLE `DBMSIII`.`meterData`: Executing 
+[13, 17:58:00] TRUNCATE TABLE `DBMSIII`.`meterData`: OK
+[14, 17:58:00] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`meterData` (`meter_id`,`active`,`issue_date`,`last_update`) VALUES(?,?,?,?)': Executing 
+[14, 17:58:00] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`meterData` (`meter_id`,`active`,`issue_date`,`last_update`) VALUES(?,?,?,?)': OK
+[15, 17:58:01] DEALLOCATE PREPARE stmt: Executing 
+[15, 17:58:01] DEALLOCATE PREPARE stmt: OK
+[16, 18:22:55] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[16, 18:22:55] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[17, 18:22:55] SHOW DATABASES: Executing 
+[17, 18:22:55] SHOW DATABASES: OK
+[18, 18:23:01] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[18, 18:23:01] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[19, 18:23:01] SHOW COLUMNS FROM `DBMSIII`.`staffData`: Executing 
+[19, 18:23:01] SHOW COLUMNS FROM `DBMSIII`.`staffData`: OK
+[20, 18:23:04] TRUNCATE TABLE `DBMSIII`.`staffData`: Executing 
+[20, 18:23:04] TRUNCATE TABLE `DBMSIII`.`staffData`: OK
+[21, 18:23:04] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`staffData` (`Staff_id`,`Staff_name`,`Staff_contact`) VALUES(?,?,?)': Executing 
+[21, 18:23:04] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`staffData` (`Staff_id`,`Staff_name`,`Staff_contact`) VALUES(?,?,?)': OK
+[22, 18:23:04] DEALLOCATE PREPARE stmt: Executing 
+[22, 18:23:04] DEALLOCATE PREPARE stmt: OK
+[1, 14:56:26] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[1, 14:56:26] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[2, 14:56:26] SHOW DATABASES: Executing 
+[2, 14:56:26] SHOW DATABASES: OK
+[3, 14:56:32] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': Executing 
+[3, 14:56:32] SHOW SESSION VARIABLES LIKE 'lower_case_table_names': OK
+[4, 14:56:32] SHOW TABLES FROM `DBMSIII` like 'apartment_meter039': Executing 
+[4, 14:56:32] SHOW TABLES FROM `DBMSIII` like 'apartment_meter039': OK
+[5, 14:56:51]  CREATE TABLE `DBMSIII`.`apartment_meter039` (`apartment_id` text, `meter_id` text): Executing 
+[5, 14:56:51]  CREATE TABLE `DBMSIII`.`apartment_meter039` (`apartment_id` text, `meter_id` text): OK
+[6, 14:56:51] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`apartment_meter039` (`apartment_id`,`meter_id`) VALUES(?,?)': Executing 
+[6, 14:56:51] PREPARE stmt FROM 'INSERT INTO `DBMSIII`.`apartment_meter039` (`apartment_id`,`meter_id`) VALUES(?,?)': OK
+[7, 14:56:51] DEALLOCATE PREPARE stmt: Executing 
+[7, 14:56:51] DEALLOCATE PREPARE stmt: OK
+[1, 21:25:14] SHOW COLUMNS FROM `DBMSIII`.`apartmentMeter`: Executing 
+[1, 21:25:14] SHOW COLUMNS FROM `DBMSIII`.`apartmentMeter`: OK
+[2, 21:25:51] SELECT `apartment_id`,`meter_id` FROM `DBMSIII`.`apartmentMeter` : Executing 
+[2, 21:25:51] SELECT `apartment_id`,`meter_id` FROM `DBMSIII`.`apartmentMeter` : OK
+[3, 21:25:57] SHOW COLUMNS FROM `DBMSIII`.`meterData`: Executing 
+[3, 21:25:57] SHOW COLUMNS FROM `DBMSIII`.`meterData`: OK
+[4, 21:26:08] SELECT `meter_id`,`active`,`issue_date`,`last_update` FROM `DBMSIII`.`meterData` : Executing 
+[4, 21:26:08] SELECT `meter_id`,`active`,`issue_date`,`last_update` FROM `DBMSIII`.`meterData` : OK
+[5, 21:26:17] SHOW COLUMNS FROM `DBMSIII`.`paymentData`: Executing 
+[5, 21:26:17] SHOW COLUMNS FROM `DBMSIII`.`paymentData`: OK
+[6, 21:26:27] SELECT `Apartment_id`,`Occupants`,`Consumption_level`,`Staff_id`,`Amount`,`Payment_date` FROM `DBMSIII`.`paymentData` : Executing 
+[6, 21:26:27] SELECT `Apartment_id`,`Occupants`,`Consumption_level`,`Staff_id`,`Amount`,`Payment_date` FROM `DBMSIII`.`paymentData` : OK
+[7, 21:26:35] SHOW COLUMNS FROM `DBMSIII`.`staffData`: Executing 
+[7, 21:26:35] SHOW COLUMNS FROM `DBMSIII`.`staffData`: OK
+[8, 21:26:49] SELECT `Staff_id`,`Staff_name`,`Staff_contact` FROM `DBMSIII`.`staffData` : Executing 
+[8, 21:26:49] SELECT `Staff_id`,`Staff_name`,`Staff_contact` FROM `DBMSIII`.`staffData` : OK

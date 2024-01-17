@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "log/host/.b4a11ba6644a6673c040b9c4f4385c297779c948-audit.json",
+    "files": [
+        {
+            "date": 1699944270660,
+            "name": "log/host/electron-2023-11-14-12.log",
+            "hash": "fa14e9d41061eab02bd830b4bce049b7"
+        },
+        {
+            "date": 1700042581161,
+            "name": "log/host/electron-2023-11-15-15.log",
+            "hash": "2803c2bc1a54aa9298be4c8d75b8409c"
+        },
+        {
+            "date": 1700044382967,
+            "name": "log/host/electron-2023-11-15-16.log",
+            "hash": "fa0e7db1b69cf9589465948ac76849e5"
+        },
+        {
+            "date": 1700047982967,
+            "name": "log/host/electron-2023-11-15-17.log",
+            "hash": "ffc0552aaaa55bf3c95b54623b86c0d2"
+        },
+        {
+            "date": 1700052601078,
+            "name": "log/host/electron-2023-11-15-18.log",
+            "hash": "de54742f369d34eb98fb1d332010d507"
+        },
+        {
+            "date": 1700127710607,
+            "name": "log/host/electron-2023-11-16-15.log",
+            "hash": "494a45d56ef7eede1bf453708686f0e2"
+        },
+        {
+            "date": 1700130712411,
+            "name": "log/host/electron-2023-11-16-16.log",
+            "hash": "d96ee2238e5e4f868c254138c5e9f946"
+        },
+        {
+            "date": 1700326183495,
+            "name": "log/host/electron-2023-11-18-22.log",
+            "hash": "7a58ec8d20a55a57d4e8b51a3ea79627"
+        },
+        {
+            "date": 1700731970974,
+            "name": "log/host/electron-2023-11-23-15.log",
+            "hash": "a07e88916deada16e9a1d597f688070c"
+        },
+        {
+            "date": 1700736084474,
+            "name": "log/host/electron-2023-11-23-16.log",
+            "hash": "2bf26a526b6172ea2dbb564b8e06f8fb"
+        }
+    ],
+    "hashType": "md5"
+}

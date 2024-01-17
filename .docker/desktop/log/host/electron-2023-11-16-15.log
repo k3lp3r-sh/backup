@@ -1,0 +1,268 @@
+2023-11-16T09:41:50.759Z info 	application has just finished initializing
+2023-11-16T09:41:50.775Z info 	open with opts: {"_":["/opt/docker-desktop/Docker Desktop"],"name":"dashboard"}
+2023-11-16T09:41:50.775Z info 	[TRAY] load icon, themeSettings =  null
+2023-11-16T09:41:50.776Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: false and loginRestricted: false
+2023-11-16T09:41:50.793Z info 	[THEME] updated, shouldUseDarkColors = false
+2023-11-16T09:41:50.793Z info 	[TRAY][THEME] updated, shouldUseDarkColors = false
+2023-11-16T09:41:50.794Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: false and loginRestricted: false
+2023-11-16T09:41:50.795Z info 	[THEME] updated, themeSettings =  null
+2023-11-16T09:41:50.806Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'starting',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2023-11-16T09:41:50.806Z info 	[SSE] Received: { type: 'LoggedOutOK' }
+2023-11-16T09:41:50.807Z info 	[SSE] Received: { hasBeenAccepted: true }
+2023-11-16T09:41:50.818Z info 	[HTTP] 200: GET /features
+2023-11-16T09:41:51.297Z info 	[HTTP] 200: GET /ping
+2023-11-16T09:41:51.308Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: false and loginRestricted: false
+2023-11-16T09:41:51.309Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.310Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.338Z info 	[HTTP] 200: GET /versions
+2023-11-16T09:41:51.339Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.342Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.343Z info 	[HTTP] 200: GET /app/settings
+2023-11-16T09:41:51.344Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:51.344Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.346Z info 	[HTTP] 200: GET /install/check
+2023-11-16T09:41:51.347Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:51.347Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.348Z info 	[HTTP] 200: GET /backend/state
+2023-11-16T09:41:51.349Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:51.349Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.350Z info 	[HTTP] 200: GET /docker
+2023-11-16T09:41:51.351Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:51.351Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.352Z info 	[HTTP] 200: GET /kubernetes
+2023-11-16T09:41:51.353Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:51.353Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.355Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:51.355Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.358Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:51.358Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:51.359Z info 	[SSE] Received: {
+  updateStatus: 'updateAvailable',
+  currentBuild: '126437',
+  currentVersion: '4.25.0',
+  appcastURL: 'https://desktop.docker.com/linux/main/amd64/appcast.xml',
+  targetURL: 'https://desktop.docker.com/linux/main/amd64/128006/docker-desktop-4.25.1-amd64.deb',
+  targetBuild: '128006',
+  targetVersion: '4.25.1'
+}
+2023-11-16T09:41:51.360Z info 	[HTTP] 200: GET /store
+2023-11-16T09:41:51.361Z info 	[HTTP] 200: GET /store
+2023-11-16T09:41:51.361Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:51.361Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:52.296Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-16T09:41:52.297Z info 	[IPC] desktopGoBackend/getSettings: []
+2023-11-16T09:41:52.297Z info 	[IPC] desktopGoBackend/getVersions: []
+2023-11-16T09:41:52.297Z info 	[IPC] desktopGoBackend/defaultEditor: []
+2023-11-16T09:41:52.298Z info 	[IPC] desktopGoBackend/getSystemInfo: []
+2023-11-16T09:41:52.298Z info 	[IPC] desktopGoBackend/getInstallStatus: []
+2023-11-16T09:41:52.298Z info 	[IPC] desktopGoBackend/getPauseState: []
+2023-11-16T09:41:52.299Z info 	[IPC] extensionsBackend/getOS: []
+2023-11-16T09:41:52.299Z info 	[IPC] desktopGoBackend/getUUID: []
+2023-11-16T09:41:52.299Z info 	[IPC] desktopGoBackend/getKubernetes: []
+2023-11-16T09:41:52.300Z info 	[IPC] desktopGoBackend/getDockerState: []
+2023-11-16T09:41:52.300Z info 	[HTTP] 200: GET /features
+2023-11-16T09:41:52.301Z info 	[HTTP] 200: GET /versions
+2023-11-16T09:41:52.301Z info 	[HTTP] 200: GET /app/settings
+2023-11-16T09:41:52.302Z info 	[HTTP] 200: GET /system/editor
+2023-11-16T09:41:52.302Z info 	[HTTP] 200: GET /system/info
+2023-11-16T09:41:52.302Z info 	[HTTP] 200: GET /install/check
+2023-11-16T09:41:52.304Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2023-11-16T09:41:52.305Z info 	[HTTP] 200: GET /backend/state
+2023-11-16T09:41:52.305Z info 	[HTTP] 200: GET /uuid
+2023-11-16T09:41:52.305Z info 	[HTTP] 200: GET /kubernetes
+2023-11-16T09:41:52.305Z info 	[HTTP] 200: GET /docker
+2023-11-16T09:41:52.366Z info 	[SSEManager] Init SSE streams to browser window after it is loaded
+2023-11-16T09:41:52.369Z info 	[IPC] desktopGoBackend/getSystemDiskUsage: ["/home/kelper/.docker/desktop/vms/0/data"]
+2023-11-16T09:41:52.370Z info 	[HTTP] 200: GET /system/disk-usage?path=%2Fhome%2Fkelper%2F.docker%2Fdesktop%2Fvms%2F0%2Fdata
+2023-11-16T09:41:52.385Z info 	[HTTP] 200: GET /store/categories
+2023-11-16T09:41:52.398Z info 	[HTTP] 200: POST /analytics/track
+2023-11-16T09:41:52.408Z info 	[IPC] window.windowIsMaximized: Started streaming ([{}])
+2023-11-16T09:41:52.409Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2023-11-16T09:41:52.410Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2023-11-16T09:41:52.411Z info 	[IPC] extensions.extensionsBackendEvents: Unsubscribed after 107ms, emitted 0 times
+2023-11-16T09:41:52.412Z info 	[HTTP] 200: GET /store/categories
+2023-11-16T09:41:52.413Z info 	[HTTP] 200: GET /store/unpublished
+2023-11-16T09:41:52.414Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2023-11-16T09:41:52.429Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2023-11-16T09:41:52.430Z info 	[HTTP] 200: GET /store
+2023-11-16T09:41:52.572Z info 	[IPC] window.windowIsMaximized: Unsubscribed after 164ms, emitted 1 times
+2023-11-16T09:41:52.573Z info 	[IPC] window.windowIsMaximized: Started streaming ([{}])
+2023-11-16T09:41:52.573Z info 	[IPC] desktopGoBackend/track: ["eventEngineState",{"action":"EngineScreenDisplayed","state":"EngineStarting"}]
+2023-11-16T09:41:52.574Z info 	[HTTP] 200: POST /analytics/track
+2023-11-16T09:41:53.755Z info 	[SSE] Received: { type: 'extension_store_reloaded' }
+2023-11-16T09:41:54.844Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:54.845Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:54.848Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'starting',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2023-11-16T09:41:54.856Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:54.857Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:54.859Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'starting',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2023-11-16T09:41:54.867Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:54.868Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:54.870Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'starting',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2023-11-16T09:41:54.875Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:54.876Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:54.877Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'starting',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2023-11-16T09:41:54.884Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:54.884Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:54.885Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'starting',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2023-11-16T09:41:54.892Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:54.892Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:54.894Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'starting',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2023-11-16T09:41:55.552Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:55.552Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:55.554Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2023-11-16T09:41:55.554Z info 	[HTTP] 200: GET /store/suggestions
+2023-11-16T09:41:55.888Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:55.888Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:55.889Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'starting',
+  idle: 'running',
+  state: 'starting',
+  mode: 'linux'
+}
+2023-11-16T09:41:55.937Z info 	[INDEX] listening for new images
+2023-11-16T09:41:55.939Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:41:55.939Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:41:55.940Z info 	[SSE] Received: {
+  timestamp: 0,
+  HasServerTimestamp: false,
+  content: '',
+  dockerAPI: 'running',
+  docker: 'running',
+  idle: 'running',
+  state: 'running',
+  mode: 'linux'
+}
+2023-11-16T09:41:55.943Z info 	[HTTP] 200: GET /app/settings
+2023-11-16T09:41:55.963Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2023-11-16T09:41:55.964Z info 	[IPC] dockerListContainers: {"all":true}
+2023-11-16T09:41:55.965Z info 	[IPC] dockerListImages: undefined
+2023-11-16T09:41:55.966Z info 	[IPC] extensions.extensionsBackendEvents: Started streaming ([{}])
+2023-11-16T09:41:55.966Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2023-11-16T09:41:55.966Z info 	[HTTP] 200: GET /store/unpublished
+2023-11-16T09:41:55.966Z info 	[HTTP] 200: GET /store/categories
+2023-11-16T09:41:55.966Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2023-11-16T09:41:55.967Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2023-11-16T09:41:55.968Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2023-11-16T09:41:55.969Z info 	[HTTP] 200: GET /store/unpublished
+2023-11-16T09:41:56.004Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2023-11-16T09:41:56.024Z info 	[HTTP] 200: GET /store
+2023-11-16T09:41:56.032Z info 	[HTTP] 200: GET /volumes
+2023-11-16T09:41:56.046Z info 	[IPC] dockerStreamEvents, since: 1700127715
+2023-11-16T09:41:56.046Z info 	[IPC] engine.dockerStreamEvents: Started streaming ([{"since":1700127715}])
+2023-11-16T09:41:56.046Z info 	[Docker socket] REQ: GET /events 
+2023-11-16T09:41:56.049Z info 	[Docker socket] 200: GET /events?since=1700127715
+2023-11-16T09:41:56.053Z info 	[IPC] dockerListContainers: {"all":true}
+2023-11-16T09:41:56.074Z info 	[IPC] dockerStreamEvents, since: 1700127715
+2023-11-16T09:41:56.074Z info 	[IPC] engine.dockerStreamEvents: Started streaming ([{"since":1700127715}])
+2023-11-16T09:41:56.074Z info 	[Docker socket] REQ: GET /events 
+2023-11-16T09:41:56.076Z info 	[Docker socket] 200: GET /events?since=1700127715
+2023-11-16T09:42:50.221Z info 	[SSE] /install/events emitted: true
+2023-11-16T09:42:50.224Z info 	[MENU] Adding items for extensions { newExtensionsAvailable: 0, updatesAvailable: 0 }
+2023-11-16T09:42:50.224Z info 	[MENU] Rebuilding with licenseHasBeenAccepted: true and loginRestricted: false
+2023-11-16T09:51:52.411Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-16T09:51:52.416Z info 	[HTTP] 200: GET /features
+2023-11-16T09:55:00.339Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2023-11-16T09:55:00.340Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2023-11-16T09:55:00.343Z info 	[HTTP] 200: GET /store/unpublished
+2023-11-16T09:55:00.346Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2023-11-16T09:55:00.347Z info 	[HTTP] 200: GET /store/categories
+2023-11-16T09:55:00.347Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2023-11-16T09:55:00.350Z info 	[HTTP] 200: GET /store/suggestions
+2023-11-16T09:55:00.363Z info 	[HTTP] 200: GET /store
+2023-11-16T09:55:00.528Z info 	[IPC] desktopGoBackend/track: ["globalSearch",{"action":"ContainersComposeTabClicked","context":"Screen","version":"global-search-v2"}]
+2023-11-16T09:55:00.529Z info 	[HTTP] 200: POST /analytics/track
+2023-11-16T10:01:52.410Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-16T10:01:52.411Z info 	[HTTP] 200: GET /features
+2023-11-16T10:11:52.411Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-16T10:11:52.415Z info 	[HTTP] 200: GET /features
+2023-11-16T10:21:52.410Z info 	[IPC] desktopGoBackend/getFeatures: []
+2023-11-16T10:21:52.411Z info 	[HTTP] 200: GET /features
+2023-11-16T10:22:21.729Z info 	[Web Request Interceptor] request https://dd-extensions-backend/marketplace redirecting to marketplace
+2023-11-16T10:22:21.729Z info 	[IPC] extensionsBackend/getStoreUnpublishedExtensions: []
+2023-11-16T10:22:21.731Z info 	[HTTP] 200: GET /store/categories
+2023-11-16T10:22:21.731Z info 	[HTTP] 200: GET /store/unpublished
+2023-11-16T10:22:21.732Z info 	[HTTP] 200: GET /extensions?ignoreStatus=true
+2023-11-16T10:22:21.732Z info 	[CUSTOM-PROTOCOL] docker-extensions-be/marketplace: {}
+2023-11-16T10:22:21.745Z info 	[HTTP] 200: GET /store/suggestions
+2023-11-16T10:22:21.754Z info 	[HTTP] 200: GET /store
+2023-11-16T10:22:24.536Z info 	[HTTP] 200: GET /store/suggestions
+2023-11-16T10:22:26.566Z info 	[HTTP] 200: GET /store/suggestions
+2023-11-16T10:24:30.777Z info 	[HTTP] 200: GET /store/suggestions
+2023-11-16T10:24:34.451Z info 	[HTTP] 200: GET /store/suggestions

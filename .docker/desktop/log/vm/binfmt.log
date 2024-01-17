@@ -1,0 +1,260 @@
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:12:13.833509549Z][binfmt][I] [2023-10-30T11:12:13.833379370Z][main][I] 
+[2023-10-30T11:12:13.833527562Z][binfmt][I] [2023-10-30T11:12:13.833479999Z][main.ipc][I] ipc.NewClient: bf8a0d40-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-10-30T11:12:13.837748540Z][binfmt][I] 2023/10/30 11:12:13 Rosetta is not enabled so installing qemu for every arch
+[2023-10-30T11:12:13.837754697Z][binfmt][I] 2023/10/30 11:12:13 /usr/bin/binfmt --install all
+[2023-10-30T11:12:13.945188262Z][binfmt][I] installing: arm64 OK
+[2023-10-30T11:12:13.947277668Z][binfmt][I] installing: arm OK
+[2023-10-30T11:12:13.949108268Z][binfmt][I] installing: s390x OK
+[2023-10-30T11:12:13.951351031Z][binfmt][I] installing: mips64le OK
+[2023-10-30T11:12:13.951802314Z][binfmt][I] installing: mips64 OK
+[2023-10-30T11:12:13.952078474Z][binfmt][I] installing: ppc64le OK
+[2023-10-30T11:12:13.952092892Z][binfmt][I] installing: riscv64 OK
+[2023-10-30T11:12:14.160915823Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:16:29.105871256Z][binfmt][I] [2023-10-30T11:16:29.105707999Z][main][I] 
+[2023-10-30T11:16:29.105923554Z][binfmt][I] [2023-10-30T11:16:29.105787005Z][main.ipc][I] ipc.NewClient: f77818da-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-10-30T11:16:29.108971147Z][binfmt][I] 2023/10/30 11:16:29 Rosetta is not enabled so installing qemu for every arch
+[2023-10-30T11:16:29.108986733Z][binfmt][I] 2023/10/30 11:16:29 /usr/bin/binfmt --install all
+[2023-10-30T11:16:29.137336290Z][binfmt][I] installing: arm OK
+[2023-10-30T11:16:29.137415651Z][binfmt][I] installing: s390x OK
+[2023-10-30T11:16:29.137528353Z][binfmt][I] installing: mips64le OK
+[2023-10-30T11:16:29.137660952Z][binfmt][I] installing: ppc64le OK
+[2023-10-30T11:16:29.137689176Z][binfmt][I] installing: riscv64 OK
+[2023-10-30T11:16:29.137854883Z][binfmt][I] installing: mips64 OK
+[2023-10-30T11:16:29.138001167Z][binfmt][I] installing: arm64 OK
+[2023-10-30T11:16:29.199653772Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T11:30:45.948709115Z][binfmt][I] [2023-10-30T11:30:45.948542467Z][main][I] 
+[2023-10-30T11:30:45.948724330Z][binfmt][I] [2023-10-30T11:30:45.948659649Z][main.ipc][I] ipc.NewClient: 5efbb856-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-10-30T11:30:45.952631479Z][binfmt][I] 2023/10/30 11:30:45 Rosetta is not enabled so installing qemu for every arch
+[2023-10-30T11:30:45.952641990Z][binfmt][I] 2023/10/30 11:30:45 /usr/bin/binfmt --install all
+[2023-10-30T11:30:46.025854129Z][binfmt][I] installing: riscv64 OK
+[2023-10-30T11:30:46.026707455Z][binfmt][I] installing: mips64 OK
+[2023-10-30T11:30:46.028831366Z][binfmt][I] installing: arm OK
+[2023-10-30T11:30:46.029467708Z][binfmt][I] installing: s390x OK
+[2023-10-30T11:30:46.029747391Z][binfmt][I] installing: ppc64le OK
+[2023-10-30T11:30:46.031791638Z][binfmt][I] installing: mips64le OK
+[2023-10-30T11:30:46.032168190Z][binfmt][I] installing: arm64 OK
+[2023-10-30T11:30:46.663586824Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T12:16:48.928065650Z][binfmt][I] [2023-10-30T12:16:48.927949185Z][main][I] 
+[2023-10-30T12:16:48.928083658Z][binfmt][I] [2023-10-30T12:16:48.928043112Z][main.ipc][I] ipc.NewClient: a84ce98d-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-10-30T12:16:48.933496005Z][binfmt][I] 2023/10/30 12:16:48 Rosetta is not enabled so installing qemu for every arch
+[2023-10-30T12:16:48.933503618Z][binfmt][I] 2023/10/30 12:16:48 /usr/bin/binfmt --install all
+[2023-10-30T12:16:48.986204865Z][binfmt][I] installing: s390x OK
+[2023-10-30T12:16:48.986640397Z][binfmt][I] installing: ppc64le OK
+[2023-10-30T12:16:48.987171240Z][binfmt][I] installing: mips64le OK
+[2023-10-30T12:16:48.987810251Z][binfmt][I] installing: arm64 OK
+[2023-10-30T12:16:48.987835819Z][binfmt][I] installing: arm OK
+[2023-10-30T12:16:48.988061098Z][binfmt][I] installing: mips64 OK
+[2023-10-30T12:16:48.988063726Z][binfmt][I] installing: riscv64 OK
+[2023-10-30T12:16:49.541513764Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-30T18:22:58.008304367Z][binfmt][I] [2023-10-30T18:22:58.008199008Z][main][I] 
+[2023-10-30T18:22:58.008324869Z][binfmt][I] [2023-10-30T18:22:58.008252442Z][main.ipc][I] ipc.NewClient: 2ceae68d-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-10-30T18:22:58.010434257Z][binfmt][I] 2023/10/30 18:22:58 Rosetta is not enabled so installing qemu for every arch
+[2023-10-30T18:22:58.010439488Z][binfmt][I] 2023/10/30 18:22:58 /usr/bin/binfmt --install all
+[2023-10-30T18:22:58.046596396Z][binfmt][I] installing: s390x OK
+[2023-10-30T18:22:58.046839507Z][binfmt][I] installing: ppc64le OK
+[2023-10-30T18:22:58.048799136Z][binfmt][I] installing: arm64 OK
+[2023-10-30T18:22:58.049096249Z][binfmt][I] installing: arm OK
+[2023-10-30T18:22:58.049101932Z][binfmt][I] installing: riscv64 OK
+[2023-10-30T18:22:58.051089876Z][binfmt][I] installing: mips64le OK
+[2023-10-30T18:22:58.051237070Z][binfmt][I] installing: mips64 OK
+[2023-10-30T18:22:58.650610182Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-10-31T14:21:22.088437677Z][binfmt][I] [2023-10-31T14:21:22.088296082Z][main][I] 
+[2023-10-31T14:21:22.088446594Z][binfmt][I] [2023-10-31T14:21:22.088386729Z][main.ipc][I] ipc.NewClient: f102c66b-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-10-31T14:21:22.101591633Z][binfmt][I] 2023/10/31 14:21:22 Rosetta is not enabled so installing qemu for every arch
+[2023-10-31T14:21:22.101636861Z][binfmt][I] 2023/10/31 14:21:22 /usr/bin/binfmt --install all
+[2023-10-31T14:21:22.188515780Z][binfmt][I] installing: arm OK
+[2023-10-31T14:21:22.188708996Z][binfmt][I] installing: riscv64 OK
+[2023-10-31T14:21:22.191389555Z][binfmt][I] installing: mips64 OK
+[2023-10-31T14:21:22.191890522Z][binfmt][I] installing: arm64 OK
+[2023-10-31T14:21:22.193684439Z][binfmt][I] installing: s390x OK
+[2023-10-31T14:21:22.203586958Z][binfmt][I] installing: ppc64le OK
+[2023-10-31T14:21:22.204514569Z][binfmt][I] installing: mips64le OK
+[2023-10-31T14:21:23.269835781Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-01T10:49:17.989938553Z][binfmt][I] [2023-11-01T10:49:17.989782625Z][main][I] 
+[2023-11-01T10:49:17.990057016Z][binfmt][I] [2023-11-01T10:49:17.989939364Z][main.ipc][I] ipc.NewClient: 980dabf6-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-01T10:49:17.994067297Z][binfmt][I] 2023/11/01 10:49:17 Rosetta is not enabled so installing qemu for every arch
+[2023-11-01T10:49:17.994073853Z][binfmt][I] 2023/11/01 10:49:17 /usr/bin/binfmt --install all
+[2023-11-01T10:49:18.035597353Z][binfmt][I] installing: ppc64le OK
+[2023-11-01T10:49:18.035604186Z][binfmt][I] installing: riscv64 OK
+[2023-11-01T10:49:18.037825993Z][binfmt][I] installing: mips64le OK
+[2023-11-01T10:49:18.039951336Z][binfmt][I] installing: mips64 OK
+[2023-11-01T10:49:18.041994835Z][binfmt][I] installing: arm64 OK
+[2023-11-01T10:49:18.044273571Z][binfmt][I] installing: arm OK
+[2023-11-01T10:49:18.046625932Z][binfmt][I] installing: s390x OK
+[2023-11-01T10:49:18.679831640Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T11:16:20.905727930Z][binfmt][I] [2023-11-02T11:16:20.905615272Z][main][I] 
+[2023-11-02T11:16:20.905742254Z][binfmt][I] [2023-11-02T11:16:20.905702862Z][main.ipc][I] ipc.NewClient: 0bbee419-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-02T11:16:20.909169220Z][binfmt][I] 2023/11/02 11:16:20 Rosetta is not enabled so installing qemu for every arch
+[2023-11-02T11:16:20.909174577Z][binfmt][I] 2023/11/02 11:16:20 /usr/bin/binfmt --install all
+[2023-11-02T11:16:20.945354427Z][binfmt][I] installing: arm OK
+[2023-11-02T11:16:20.947121564Z][binfmt][I] installing: riscv64 OK
+[2023-11-02T11:16:20.947340601Z][binfmt][I] installing: mips64le OK
+[2023-11-02T11:16:20.947656941Z][binfmt][I] installing: arm64 OK
+[2023-11-02T11:16:20.949671666Z][binfmt][I] installing: s390x OK
+[2023-11-02T11:16:20.950047966Z][binfmt][I] installing: ppc64le OK
+[2023-11-02T11:16:20.952357404Z][binfmt][I] installing: mips64 OK
+[2023-11-02T11:16:21.803774312Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-02T14:21:22.933268189Z][binfmt][I] [2023-11-02T14:21:22.933063158Z][main][I] 
+[2023-11-02T14:21:22.933313260Z][binfmt][I] [2023-11-02T14:21:22.933233912Z][main.ipc][I] ipc.NewClient: 6437f722-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-02T14:21:22.936168277Z][binfmt][I] 2023/11/02 14:21:22 Rosetta is not enabled so installing qemu for every arch
+[2023-11-02T14:21:22.936174981Z][binfmt][I] 2023/11/02 14:21:22 /usr/bin/binfmt --install all
+[2023-11-02T14:21:22.977317603Z][binfmt][I] installing: arm OK
+[2023-11-02T14:21:22.977508144Z][binfmt][I] installing: s390x OK
+[2023-11-02T14:21:22.977941025Z][binfmt][I] installing: mips64le OK
+[2023-11-02T14:21:22.978260021Z][binfmt][I] installing: mips64 OK
+[2023-11-02T14:21:22.978476721Z][binfmt][I] installing: arm64 OK
+[2023-11-02T14:21:22.978770645Z][binfmt][I] installing: ppc64le OK
+[2023-11-02T14:21:22.978779553Z][binfmt][I] installing: riscv64 OK
+[2023-11-02T14:21:23.279440898Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-08T08:58:59.912351695Z][binfmt][I] [2023-11-08T08:58:59.912222257Z][main][I] 
+[2023-11-08T08:58:59.912374791Z][binfmt][I] [2023-11-08T08:58:59.912336226Z][main.ipc][I] ipc.NewClient: 55e53167-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-08T08:58:59.919672283Z][binfmt][I] 2023/11/08 08:58:59 Rosetta is not enabled so installing qemu for every arch
+[2023-11-08T08:58:59.919681398Z][binfmt][I] 2023/11/08 08:58:59 /usr/bin/binfmt --install all
+[2023-11-08T08:58:59.960494336Z][binfmt][I] installing: arm OK
+[2023-11-08T08:58:59.962969391Z][binfmt][I] installing: ppc64le OK
+[2023-11-08T08:58:59.962977919Z][binfmt][I] installing: riscv64 OK
+[2023-11-08T08:58:59.963453093Z][binfmt][I] installing: mips64le OK
+[2023-11-08T08:58:59.965310536Z][binfmt][I] installing: mips64 OK
+[2023-11-08T08:58:59.965622382Z][binfmt][I] installing: arm64 OK
+[2023-11-08T08:58:59.966332309Z][binfmt][I] installing: s390x OK
+[2023-11-08T08:59:00.780094347Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-14T06:44:34.984662833Z][binfmt][I] [2023-11-14T06:44:34.984558973Z][main][I] 
+[2023-11-14T06:44:34.984712679Z][binfmt][I] [2023-11-14T06:44:34.984620470Z][main.ipc][I] ipc.NewClient: 71910b11-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-14T06:44:34.986915092Z][binfmt][I] 2023/11/14 06:44:34 Rosetta is not enabled so installing qemu for every arch
+[2023-11-14T06:44:34.986925090Z][binfmt][I] 2023/11/14 06:44:34 /usr/bin/binfmt --install all
+[2023-11-14T06:44:35.042363660Z][binfmt][I] installing: arm64 OK
+[2023-11-14T06:44:35.042543216Z][binfmt][I] installing: arm OK
+[2023-11-14T06:44:35.042709413Z][binfmt][I] installing: s390x OK
+[2023-11-14T06:44:35.042842862Z][binfmt][I] installing: mips64 OK
+[2023-11-14T06:44:35.043103543Z][binfmt][I] installing: ppc64le OK
+[2023-11-14T06:44:35.043111764Z][binfmt][I] installing: riscv64 OK
+[2023-11-14T06:44:35.043253287Z][binfmt][I] installing: mips64le OK
+[2023-11-14T06:44:35.423394089Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T10:03:04.899431830Z][binfmt][I] [2023-11-15T10:03:04.899349282Z][main][I] 
+[2023-11-15T10:03:04.899466729Z][binfmt][I] [2023-11-15T10:03:04.899428741Z][main.ipc][I] ipc.NewClient: b0fd9368-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-15T10:03:05.058897635Z][binfmt][I] 2023/11/15 10:03:05 Rosetta is not enabled so installing qemu for every arch
+[2023-11-15T10:03:05.058903035Z][binfmt][I] 2023/11/15 10:03:05 /usr/bin/binfmt --install all
+[2023-11-15T10:03:05.966372163Z][binfmt][I] installing: mips64 OK
+[2023-11-15T10:03:05.966690202Z][binfmt][I] installing: s390x OK
+[2023-11-15T10:03:05.966703725Z][binfmt][I] installing: riscv64 OK
+[2023-11-15T10:03:05.966981681Z][binfmt][I] installing: arm OK
+[2023-11-15T10:03:05.967268572Z][binfmt][I] installing: ppc64le OK
+[2023-11-15T10:03:05.967595671Z][binfmt][I] installing: mips64le OK
+[2023-11-15T10:03:05.967811467Z][binfmt][I] installing: arm64 OK
+[2023-11-15T10:03:06.050207494Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T12:53:02.109492059Z][binfmt][I] [2023-11-15T12:53:02.109360749Z][main][I] 
+[2023-11-15T12:53:02.109501267Z][binfmt][I] [2023-11-15T12:53:02.109404808Z][main.ipc][I] ipc.NewClient: 984b953d-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-15T12:53:02.111355309Z][binfmt][I] 2023/11/15 12:53:02 Rosetta is not enabled so installing qemu for every arch
+[2023-11-15T12:53:02.111359059Z][binfmt][I] 2023/11/15 12:53:02 /usr/bin/binfmt --install all
+[2023-11-15T12:53:02.130988133Z][binfmt][I] installing: ppc64le OK
+[2023-11-15T12:53:02.131044360Z][binfmt][I] installing: mips64 OK
+[2023-11-15T12:53:02.131135371Z][binfmt][I] installing: arm64 OK
+[2023-11-15T12:53:02.131206278Z][binfmt][I] installing: arm OK
+[2023-11-15T12:53:02.131301042Z][binfmt][I] installing: s390x OK
+[2023-11-15T12:53:02.131304709Z][binfmt][I] installing: riscv64 OK
+[2023-11-15T12:53:02.131383694Z][binfmt][I] installing: mips64le OK
+[2023-11-15T12:53:02.170198052Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-15T13:04:10.132099142Z][binfmt][I] [2023-11-15T13:04:10.131971760Z][main][I] 
+[2023-11-15T13:04:10.132122423Z][binfmt][I] [2023-11-15T13:04:10.132028130Z][main.ipc][I] ipc.NewClient: dc176bf3-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-15T13:04:10.133853915Z][binfmt][I] 2023/11/15 13:04:10 Rosetta is not enabled so installing qemu for every arch
+[2023-11-15T13:04:10.133859352Z][binfmt][I] 2023/11/15 13:04:10 /usr/bin/binfmt --install all
+[2023-11-15T13:04:10.150790637Z][binfmt][I] installing: arm OK
+[2023-11-15T13:04:10.150878868Z][binfmt][I] installing: arm64 OK
+[2023-11-15T13:04:10.150939843Z][binfmt][I] installing: s390x OK
+[2023-11-15T13:04:10.150985296Z][binfmt][I] installing: ppc64le OK
+[2023-11-15T13:04:10.151020478Z][binfmt][I] installing: riscv64 OK
+[2023-11-15T13:04:10.151086841Z][binfmt][I] installing: mips64le OK
+[2023-11-15T13:04:10.151135976Z][binfmt][I] installing: mips64 OK
+[2023-11-15T13:04:10.188779610Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-16T09:41:54.906283779Z][binfmt][I] [2023-11-16T09:41:54.906161356Z][main][I] 
+[2023-11-16T09:41:54.906294951Z][binfmt][I] [2023-11-16T09:41:54.906221403Z][main.ipc][I] ipc.NewClient: ccc2bd12-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-16T09:41:54.909132782Z][binfmt][I] 2023/11/16 09:41:54 Rosetta is not enabled so installing qemu for every arch
+[2023-11-16T09:41:54.909139370Z][binfmt][I] 2023/11/16 09:41:54 /usr/bin/binfmt --install all
+[2023-11-16T09:41:54.943316506Z][binfmt][I] installing: s390x OK
+[2023-11-16T09:41:54.943678763Z][binfmt][I] installing: mips64 OK
+[2023-11-16T09:41:54.944009133Z][binfmt][I] installing: arm64 OK
+[2023-11-16T09:41:54.944436977Z][binfmt][I] installing: arm OK
+[2023-11-16T09:41:54.946272231Z][binfmt][I] installing: ppc64le OK
+[2023-11-16T09:41:54.946283768Z][binfmt][I] installing: riscv64 OK
+[2023-11-16T09:41:54.948373829Z][binfmt][I] installing: mips64le OK
+[2023-11-16T09:41:55.524820201Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-16T11:01:41.095518404Z][binfmt][I] [2023-11-16T11:01:41.095426730Z][main][I] 
+[2023-11-16T11:01:41.095531054Z][binfmt][I] [2023-11-16T11:01:41.095477560Z][main.ipc][I] ipc.NewClient: d56a4ee3-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-16T11:01:41.097501562Z][binfmt][I] 2023/11/16 11:01:41 Rosetta is not enabled so installing qemu for every arch
+[2023-11-16T11:01:41.097508023Z][binfmt][I] 2023/11/16 11:01:41 /usr/bin/binfmt --install all
+[2023-11-16T11:01:41.116126793Z][binfmt][I] installing: s390x OK
+[2023-11-16T11:01:41.116143717Z][binfmt][I] installing: mips64 OK
+[2023-11-16T11:01:41.116213951Z][binfmt][I] installing: arm64 OK
+[2023-11-16T11:01:41.116261652Z][binfmt][I] installing: arm OK
+[2023-11-16T11:01:41.116332589Z][binfmt][I] installing: riscv64 OK
+[2023-11-16T11:01:41.116410102Z][binfmt][I] installing: mips64le OK
+[2023-11-16T11:01:41.116482636Z][binfmt][I] installing: ppc64le OK
+[2023-11-16T11:01:41.148044746Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T16:49:46.980248934Z][binfmt][I] [2023-11-18T16:49:46.980159382Z][main][I] 
+[2023-11-18T16:49:46.980256350Z][binfmt][I] [2023-11-18T16:49:46.980222724Z][main.ipc][I] ipc.NewClient: 869679b9-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-18T16:49:46.983183269Z][binfmt][I] 2023/11/18 16:49:46 Rosetta is not enabled so installing qemu for every arch
+[2023-11-18T16:49:46.983191641Z][binfmt][I] 2023/11/18 16:49:46 /usr/bin/binfmt --install all
+[2023-11-18T16:49:47.021418290Z][binfmt][I] installing: s390x OK
+[2023-11-18T16:49:47.021758776Z][binfmt][I] installing: mips64 OK
+[2023-11-18T16:49:47.023870587Z][binfmt][I] installing: arm OK
+[2023-11-18T16:49:47.024098306Z][binfmt][I] installing: ppc64le OK
+[2023-11-18T16:49:47.024102859Z][binfmt][I] installing: riscv64 OK
+[2023-11-18T16:49:47.026265753Z][binfmt][I] installing: mips64le OK
+[2023-11-18T16:49:47.026521945Z][binfmt][I] installing: arm64 OK
+[2023-11-18T16:49:48.162533282Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-18T17:17:20.197980288Z][binfmt][I] [2023-11-18T17:17:20.197873451Z][main][I] 
+[2023-11-18T17:17:20.197992847Z][binfmt][I] [2023-11-18T17:17:20.197917055Z][main.ipc][I] ipc.NewClient: 2046803d-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-18T17:17:20.199612124Z][binfmt][I] 2023/11/18 17:17:20 Rosetta is not enabled so installing qemu for every arch
+[2023-11-18T17:17:20.199616728Z][binfmt][I] 2023/11/18 17:17:20 /usr/bin/binfmt --install all
+[2023-11-18T17:17:20.217651180Z][binfmt][I] installing: s390x OK
+[2023-11-18T17:17:20.217658120Z][binfmt][I] installing: riscv64 OK
+[2023-11-18T17:17:20.217781252Z][binfmt][I] installing: mips64le OK
+[2023-11-18T17:17:20.217930755Z][binfmt][I] installing: arm64 OK
+[2023-11-18T17:17:20.217976163Z][binfmt][I] installing: mips64 OK
+[2023-11-18T17:17:20.218029072Z][binfmt][I] installing: arm OK
+[2023-11-18T17:17:20.218192238Z][binfmt][I] installing: ppc64le OK
+[2023-11-18T17:17:20.256692834Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T09:32:55.941194124Z][binfmt][I] [2023-11-23T09:32:55.941036032Z][main][I] 
+[2023-11-23T09:32:55.941277918Z][binfmt][I] [2023-11-23T09:32:55.941184784Z][main.ipc][I] ipc.NewClient: 22898195-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-23T09:32:55.946056151Z][binfmt][I] 2023/11/23 09:32:55 Rosetta is not enabled so installing qemu for every arch
+[2023-11-23T09:32:55.946068709Z][binfmt][I] 2023/11/23 09:32:55 /usr/bin/binfmt --install all
+[2023-11-23T09:32:55.996683681Z][binfmt][I] installing: s390x OK
+[2023-11-23T09:32:55.996870576Z][binfmt][I] installing: ppc64le OK
+[2023-11-23T09:32:55.997253791Z][binfmt][I] installing: arm64 OK
+[2023-11-23T09:32:55.997635632Z][binfmt][I] installing: arm OK
+[2023-11-23T09:32:55.997721127Z][binfmt][I] installing: mips64le OK
+[2023-11-23T09:32:55.998124079Z][binfmt][I] installing: mips64 OK
+[2023-11-23T09:32:55.998134188Z][binfmt][I] installing: riscv64 OK
+[2023-11-23T09:32:56.191319430Z][binfmt][I] EOF
+-------------------------------------------------------------------------------->8
+[2023-11-23T10:41:28.902049271Z][binfmt][I] [2023-11-23T10:41:28.901907807Z][main][I] 
+[2023-11-23T10:41:28.902134990Z][binfmt][I] [2023-11-23T10:41:28.902062972Z][main.ipc][I] ipc.NewClient: b96522b3-binfmt -> <HOME>run<HOME>host-services<HOME>backend.sock BackendAPI
+[2023-11-23T10:41:28.904530969Z][binfmt][I] 2023/11/23 10:41:28 Rosetta is not enabled so installing qemu for every arch
+[2023-11-23T10:41:28.904538446Z][binfmt][I] 2023/11/23 10:41:28 /usr/bin/binfmt --install all
+[2023-11-23T10:41:28.949296365Z][binfmt][I] installing: arm64 OK
+[2023-11-23T10:41:28.949306719Z][binfmt][I] installing: riscv64 OK
+[2023-11-23T10:41:28.951340390Z][binfmt][I] installing: arm OK
+[2023-11-23T10:41:28.953315515Z][binfmt][I] installing: s390x OK
+[2023-11-23T10:41:28.955085835Z][binfmt][I] installing: ppc64le OK
+[2023-11-23T10:41:28.957071062Z][binfmt][I] installing: mips64le OK
+[2023-11-23T10:41:28.958975863Z][binfmt][I] installing: mips64 OK
+[2023-11-23T10:41:29.396353983Z][binfmt][I] EOF

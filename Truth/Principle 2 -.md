@@ -1,0 +1,1 @@
+Socratic method: asking why someone believes something 

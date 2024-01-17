@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "1e7b7994b23e70e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "50adbe7df4e2a296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63b15f95f18deb8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principle 1 - Putting the search of truth above everything else.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fb16a7d7099b80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principle 1 - Putting the search of truth above everything else.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "485e2ecdcfa56322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principle 3 - The Mentor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d06cad90a3c2e5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principle 4 - Find out what curriculum will let you free.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c875fab7f561dbab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principle 5 - Seek intense hardship to forge discipline and self-control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60fd1a8bc7990da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54c96fd03dd537f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aa077867a7d0750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9b471731907fae6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ded3ee91c0d60c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0b74f3418f98f5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2a29c4f376bfffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "61f3333a6d0f339b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6faf3c65dddfd6db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Curriculum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a3e23bb3dcb680f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Curriculum.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "330d752ff4438a8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4faa92baa6f1012e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Curriculum.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "60fd1a8bc7990da5",
+  "lastOpenFiles": [
+    "Principle 5 - Seek intense hardship to forge discipline and self-control.md",
+    "Curriculum.md",
+    "Principle 4 - Find out what curriculum will let you free.md",
+    "Principle 3 - The Mentor.md",
+    "Principle 1 - Putting the search of truth above everything else.md",
+    "Principle 2 -.md"
+  ]
+}

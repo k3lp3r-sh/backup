@@ -1,0 +1,236 @@
+c[?7l[2J[0mSeaBIOS (version Arch Linux 1.16.2-2-2)
+
+
+iPXE (http://ipxe.org) 00:01.0 C000 PCI2.10 PnP PMM+7EFD31B0+7EF331B0 C000
+Press Ctrl-B to configure iPXE (PCI 00:01.0)...                                                                               
+
+
+Booting from ROM..c[?7l[2J[2023-11-15T12:52:57.975535259Z][init][I] 
+[2023-11-15T12:52:57.993586982Z][init][I] 
+[2023-11-15T12:52:58.000019781Z][init][I] set time from real time clock: 2023-11-15 12:52:58 +0000 UTC
+[2023-11-15T12:52:58.001092883Z][init][I] logging to both the host and the console
+[2023-11-15T12:52:58.001154034Z][init.socketforward][I] adding listener for virtual address: debug-socketforwarder
+[2023-11-15T12:52:58.001232321Z][init.socketforward][I] adding listener for virtual address: perf-socketforwarder
+[2023-11-15T12:52:58.001853388Z][init][I] /containers/services are already available
+[2023-11-15T12:52:58.009568707Z][init][I] platform has a virtio-net eth0 so no need for a TAP AF_VSOCK
+[2023-11-15T12:52:58.009715479Z][init][I] listening on TCP port 5555 for internal Docker Hub proxy
+[2023-11-15T12:52:58.009748551Z][init][I] listening on TCP port 3128 for internal HTTP proxy
+[2023-11-15T12:52:58.009885016Z][init.socketforward][I] adding listener for virtual address: control-init
+[2023-11-15T12:52:58.010279415Z][init.metadata][I] writing metadata to /run/config
+⇨ http server started on [32mcontrol-init[0m
+[2023-11-15T12:52:58.010352074Z][init.ipc][I] ipc.NewClient: aae6987d-metadata ->  
+[2023-11-15T12:52:58.010529438Z][init.ipc][I] (8b713937) aae6987d-metadata C->S  GET /vm/init
+[2023-11-15T12:52:58.010616617Z][init.ipc][I] ipc.NewClient: 5c32f812-pause/unpause ->  
+[2023-11-15T12:52:58.010721682Z][init][I] cgroupv2 detected in /sys/fs/cgroup
+[2023-11-15T12:52:58.011024764Z][init.ipc][I] run (with context) f0d7d179-procd for component procd on /run/guest-services/procd.sock
+⇨ http server started on [32m/run/guest-services/procd.sock[0m
+[2023-11-15T12:52:58.011425896Z][init][I] eth0: DHCPv4
+[2023-11-15T12:52:58.010355439Z][init][I] starting debug service
+[2023-11-15T12:52:58.010377339Z][init][I] starting performance service
+[2023-11-15T12:52:58.010282021Z][init.socketforward][I] connecting to tcp+bootstrap+client://gateway.docker.internal:35411/b8eade98cbc688b9da420066b157fb02c08cc8eaa600ab1bc10eec8fdb316830...
+[2023-11-15T12:52:58.018603231Z][init.socketforward][W] cannot set up multiplexer, will retry in 2s: getting default route: reading /run/network/eth0.gateway: open /run/network/eth0.gateway: no such file or directory
+[2023-11-15T12:52:58.021658466Z][init.dns][I] eBPF loaded
+[2023-11-15T12:52:58.021697226Z][init.dns][I] pinned IP allowlist map to /sys/fs/bpf/allowed_map
+[2023-11-15T12:52:58.021711403Z][init.dns][I] pinned IP blocked_packets map to /sys/fs/bpf/blocked_packets
+[2023-11-15T12:52:58.021831438Z][init.dns][I] pinned IP allowlist trie to /sys/fs/bpf/allowed_trie
+[2023-11-15T12:52:58.021841778Z][init.dns][I] detected cgroup2 on /sys/fs/cgroup
+[2023-11-15T12:52:58.022193759Z][init.dns][I] applying policy to /sys/fs/cgroup/restricted
+[2023-11-15T12:52:58.022309116Z][init.dns][I] created /sys/fs/cgroup/restricted
+[2023-11-15T12:52:58.025698208Z][init.dns][I] attached eBPF to egress of cgroup /sys/fs/cgroup/restricted
+[2023-11-15T12:52:58.025719824Z][init.dns][I] pinned link to /sys/fs/bpf/link/restricted
+[2023-11-15T12:52:58.025727366Z][init.dns][I] detected cgroup2 on /sys/fs/cgroup
+[2023-11-15T12:52:58.025731144Z][init.dns][I] applying policy to /sys/fs/cgroup/docker/buildx
+[2023-11-15T12:52:58.025911009Z][init.dns][I] created /sys/fs/cgroup/docker/buildx
+[2023-11-15T12:52:58.026065200Z][init.dns][I] attached eBPF to egress of cgroup /sys/fs/cgroup/docker/buildx
+[2023-11-15T12:52:58.026267243Z][init.dns][I] pinned link to /sys/fs/bpf/link/buildx
+[2023-11-15T12:52:58.026842228Z][init.ipc][I] ipc.NewClient: c2a3d725-dns-forwarder ->  
+[2023-11-15T12:52:58.026901542Z][init.ipc][I] (9eb9ba87) c2a3d725-dns-forwarder C->S  GET /registry/access
+[2023-11-15T12:52:58.030844447Z][init.disk][I] /dev/vda has content. blkid returned: /dev/vda: PTUUID="474b5d80" PTTYPE="dos"
+[2023-11-15T12:52:58.036223243Z][init.disk][I] /dev/vdb has content. blkid returned: /dev/vdb: LABEL="linuxkit" UUID="a0ea429e-50df-47c4-83c8-aa7c4e457632" BLOCK_SIZE="4096" TYPE="erofs"
+[2023-11-15T12:52:58.037269431Z][init.disk][I] no disks require formatting
+[2023-11-15T12:52:58.039926528Z][init][I] eth0: dhcp[0/4] = DHCPv4(xid=0xa040390e hwaddr=52:54:00:12:34:56 msg_type=DISCOVER, your_ip=0.0.0.0, server_ip=0.0.0.0)
+[2023-11-15T12:52:58.040151095Z][init][I] eth0: dhcp[1/4] = DHCPv4(xid=0xa040390e hwaddr=52:54:00:12:34:56 msg_type=OFFER, your_ip=192.168.65.9, server_ip=192.168.65.2)
+[2023-11-15T12:52:58.040331392Z][init][I] eth0: dhcp[2/4] = DHCPv4(xid=0xa040390e hwaddr=52:54:00:12:34:56 msg_type=REQUEST, your_ip=0.0.0.0, server_ip=0.0.0.0)
+[2023-11-15T12:52:58.040492028Z][init][I] eth0: dhcp[3/4] = DHCPv4(xid=0xa040390e hwaddr=52:54:00:12:34:56 msg_type=ACK, your_ip=192.168.65.9, server_ip=192.168.65.2)
+[2023-11-15T12:52:58.045770245Z][init.disk][I] performing an initial fsck of ext4 /dev/vda1
+[2023-11-15T12:52:58.047714128Z][init][I] eth0: adding IP 192.168.65.9/24
+[2023-11-15T12:52:58.047796209Z][init][I] eth0: adding router 192.168.65.2
+[2023-11-15T12:52:58.047845840Z][init][I] eth0: adding default route via 192.168.65.2
+[2023-11-15T12:52:58.048047937Z][init][I] eth0: DHCPv4 IP is valid for 24h0m0s
+[2023-11-15T12:52:58.065654942Z][init.disk][I] initial fsck successful
+[2023-11-15T12:52:58.065704505Z][init.disk][I] No free space on device to extend partition
+[2023-11-15T12:52:58.067396708Z][init.disk][I] No partition table found on device /dev/vdb. Skipping.
+[2023-11-15T12:52:58.075207889Z][init.disk][I] No partition table found on device /dev/vdb. Skipping.
+[2023-11-15T12:52:58.094195147Z][init.disk][I] unused "vda" blkid property "PTUUID" in "PTUUID=\"474b5d80\" "
+[2023-11-15T12:52:58.094223060Z][init.disk][I] unused "vda" blkid property "PTTYPE" in "PTTYPE=\"dos\""
+[2023-11-15T12:52:58.096174689Z][init.disk][I] unused "vda1" blkid property "SIZE" in "SIZE=\"4096\" "
+[2023-11-15T12:52:58.096193991Z][init.disk][I] unused "vda1" blkid property "PARTUUID" in "PARTUUID=\"474b5d80-01\""
+[2023-11-15T12:52:58.097690889Z][init.disk][I] unused "vdb" blkid property "SIZE" in "SIZE=\"4096\" "
+[2023-11-15T12:53:00.020175631Z][init.socketforward][I] connecting to tcp+bootstrap+client://gateway.docker.internal:35411/b8eade98cbc688b9da420066b157fb02c08cc8eaa600ab1bc10eec8fdb316830...
+[2023-11-15T12:53:00.032954995Z][init.tcpbootstrap][I] connecting to 192.168.65.2:35411
+[2023-11-15T12:53:00.035547277Z][init.tcpbootstrap][I] connected to 192.168.65.2:35411
+[2023-11-15T12:53:00.036265011Z][init.tcpbootstrap][I] TCP keep-alives will be sent every 1m0s
+[2023-11-15T12:53:00.036529648Z][init.socketforward][I] connected
+[2023-11-15T12:53:00.037175706Z][init.socketforward][I] starting to forward dials
+[2023-11-15T12:53:00.037439937Z][init.socketforward][I] engine: vpnkit-data: publishing locally on /run/host-services/vpnkit-data.sock
+[2023-11-15T12:53:00.037962447Z][init.socketforward][I] engine: http-proxy: publishing locally on /run/host-services/http-proxy.sock
+[2023-11-15T12:53:00.038177137Z][init.socketforward][I] engine: http-proxy-restricted: publishing locally on /run/host-services/http-proxy-restricted.sock
+[2023-11-15T12:53:00.038363214Z][init.socketforward][I] engine: ntp: publishing locally on /run/host-services/ntp.udp.sock
+[2023-11-15T12:53:00.038590163Z][init.socketforward][I] engine: docker-proxy: publishing locally on /run/host-services/docker.proxy.sock
+[2023-11-15T12:53:00.039133221Z][init.socketforward][I] engine: filesystem: publishing locally on /run/host-services/filesystem.sock
+[2023-11-15T12:53:00.039186038Z][init.socketforward][I] engine: hubproxy: publishing locally on /run/host-services/hubproxy.sock
+[2023-11-15T12:53:00.039447112Z][init.socketforward][I] engine: network-proxy: publishing locally on /run/host-services/network-proxy.sock
+[2023-11-15T12:53:00.039665407Z][init.socketforward][I] engine: backend: publishing locally on /run/host-services/backend.sock
+[2023-11-15T12:53:00.039919197Z][init.socketforward][I] engine: dns.internal/grpc: publishing locally on /run/host-services/dns.internal.grpc.sock
+[2023-11-15T12:53:00.040130021Z][init.socketforward][I] engine: extensions: publishing locally on /run/host-services/extension-manager.sock
+[2023-11-15T12:53:00.040361072Z][init.socketforward][I] engine: backend-native: publishing locally on /run/host-services/backend.native.sock
+[2023-11-15T12:53:00.040593484Z][init.socketforward][I] engine: dns.system/grpc: publishing locally on /run/host-services/dns.system.grpc.sock
+[2023-11-15T12:53:00.041174412Z][init.socketforward][I] engine: /run/guest-services/lifecycle-server.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.041544664Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.041715236Z][init.socketforward][I] engine: /run/guest-services/lifecycle-server.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.041819780Z][init.socketforward][I] engine: /run/guest-services/otel-public.otlp.grpc.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.042129050Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.042311427Z][init.socketforward][I] engine: /run/guest-services/lifecycle-server.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.042469062Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.042717348Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.043057530Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.043109376Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.044515071Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:00.045059562Z][init.ipc][I] (8b713937) aae6987d-metadata C<-S 17b97c34-BackendAPI GET /vm/init (2.034441251s): {"Filesharing":{"Address":"unix:/run/host-services/filesystem.sock","HostOS":"linux","Mode":"virtiofs","Osxfs":{"Exports":["/home"],"OsxfsAddress":"u:/run/host-services/osxfs-data.sock","TransfusedAddress":"u:/run/guest-services/transfued.sock"},"OsxfsExports":null,"UserNsIDShift":"bool"},"IsWSL":false,"Kubernetes":{"CNIConf":{"10-default.conflist":"\n\t{\n\t\t\"cniVersion\": \"0.3.1\",\n\t\t\"name\": \"default\",\n\t\t\"plugins\": [\n\t\t\t{\n\t\t\t\"type\": \"bridge\",\n\t\t\t\"bridge\": \"cni0\",\n\t\t\t\"isDefaultGateway\": true,\n\t\t\t\"ipMasq\": true,\n\t\t\t\"hairpinMode\": true,\n\t\t\t\"ipam\": {\n\t\t\t\t\"type\": \"host-local\",\n\t\t\t\t\"subnet\": \"10.1.0.0/16\",\n\t\t\t\t\"gateway\": \"10.1.0.1\"\n\t\t\t},\n\t\t\t\"dns\": {\n\t\t\t\t\"nameservers\": [\"10.1.0.1\"]\n\t\t\t}\n\t\t\t},\n\t\t\t{\n\t\t\t\"type\": \"portmap\",\n\t\t\t\"capabilities\": {\n\t\t\t\t\"portMappings\": true\n\t\t\t},\n\t\t\t\"snat\": true\n\t\t\t}\n\t\t]\n\t}\n\t","99-loopback.conf":"\n\t{\n\t\t\"cniVersion\": \"0.2.0\",\n\t\t\"type\": \"loopback\"\n\t}"},"Enabled":false,"ImagesRepository":""},"Network":{"Docker":"192.168.65.9","DockerRoot":"192.168.65.5","Eth0":{"Address":"192.168.65.9/24","Gateway":"192.168.65.1","MTU":1500},"Host":"192.168.65.2","Interfaces":"auto eth0\niface eth0 inet static\n\t\taddress 192.168.65.9\n\t\tnetmask 255.255.255.128\n\t\tgateway 192.168.65.1\n\t\tbroadcast 192.168.65.255","MTU":1500,"ResolvConf":"# DNS requests are forwarded to the host. DHCP DNS options are ignored.\nnameserver 192.168.65.7\n ","Services":"192.168.65.7","ServicesRoot":"192.168.65.6","Type":"qemu","VpnkitCIDR":"1...4"},"Rosetta":{"enabled":false,"preserveArgv0":false},"SOCKSPort":0,"SwapSizeMiB":1024,"Telemetry":{"BackendSocketPath":"/run/host-services/backend.sock","DesktopEnabled":false,"LifecycleServerPath":"/run/guest-services/lifecycle-server.sock","UserID":"3...0"}}
+Ran init in 2.117411077s
+[2023-11-15T12:53:00.067302330Z][init][I] Running 015-grpcfuse, 020-containerd
+[2023-11-15T12:53:00.067410256Z][init][I] Running /etc/init.d/015-grpcfuse
+[2023-11-15T12:53:00.045302905Z][init.ipc][I] (9eb9ba87) c2a3d725-dns-forwarder C<-S 17b97c34-BackendAPI GET /registry/access (2.018281354s): {"allowed":[{"DNS":"","IP":{"IP":"0.0.0.0","Mask":"AAAAAA=="},"Type":1,"value":"0.0.0.0/0"},{"DNS":".","IP":{"IP":"","Mask":null},"Type":3,"value":"."},{"DNS":"","IP":{"IP":"10.0.0.0","Mask":"/wAAAA=="},"Type":1,"value":"10.0.0.0/8"},{"DNS":"","IP":{"IP":"172.16.0.0","Mask":"//AAAA=="},"Type":1,"value":"172.16.0.0/12"},{"DNS":"","IP":{"IP":"192.168.0.0","Mask":"//8AAA=="},"Type":1,"value":"192.168.0.0/16"},{"DNS":"","IP":{"IP":"127.0.0.0","Mask":"/wAAAA=="},"Type":1,"value":"127.0.0.0/8"}],"enabled":false,"refresh_after":"0001-01-01T00:00:00Z","refresh_grace_period_ends":"0001-01-01T00:00:00Z","refresh_grace_period_interval":0}
+[2023-11-15T12:53:00.067667667Z][init.socketforward][I] adding listener for virtual address: /run/guest-services/dns-forwarder.sock
+[2023-11-15T12:53:00.067802172Z][init][I] host.docker.internal will use eth0
+[2023-11-15T12:53:00.067839533Z][init.ipc][I] run (with context) abb8eb15-dns-forwarder for component dns-forwarder on /run/guest-services/dns-forwarder.sock
+⇨ http server started on [32m/run/guest-services/dns-forwarder.sock[0m
+[2023-11-15T12:53:00.068155440Z][init.disk][I] swap file has correct size 1073741824 and is not sparse
+[2023-11-15T12:53:00.067939285Z][init][I] default route for all other traffic is via eth0
+[2023-11-15T12:53:00.092240143Z][init][I] Ran /etc/init.d/015-grpcfuse in 24.855842ms
+[2023-11-15T12:53:00.092367753Z][init][I] Running /etc/init.d/020-containerd
+[2023-11-15T12:53:00.118058596Z][020-containerd][I] 
+[2023-11-15T12:53:00.184655132Z][020-containerd.service][I] Cleaning up stale service: 01-docker, acpid, artifactory, binfmt, container-filesystem, devenv-service, diagnosticsd, oom-tracer, otel-collector, sntpc, socks, trim-after-delete, volume-contents, vpnkit-forwarder
+[2023-11-15T12:53:00.389627827Z][020-containerd.service][I] Started 01-docker in 86.362438ms
+[2023-11-15T12:53:01.000852114Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: successfully connected after 393.708706ms
+[2023-11-15T12:53:01.000871558Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: successfully connected after 393.781241ms
+[2023-11-15T12:53:01.001500622Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: successfully connected after 395.341555ms
+[2023-11-15T12:53:01.001503238Z][init.socketforward][I] engine: /run/guest-services/lifecycle-server.sock: successfully connected after 395.17048ms
+[2023-11-15T12:53:01.001588707Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: successfully connected after 395.096105ms
+[2023-11-15T12:53:01.001737388Z][init.socketforward][I] engine: /run/guest-services/lifecycle-server.sock: successfully connected after 396.542371ms
+[2023-11-15T12:53:01.000873950Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: successfully connected after 392.32598ms
+[2023-11-15T12:53:01.001735658Z][init.socketforward][I] engine: /run/guest-services/lifecycle-server.sock: successfully connected after 395.990806ms
+[2023-11-15T12:53:01.001737795Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: successfully connected after 394.999872ms
+[2023-11-15T12:53:01.001756352Z][init.socketforward][I] engine: /run/guest-services/docker.proxy.sock: successfully connected after 396.181467ms
+[2023-11-15T12:53:02.035566224Z][020-containerd.service][I] Started acpid in 80.77111ms
+[2023-11-15T12:53:02.073860619Z][020-containerd.service][I] Started artifactory in 38.218188ms
+[2023-11-15T12:53:02.098353887Z][020-containerd.service][I] Started binfmt in 24.199628ms
+[2023-11-15T12:53:02.122570143Z][020-containerd.service][I] Started container-filesystem in 24.161473ms
+[2023-11-15T12:53:02.142355435Z][init.socketforward][I] engine: /run/guest-services/otel-public.otlp.grpc.sock: does not exist yet, waiting for it to be created
+[2023-11-15T12:53:02.146554412Z][020-containerd.service][I] Started devenv-service in 23.927062ms
+[2023-11-15T12:53:02.172775877Z][020-containerd.service][I] Started diagnosticsd in 26.174529ms
+[2023-11-15T12:53:02.198713166Z][020-containerd.service][I] Started oom-tracer in 25.87924ms
+[2023-11-15T12:53:02.223515302Z][020-containerd.service][I] Started otel-collector in 24.755017ms
+[2023-11-15T12:53:02.249458800Z][020-containerd.service][I] Started sntpc in 25.900811ms
+[2023-11-15T12:53:02.439729261Z][020-containerd.service][I] Started socks in 25.91069ms
+[2023-11-15T12:53:02.459515642Z][init.socketforward][I] engine: /run/guest-services/otel-public.otlp.grpc.sock: successfully connected after 1.689338989s
+[2023-11-15T12:53:02.469573096Z][020-containerd.service][I] Started trim-after-delete in 29.784299ms
+[2023-11-15T12:53:02.494635483Z][020-containerd.service][I] Started volume-contents in 25.006996ms
+[2023-11-15T12:53:02.517429461Z][020-containerd.service][I] Started vpnkit-forwarder in 22.739257ms
+[2023-11-15T12:53:02.518353848Z][init][I] Ran /etc/init.d/020-containerd in 1.697708015s
+[2023-11-15T12:53:07.135431546Z][init][I] 192.168.65.7:3128 -> http-proxy-restricted: streaming
+[2023-11-15T12:53:07.135662245Z][init][I] 192.168.65.7:3128 -> http-proxy-restricted: streaming
+[2023-11-15T12:53:07.136780738Z][init][I] 192.168.65.7:3128 -> http-proxy-restricted: OK
+[2023-11-15T12:53:07.136878971Z][init][I] 192.168.65.7:3128 -> http-proxy-restricted: OK
+[2023-11-15T12:59:02.581218792Z][init.ipc][I] (2fe1a373) f0d7d179-procd S<-C de3a8336-PauseHDL GET /ping
+[2023-11-15T12:59:02.581316246Z][init.ipc][I] (2fe1a373) f0d7d179-procd S->C de3a8336-PauseHDL GET /ping (100.179µs): {"serverTime":1700053142581270000}
+[2023-11-15T12:59:02.582035402Z][init.ipc][I] (be9a4dd0) f0d7d179-procd S<-C de3a8336-PauseHDL POST /unpause
+[2023-11-15T12:59:02.582111846Z][init][I] unpausing
+[2023-11-15T12:59:02.582251680Z][init][I] unpause successful
+[2023-11-15T12:59:02.582396055Z][init.ipc][I] (be9a4dd0) f0d7d179-procd S->C de3a8336-PauseHDL POST /unpause (363.145µs): OK
+[2023-11-15T12:59:02.582561074Z][init.ipcstream][I] f0d7d179-procd /pause/events --> [2023-11-15T12:59:02.582109329Z] (8197c760) pause resuming : Docker Desktop is resuming...
+[2023-11-15T12:59:02.582676107Z][init.ipcstream][I] f0d7d179-procd /pause/events --> [2023-11-15T12:59:02.582388325Z] (2505a245) pause resumed : Docker Desktop is running
+[2023-11-15T12:59:07.653288811Z][init][I] killing /usr/bin/containerd (pid 473)
+[2023-11-15T12:59:07.653379267Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 502)
+[2023-11-15T12:59:07.653430073Z][init][I] killing /usr/libexec/docker/docker-init (pid 514)
+[2023-11-15T12:59:07.653516389Z][init][I] killing /usr/bin/bash (pid 517)
+[2023-11-15T12:59:07.653616127Z][init][I] killing /usr/bin/lifecycle-server (pid 520)
+[2023-11-15T12:59:07.653700360Z][init][I] killing /usr/sbin/rpcbind (pid 558)
+[2023-11-15T12:59:07.653739651Z][init][I] reaped pid 517
+[2023-11-15T12:59:07.653950751Z][init][I] killing /usr/sbin/rpc.statd (pid 575)
+[2023-11-15T12:59:07.653967773Z][init][I] reaped pid 502
+[2023-11-15T12:59:07.654130940Z][init][I] reaped pid 514
+[2023-11-15T12:59:07.654140322Z][init][I] reaped pid 558
+[2023-11-15T12:59:07.654136139Z][init][I] killing /usr/sbin/rpc.idmapd (pid 599)
+[2023-11-15T12:59:07.654304619Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 607)
+[2023-11-15T12:59:07.654311500Z][init][I] reaped pid 575
+[2023-11-15T12:59:07.654520053Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 630)
+[2023-11-15T12:59:07.654713011Z][init][I] killing /artifactory-agent (pid 641)
+[2023-11-15T12:59:07.654733632Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 654)
+[2023-11-15T12:59:07.654775329Z][init][I] reaped pid 520
+[2023-11-15T12:59:07.654777057Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 686)
+[2023-11-15T12:59:07.655276886Z][init][I] reaped pid 654
+[2023-11-15T12:59:07.655294395Z][init][I] killing /usr/bin/container-filesystem (pid 704)
+[2023-11-15T12:59:07.655527743Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 736)
+[2023-11-15T12:59:07.655809232Z][init][I] killing /devenv-server (pid 751)
+[2023-11-15T12:59:07.656268353Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 779)
+[2023-11-15T12:59:07.656610759Z][init][I] killing /usr/local/bin/diagnosticsd (pid 789)
+[2023-11-15T12:59:07.656914140Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 810)
+[2023-11-15T12:59:07.657263808Z][init][I] killing /oom-tracer (pid 827)
+[2023-11-15T12:59:07.657598861Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 847)
+[2023-11-15T12:59:07.657897523Z][init][I] killing /otelcol-docker-desktop (pid 857)
+[2023-11-15T12:59:07.658183707Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 879)
+[2023-11-15T12:59:07.658582713Z][init][I] killing /start (pid 890)
+[2023-11-15T12:59:07.658858023Z][init][I] killing /usr/sbin/sntpc (pid 900)
+[2023-11-15T12:59:07.659289833Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 915)
+[2023-11-15T12:59:07.659636415Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 953)
+[2023-11-15T12:59:07.659894694Z][init][I] killing /usr/bin/trim-after-delete (pid 964)
+[2023-11-15T12:59:07.660075258Z][init][I] reaped pid 473
+[2023-11-15T12:59:07.660296552Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 978)
+[2023-11-15T12:59:07.660640682Z][init][I] reaped pid 607
+[2023-11-15T12:59:07.660946273Z][init][I] reaped pid 630
+[2023-11-15T12:59:07.661695107Z][init][I] reaped pid 686
+[2023-11-15T12:59:07.661202768Z][init][I] killing /usr/bin/volume-contents (pid 988)
+[2023-11-15T12:59:07.662230774Z][init][I] reaped pid 736
+[2023-11-15T12:59:07.662428258Z][init][I] reaped pid 779
+[2023-11-15T12:59:07.662520217Z][init][I] killing /usr/bin/containerd-shim-runc-v2 (pid 1008)
+[2023-11-15T12:59:07.662670241Z][init][I] reaped pid 810
+[2023-11-15T12:59:07.662740872Z][init][I] killing /usr/bin/vpnkit-forwarder (pid 1019)
+[2023-11-15T12:59:07.663202983Z][init][I] reaped pid 847
+[2023-11-15T12:59:07.663266944Z][init][I] killing /usr/bin/containerd (pid 1047)
+[2023-11-15T12:59:07.663510531Z][init][I] reaped pid 879
+[2023-11-15T12:59:07.663533512Z][init][I] reaped pid 915
+[2023-11-15T12:59:07.663560547Z][init][I] reaped pid 599
+[2023-11-15T12:59:07.666101352Z][init][I] reaped pid 953
+[2023-11-15T12:59:07.670068395Z][init][I] reaped pid 978
+[2023-11-15T12:59:07.670141258Z][init][I] reaped pid 1008
+[2023-11-15T12:59:07.675093342Z][init][I] all processes have shutdown
+[2023-11-15T12:59:07.685673556Z][init][I] reaped pid 641
+[2023-11-15T12:59:07.685792622Z][init][I] reaped pid 890
+[2023-11-15T12:59:07.685837034Z][init][I] reaped pid 751
+[2023-11-15T12:59:07.686030149Z][init][I] reaped pid 789
+[2023-11-15T12:59:07.686103825Z][init][I] reaped pid 704
+[2023-11-15T12:59:07.686185055Z][init][I] reaped pid 988
+[2023-11-15T12:59:07.686266485Z][init][I] reaped pid 964
+[2023-11-15T12:59:07.686348569Z][init][I] reaped pid 1019
+[2023-11-15T12:59:07.689204973Z][init][I] reaped pid 857
+[2023-11-15T12:59:07.689904696Z][init][I] reaped pid 1047
+[2023-11-15T12:59:07.705059651Z][init][I] disks synced
+[2023-11-15T12:59:07.705298391Z][init][I] error unmounting /var/lib: device or resource busy
+[2023-11-15T12:59:07.706931409Z][init][I] unmounted /containers/services/01-docker<HOME>fs
+[2023-11-15T12:59:07.707504359Z][init][I] unmounted /var/lib/wasm/runtimes
+[2023-11-15T12:59:07.707952087Z][init][I] unmounted /containers/services/acpid<HOME>fs
+[2023-11-15T12:59:07.708478122Z][init][I] unmounted /containers/services/artifactory<HOME>fs
+[2023-11-15T12:59:07.709018735Z][init][I] unmounted /containers/services/binfmt<HOME>fs
+[2023-11-15T12:59:07.709536179Z][init][I] unmounted /containers/services/container-filesystem<HOME>fs
+[2023-11-15T12:59:07.710135182Z][init][I] unmounted /containers/services/devenv-service<HOME>fs
+[2023-11-15T12:59:07.710704480Z][init][I] unmounted /containers/services/diagnosticsd<HOME>fs
+[2023-11-15T12:59:07.711238634Z][init][I] unmounted /containers/services/oom-tracer<HOME>fs
+[2023-11-15T12:59:07.711769258Z][init][I] unmounted /containers/services/otel-collector<HOME>fs
+[2023-11-15T12:59:07.712339848Z][init][I] unmounted /containers/services/sntpc<HOME>fs
+[2023-11-15T12:59:07.712864695Z][init][I] unmounted /containers/services/socks<HOME>fs
+[2023-11-15T12:59:07.713366459Z][init][I] unmounted /containers/services/trim-after-delete<HOME>fs
+[2023-11-15T12:59:07.713957492Z][init][I] unmounted /containers/services/volume-contents<HOME>fs
+[2023-11-15T12:59:07.714524441Z][init][I] unmounted /containers/services/vpnkit-forwarder<HOME>fs
+[2023-11-15T12:59:07.719054787Z][init][I] reaped pid 827
+[2023-11-15T12:5
